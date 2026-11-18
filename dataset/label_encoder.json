@@ -1,0 +1,15 @@
+{
+  "classes": [
+    "Pain Relief",
+    "Cold & Flu",
+    "Allergy",
+    "Hypertension",
+    "Diabetes Type 2",
+    "Infection",
+    "Gastroesophageal Reflux",
+    "Asthma",
+    "Depression",
+    "Arthritis"
+  ],
+  "num_classes": 10
+}

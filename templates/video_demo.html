@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MedLink AI - Video Call Demo</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            background: #000;
+            color: #fff;
+            font-family: 'Inter', sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        .video-container {
+            width: 80%;
+            height: 70%;
+            background: #111;
+            border: 2px solid #333;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+        .controls {
+            margin-top: 20px;
+            display: flex;
+            gap: 15px;
+        }
+        button {
+            padding: 12px 24px;
+            border-radius: 8px;
+            border: none;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+        }
+        .btn-end {
+            background: #ef4444;
+            color: white;
+        }
+        .btn-end:hover {
+            background: #dc2626;
+        }
+        .watermark {
+            position: absolute;
+            bottom: 20px;
+            right: 20px;
+            opacity: 0.5;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <h2>Secure Video Consultation</h2>
+    <p>Room ID: <span id="roomIdDisplay"></span></p>
+    
+    <div class="video-container">
+        <!-- Placeholder for WebRTC stream -->
+        <p style="color: #666;">(Video Stream Placeholder - Waiting for patient...)</p>
+        <div class="watermark">MedLink AI Secure WebRTC</div>
+    </div>
+
+    <div class="controls">
+        <button class="btn-end" onclick="endCall()">End Call & Write Notes</button>
+    </div>
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const roomId = urlParams.get('room');
+        document.getElementById('roomIdDisplay').innerText = roomId || 'N/A';
+
+        function endCall() {
+            // Update status to completed
+            fetch('/api/waiting-room/status', {
+                method: 'PATCH',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ waiting_room_id: roomId, status: 'completed' })
+            }).then(() => {
+                alert("Call ended. Proceeding to post-consultation notes.");
+                window.close(); // Closes the tab if allowed, otherwise user can navigate away
+            });
+        }
+    </script>
+</body>
+</html>

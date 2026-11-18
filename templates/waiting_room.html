@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MedLink AI - Waiting Room</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/waiting_room.css">
+</head>
+<body>
+    <div class="dashboard">
+        <header>
+            <div class="logo">
+                <h1>MedLink <span>AI</span></h1>
+            </div>
+            <nav>
+                <a href="/">Home</a>
+                <a href="/waiting_room" class="active">Waiting Room</a>
+            </nav>
+            <div class="user-profile">
+                <span>Dr. Online</span>
+            </div>
+        </header>
+
+        <main>
+            <section class="queue-header">
+                <h2>Patient Queue</h2>
+                <div class="queue-stats">
+                    <div class="stat-card">
+                        <span id="waitingCount">0</span>
+                        <p>Waiting</p>
+                    </div>
+                    <div class="stat-card alert">
+                        <span id="urgentCount">0</span>
+                        <p>Urgent</p>
+                    </div>
+                </div>
+            </section>
+
+            <section class="queue-table-container">
+                <table class="queue-table">
+                    <thead>
+                        <tr>
+                            <th>Patient Name</th>
+                            <th>Risk Level</th>
+                            <th>Wait Time</th>
+                            <th>Status</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody id="queueBody">
+                        <!-- Rows injected via JS -->
+                        <tr>
+                            <td colspan="5" style="text-align: center; color: #888;">Loading queue...</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </section>
+        </main>
+    </div>
+
+    <script>
+        function fetchQueue() {
+            fetch('/api/waiting-room/queue')
+                .then(response => response.json())
+                .then(data => {
+                    const tbody = document.getElementById('queueBody');
+                    tbody.innerHTML = '';
+                    
+                    let waitingCount = 0;
+                    let urgentCount = 0;
+
+                    if (data.length === 0) {
+                        tbody.innerHTML = '<tr><td colspan="5" style="text-align: center; color: #888;">No patients in queue</td></tr>';
+                        document.getElementById('waitingCount').innerText = 0;
+                        document.getElementById('urgentCount').innerText = 0;
+                        return;
+                    }
+
+                    data.forEach(patient => {
+                        if (patient.status === 'waiting') waitingCount++;
+                        if (patient.risk_badge === 'high') urgentCount++;
+
+                        const tr = document.createElement('tr');
+                        
+                        // Patient Name with Child Safety Alert
+                        let nameHtml = `<strong>${patient.patient_user_name || 'Unknown'}</strong>`;
+                        if (patient.family_member_name && patient.family_member_name !== patient.patient_user_name) {
+                            nameHtml += `<br><small>For: ${patient.family_member_name}</small>`;
+                        }
+                        if (patient.child_safety_alert === 1) {
+                            nameHtml += ` <span class="badge pediatric-alert">🚨 Pediatric Emergency</span>`;
+                        }
+
+                        // Risk Badge
+                        let badgeClass = '';
+                        if (patient.risk_badge === 'high') badgeClass = 'badge-danger';
+                        else if (patient.risk_badge === 'medium') badgeClass = 'badge-warning';
+                        else badgeClass = 'badge-success';
+
+                        let statusClass = patient.status === 'waiting' ? 'status-waiting' : 'status-incall';
+
+                        // Calculate Wait Time
+                        const createdDate = new Date(patient.created_at + ' UTC');
+                        const now = new Date();
+                        const diffMins = Math.floor((now - createdDate) / 60000);
+                        let waitText = diffMins < 1 ? 'Just now' : `${diffMins} min`;
+
+                        tr.innerHTML = `
+                            <td>${nameHtml}</td>
+                            <td><span class="badge ${badgeClass}">${patient.risk_level.toUpperCase()}</span></td>
+                            <td>${waitText}</td>
+                            <td><span class="status-dot ${statusClass}"></span> ${patient.status}</td>
+                            <td>
+                                <button class="btn-primary" onclick="startCall('${patient.id}')" ${patient.status === 'in_call' ? 'disabled' : ''}>
+                                    ${patient.status === 'in_call' ? 'In Call' : 'Start Video Call'}
+                                </button>
+                            </td>
+                        `;
+                        tbody.appendChild(tr);
+                    });
+
+                    document.getElementById('waitingCount').innerText = waitingCount;
+                    document.getElementById('urgentCount').innerText = urgentCount;
+                })
+                .catch(err => console.error("Error fetching queue:", err));
+        }
+
+        function startCall(waitingRoomId) {
+            fetch(`/api/video/start/${waitingRoomId}`)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.video_url) {
+                        window.open(data.video_url, '_blank');
+                        fetchQueue(); // refresh immediately
+                    }
+                })
+                .catch(err => console.error("Error starting call:", err));
+        }
+
+        // Poll every 5 seconds
+        setInterval(fetchQueue, 5000);
+        // Initial fetch
+        fetchQueue();
+    </script>
+</body>
+</html>

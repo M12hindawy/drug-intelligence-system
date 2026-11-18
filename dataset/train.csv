@@ -1,0 +1,1048 @@
+id,symptoms_clean,labels,drug_name,condition,symptoms_len
+DRUG_01147,shortness breath chest tightness palpitation wheezing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,53
+DRUG_00573,blurred vision weakness fatigue excessive thirst recurrent infections,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Gliclazide 80mg,Diabetes Type 2,69
+DRUG_01038,weight loss dry mouth blurred vision slow healing excessive thirst fatigue,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,74
+DRUG_00333,numbness fatigue excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,33
+DRUG_00378,insomnia rash headache dizziness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,32
+DRUG_00543,cough sore throat sneezing nausea headache,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,42
+DRUG_00272,discharge fever bloating rash pain redness,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,42
+DRUG_00901,runny nose sneezing watery eyes chest tightness throat irritation congestion,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fexofenadine 120mg,Allergy,76
+DRUG_00760,swelling watery eyes runny nose,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,31
+DRUG_01315,loss appetite palpitation fatigue weight loss insomnia headache,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,63
+DRUG_00180,congestion hives rash cough itching,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fexofenadine 120mg,Allergy,35
+DRUG_01352,fatigue insomnia palpitation dry mouth,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,38
+DRUG_00228,swelling loss appetite fatigue rash chills pain,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,47
+DRUG_00925,chest pain bloating nausea loss appetite,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,40
+DRUG_00871,anxiety palpitation headache,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,28
+DRUG_01293,watery eyes skin irritation hives rash congestion,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,49
+DRUG_00683,inflammation fever back pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,28
+DRUG_01109,tenderness joint pain difficulty moving stiffness inflammation redness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,70
+DRUG_00262,rash weakness swelling discharge palpitation fatigue,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,52
+DRUG_00624,weakness palpitation insomnia anxiety headache fatigue,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,54
+DRUG_00982,anxiety dizziness chest tightness palpitation,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,45
+DRUG_00810,cough fever swelling,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,20
+DRUG_00357,cough shortness breath palpitation,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,34
+DRUG_00157,swelling difficulty moving stiffness joint pain tenderness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,58
+DRUG_01097,nausea headache pain muscle ache,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,32
+DRUG_00645,chest tightness nausea sneezing palpitation dizziness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,53
+DRUG_00579,nausea dizziness swelling fatigue weakness chills fever,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,55
+DRUG_00363,inflammation dizziness swelling chest tightness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,47
+DRUG_00942,palpitation cough wheezing difficulty breathing fatigue,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,55
+DRUG_00214,runny nose itching inflammation congestion throat irritation,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,60
+DRUG_00733,fatigue pain tenderness dizziness headache,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,42
+DRUG_01067,fever tenderness swelling redness joint pain inflammation,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,57
+DRUG_00493,cough fever swelling,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,20
+DRUG_01360,stiffness weakness swelling redness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,35
+DRUG_00077,nausea burping sour taste headache chest pain heartburn,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,55
+DRUG_00554,loss appetite headache palpitation insomnia weight loss,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,55
+DRUG_01215,hives swelling throat irritation itching watery eyes,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,52
+DRUG_00586,pain fatigue redness nausea,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,27
+DRUG_00328,anxiety chest tightness headache blurred vision insomnia dizziness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,66
+DRUG_01102,stiffness inflammation tenderness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,33
+DRUG_00772,chest tightness palpitation cough fatigue difficulty breathing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,62
+DRUG_01182,joint pain swelling loss appetite weakness inflammation fever,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,61
+DRUG_00518,cough sneezing headache nausea fatigue,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,38
+DRUG_01107,sour taste chest pain heartburn nausea,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,38
+DRUG_00110,watery eyes fatigue itching congestion,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,38
+DRUG_01493,frequent urination fatigue weight loss slow healing,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Gliclazide 80mg,Diabetes Type 2,51
+DRUG_00161,cough watery eyes hives itching skin irritation,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,47
+DRUG_00115,excessive thirst fatigue weight loss slow healing,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,49
+DRUG_00674,inflammation fever joint pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,29
+DRUG_00598,shortness breath itching excessive thirst frequent urination fatigue,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,68
+DRUG_00917,weight loss blurred vision recurrent infections dry mouth excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,74
+DRUG_00174,fatigue chest tightness shortness breath difficulty breathing wheezing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,70
+DRUG_00745,chest pain sore throat cough difficulty swallowing sneezing nausea,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,66
+DRUG_00740,weakness itching excessive thirst blurred vision numbness fatigue,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,65
+DRUG_00061,stiffness tenderness swelling joint pain,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,40
+DRUG_00552,difficulty swallowing loss appetite chest pain sore throat nausea,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,65
+DRUG_01054,dizziness anxiety palpitation shortness breath fatigue,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Losartan 50mg,Hypertension,54
+DRUG_00764,fatigue weakness stiffness swelling inflammation,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,48
+DRUG_00534,heartburn loss appetite chest pain,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,34
+DRUG_01385,watery eyes sneezing hives,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,26
+DRUG_00248,fatigue excessive thirst frequent urination weakness,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,52
+DRUG_00412,anxiety dizziness insomnia headache,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,35
+DRUG_01251,frequent urination itching blurred vision,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,41
+DRUG_00526,swelling itching watery eyes cough,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,34
+DRUG_00728,headache fever cough chills congestion,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,38
+DRUG_01128,pain swelling fatigue discharge weakness,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,40
+DRUG_00702,headache fatigue palpitation swelling chest tightness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,53
+DRUG_01238,throat irritation watery eyes itching runny nose,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,48
+DRUG_01137,redness fever inflammation stiffness joint pain,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,47
+DRUG_00639,cough shortness breath wheezing anxiety,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,39
+DRUG_01483,slow healing frequent urination fatigue,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,39
+DRUG_00837,inflammation joint pain fatigue,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,31
+DRUG_00844,tenderness pain fever headache,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,30
+DRUG_00370,excessive thirst dry mouth slow healing blurred vision,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,54
+DRUG_00954,loss appetite stiffness fever weakness joint pain,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,49
+DRUG_00816,watery eyes rash cough,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fexofenadine 120mg,Allergy,22
+DRUG_00344,inflammation stiffness fever headache,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,37
+DRUG_00646,weakness headache fever fatigue sore throat cough,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,49
+DRUG_00878,congestion cough headache sore throat body ache runny nose,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,58
+DRUG_00710,anxiety dry mouth weakness fatigue loss appetite headache,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,57
+DRUG_01386,palpitation anxiety dizziness chest tightness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Losartan 50mg,Hypertension,45
+DRUG_01423,fatigue discharge redness,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,25
+DRUG_00102,inflammation fatigue weakness stiffness swelling,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,48
+DRUG_00293,fever back pain nausea inflammation headache,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,44
+DRUG_01301,runny nose itching sneezing throat irritation cough hives,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fexofenadine 120mg,Allergy,57
+DRUG_01113,chest pain nausea burping,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,25
+DRUG_00345,cough palpitation wheezing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,26
+DRUG_00506,swelling itching anxiety rash watery eyes,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fexofenadine 120mg,Allergy,41
+DRUG_01269,joint pain insomnia low energy headache anxiety,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,47
+DRUG_00926,chest pain nausea cough bloating sore throat,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,44
+DRUG_00530,sore throat fever nausea headache body ache congestion,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,54
+DRUG_00815,sneezing fever nausea sore throat congestion,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,44
+DRUG_00700,fatigue shortness breath fever wheezing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,39
+DRUG_00738,throat irritation hives sneezing skin irritation watery eyes,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,60
+DRUG_00454,heartburn sore throat nausea chest pain,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,39
+DRUG_00005,palpitation dry mouth itching fatigue blurred vision numbness,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,61
+DRUG_00032,cough congestion body ache weakness fatigue,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,43
+DRUG_00453,headache insomnia anxiety loss appetite,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,39
+DRUG_00846,bloating cough heartburn difficulty swallowing loss appetite redness nausea,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,75
+DRUG_01010,anxiety fatigue palpitation,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,27
+DRUG_01019,fatigue anxiety low energy loss appetite,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,40
+DRUG_00714,insomnia excessive thirst fatigue anxiety dry mouth,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,51
+DRUG_00311,cough chest tightness exercise intolerance wheezing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,51
+DRUG_00964,dry mouth anxiety weakness fatigue,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,34
+DRUG_00791,insomnia weight loss dry mouth anxiety,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,38
+DRUG_00486,low energy dizziness anxiety insomnia loss appetite dry mouth,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,61
+DRUG_00275,nausea bloating chest pain sore throat,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,38
+DRUG_00741,shortness breath difficulty breathing chest tightness palpitation,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,65
+DRUG_01129,headache pain muscle ache inflammation dizziness,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,48
+DRUG_01291,fatigue numbness weight loss blurred vision dry mouth frequent urination,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,72
+DRUG_00636,chest tightness blurred vision nausea dizziness palpitation insomnia,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,68
+DRUG_01389,sore throat redness fever swelling discharge rash,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,49
+DRUG_00240,fatigue pain discharge redness loss appetite,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,44
+DRUG_00112,loss appetite palpitation anxiety insomnia,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,42
+DRUG_00184,headache inflammation fever nausea,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,34
+DRUG_00244,anxiety headache loss appetite insomnia,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,39
+DRUG_00118,nausea burping sour taste cough heartburn chest pain,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,52
+DRUG_00143,loss appetite sour taste nausea difficulty swallowing chest pain bloating,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,73
+DRUG_00768,tenderness inflammation dizziness back pain fever,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,49
+DRUG_01259,weakness fatigue stiffness fever swelling inflammation,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,54
+DRUG_01427,recurrent infections excessive thirst blurred vision numbness slow healing,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,74
+DRUG_00521,dry mouth anxiety palpitation weakness insomnia,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,47
+DRUG_01065,pain itching congestion rash,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,28
+DRUG_00769,frequent urination blurred vision dry mouth excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,60
+DRUG_00972,cough bloating chest pain loss appetite,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,39
+DRUG_00234,headache shortness breath chest tightness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,41
+DRUG_00415,weakness frequent urination itching blurred vision fatigue recurrent infections,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Gliclazide 80mg,Diabetes Type 2,79
+DRUG_01195,sour taste sore throat difficulty swallowing loss appetite nausea heartburn chest pain,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,86
+DRUG_00825,wheezing cough shortness breath exercise intolerance,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,52
+DRUG_01141,fatigue weakness low energy insomnia,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,36
+DRUG_00752,loss appetite fatigue itching insomnia headache dizziness,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,57
+DRUG_01284,blurred vision palpitation headache fatigue swelling,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,52
+DRUG_01062,frequent urination blurred vision weight loss itching,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,53
+DRUG_00291,frequent urination pain fever weakness fatigue,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,46
+DRUG_00544,nausea headache watery eyes pain muscle ache inflammation,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,57
+DRUG_01376,redness nausea fever cough fatigue headache,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,43
+DRUG_00376,headache blurred vision dizziness swelling shortness breath,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,59
+DRUG_00288,watery eyes throat irritation runny nose,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,40
+DRUG_00346,rash itching throat irritation skin irritation,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,46
+DRUG_00216,fever weakness body ache cough fatigue nausea,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,45
+DRUG_00716,shortness breath wheezing difficulty breathing chest tightness fatigue,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,70
+DRUG_00064,headache chest tightness dizziness insomnia fatigue blurred vision,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,66
+DRUG_00970,dizziness headache anxiety insomnia fatigue,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,43
+DRUG_01327,swelling fatigue cough,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,22
+DRUG_01304,joint pain tenderness stiffness redness cough difficulty moving,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,63
+DRUG_01048,throat irritation skin irritation itching watery eyes swelling,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,62
+DRUG_00302,watery eyes rash congestion,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,27
+DRUG_00382,muscle ache fever nausea inflammation pain tenderness,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,53
+DRUG_00221,frequent urination itching excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,43
+DRUG_01421,anxiety insomnia fatigue headache,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,33
+DRUG_00082,fatigue anxiety low energy insomnia cough,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,41
+DRUG_00270,dizziness loss appetite headache insomnia weakness fatigue,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,58
+DRUG_00891,anxiety weight loss loss appetite palpitation weakness,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,54
+DRUG_00130,swelling cough loss appetite redness discharge,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,46
+DRUG_00277,cough wheezing insomnia shortness breath,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,40
+DRUG_01339,pain nausea fever,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,17
+DRUG_01020,nausea chest pain burping,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,25
+DRUG_01478,fatigue palpitation anxiety insomnia headache,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,45
+DRUG_01088,fatigue low energy anxiety weakness,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,35
+DRUG_00093,wheezing anxiety cough difficulty breathing exercise intolerance,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,64
+DRUG_00202,inflammation redness tenderness loss appetite stiffness swelling,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,64
+DRUG_01276,fever cough pain fatigue,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,24
+DRUG_01410,fatigue fever pain headache,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,27
+DRUG_01160,sore throat chest pain nausea bloating,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,38
+DRUG_01306,chills headache fever congestion runny nose,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,43
+DRUG_00467,fever swelling discharge nausea pain,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,36
+DRUG_00068,bloating nausea chest pain loss appetite,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,40
+DRUG_00933,palpitation insomnia headache chest tightness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,45
+DRUG_00441,sneezing chest tightness swelling watery eyes cough skin irritation,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,67
+DRUG_00167,stiffness swelling fatigue fever,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,32
+DRUG_00961,sneezing bloating watery eyes cough hives,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,41
+DRUG_00371,swelling wheezing insomnia chest tightness difficulty breathing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,63
+DRUG_00031,dizziness stiffness anxiety headache fatigue,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,44
+DRUG_01173,chills fatigue fever sore throat insomnia,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,41
+DRUG_01018,discharge chills cough fever swelling,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,37
+DRUG_00903,difficulty moving stiffness joint pain loss appetite,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,52
+DRUG_01071,pain headache tenderness back pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,34
+DRUG_01014,shortness breath fatigue chest tightness palpitation,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Losartan 50mg,Hypertension,52
+DRUG_01057,dry mouth loss appetite palpitation low energy insomnia,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,55
+DRUG_00512,fever cough fatigue swelling rash,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,33
+DRUG_00408,palpitation swelling blurred vision dizziness anxiety,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Losartan 50mg,Hypertension,53
+DRUG_01223,sour taste chest pain bloating,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,30
+DRUG_01475,joint pain stiffness swelling weakness redness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,46
+DRUG_01299,joint pain tenderness swelling,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,30
+DRUG_01396,exercise intolerance insomnia wheezing chest tightness cough bloating,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,69
+DRUG_00709,fatigue excessive thirst numbness headache,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,42
+DRUG_01017,pain fever fatigue,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,18
+DRUG_00307,shortness breath palpitation chest tightness difficulty breathing exercise intolerance wheezing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,95
+DRUG_01073,dizziness fatigue loss appetite weight loss palpitation insomnia,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,64
+DRUG_01239,fatigue palpitation anxiety heartburn,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,37
+DRUG_00706,swelling fatigue weakness fever loss appetite,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,45
+DRUG_01074,throat irritation hives sneezing swelling watery eyes,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fexofenadine 120mg,Allergy,53
+DRUG_01375,cough burping nausea heartburn difficulty swallowing,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,52
+DRUG_01157,nausea fever cough discharge redness,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,36
+DRUG_00204,fever muscle ache pain nausea inflammation,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,42
+DRUG_01325,fatigue blurred vision numbness frequent urination weakness dry mouth,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,69
+DRUG_01290,chest pain difficulty swallowing bloating burping sour taste nausea,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,67
+DRUG_00669,throat irritation swelling runny nose watery eyes cough itching,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,63
+DRUG_00661,fever sore throat weakness headache cough runny nose,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,52
+DRUG_00479,slow healing blurred vision recurrent infections itching excessive thirst fatigue,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Gliclazide 80mg,Diabetes Type 2,81
+DRUG_00199,weakness inflammation stiffness bloating joint pain tenderness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,62
+DRUG_00616,chest pain bloating loss appetite sore throat cough,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,51
+DRUG_00947,congestion watery eyes sneezing hives skin irritation,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,53
+DRUG_01378,chest tightness exercise intolerance cough wheezing palpitation,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,63
+DRUG_01358,chills swelling fever,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,21
+DRUG_00330,headache fever fatigue watery eyes inflammation tenderness,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,58
+DRUG_00576,chills sneezing fever fatigue,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,29
+DRUG_00940,rash chills fever loss appetite fatigue,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,39
+DRUG_01366,fatigue blurred vision itching,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,30
+DRUG_01070,cough anxiety wheezing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,22
+DRUG_00282,chills pain loss appetite fever,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,31
+DRUG_00676,itching runny nose sneezing congestion,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fexofenadine 120mg,Allergy,38
+DRUG_00041,insomnia fatigue weakness chest tightness,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,41
+DRUG_00075,tenderness joint pain difficulty moving stiffness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,49
+DRUG_01206,fatigue weakness redness nausea rash pain,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,41
+DRUG_01371,blurred vision joint pain weight loss fatigue itching weakness excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,79
+DRUG_00335,sore throat burping bloating chest pain,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,39
+DRUG_00704,chills cough fatigue swelling nausea,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,36
+DRUG_01404,slow healing blurred vision excessive thirst fatigue,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,52
+DRUG_00308,palpitation shortness breath nausea fatigue dizziness headache loss appetite,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,76
+DRUG_00146,insomnia dizziness anxiety,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,26
+DRUG_00830,headache chest tightness fatigue palpitation,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Losartan 50mg,Hypertension,44
+DRUG_01191,palpitation chest tightness dizziness fatigue insomnia rash,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,59
+DRUG_01334,headache chest tightness blurred vision dizziness cough,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,55
+DRUG_00305,low energy insomnia anxiety weight loss fatigue,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,47
+DRUG_00410,hives itching sneezing fever skin irritation swelling watery eyes,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fexofenadine 120mg,Allergy,65
+DRUG_01252,dizziness anxiety chest tightness insomnia palpitation,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,54
+DRUG_00449,fatigue headache muscle ache back pain pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,43
+DRUG_00587,fatigue recurrent infections blurred vision,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,43
+DRUG_01115,difficulty moving stiffness redness inflammation,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,48
+DRUG_00659,dizziness anxiety loss appetite,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,31
+DRUG_00922,blurred vision fatigue itching numbness slow healing,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,52
+DRUG_00549,sneezing itching watery eyes skin irritation congestion,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fexofenadine 120mg,Allergy,55
+DRUG_00804,frequent urination dry mouth recurrent infections excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,66
+DRUG_01287,loss appetite pain fatigue,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,26
+DRUG_00264,insomnia loss appetite low energy anxiety,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,41
+DRUG_00930,headache chest tightness insomnia dizziness shortness breath,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,60
+DRUG_01312,wheezing fatigue palpitation anxiety shortness breath,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,53
+DRUG_00774,inflammation stiffness fever,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,28
+DRUG_00409,redness fatigue joint pain swelling fever,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,41
+DRUG_00609,nausea cough headache sore throat,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,33
+DRUG_00123,pain fever nausea,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,17
+DRUG_00532,dizziness headache nausea chest tightness shortness breath,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,58
+DRUG_01008,weakness loss appetite difficulty moving inflammation swelling stiffness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,72
+DRUG_00685,chest tightness anxiety frequent urination cough,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,48
+DRUG_01096,anxiety headache insomnia weakness,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,34
+DRUG_00011,loss appetite palpitation dizziness fatigue weakness,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,52
+DRUG_01064,throat irritation itching sneezing cough skin irritation,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,56
+DRUG_01169,excessive thirst frequent urination blurred vision recurrent infections,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Gliclazide 80mg,Diabetes Type 2,71
+DRUG_00303,palpitation fatigue dry mouth low energy loss appetite,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,54
+DRUG_01023,weight loss blurred vision numbness chest tightness excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Gliclazide 80mg,Diabetes Type 2,68
+DRUG_00551,excessive thirst anxiety numbness frequent urination recurrent infections blurred vision slow healing,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,101
+DRUG_01353,anxiety shortness breath dizziness fatigue chest tightness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,58
+DRUG_00103,dizziness loss appetite anxiety fatigue low energy dry mouth,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,60
+DRUG_00828,inflammation joint pain loss appetite,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,37
+DRUG_01030,insomnia sneezing wheezing chest tightness difficulty breathing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,63
+DRUG_00724,weight loss loss appetite fatigue insomnia,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,42
+DRUG_01420,back pain pain fever muscle ache,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,32
+DRUG_00014,congestion fever sore throat sneezing,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,37
+DRUG_00822,weakness blurred vision excessive thirst fever itching numbness,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,63
+DRUG_00105,fever swelling loss appetite,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,28
+DRUG_00160,weakness headache sore throat fatigue fever,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,43
+DRUG_00252,congestion fever headache weakness sneezing body ache,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,53
+DRUG_01311,chest tightness fatigue difficulty breathing insomnia cough shortness breath,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,76
+DRUG_00298,weakness blurred vision weight loss excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,52
+DRUG_00445,palpitation anxiety dizziness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,29
+DRUG_00672,skin irritation hives frequent urination cough itching watery eyes rash,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,71
+DRUG_00010,pain dizziness inflammation tenderness headache,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,47
+DRUG_00260,bloating heartburn chest pain burping sore throat loss appetite,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,63
+DRUG_00833,throat irritation itching cough runny nose rash,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,47
+DRUG_01245,sore throat nausea difficulty swallowing bloating cough chest pain,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,66
+DRUG_01272,weight loss insomnia loss appetite joint pain weakness,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,54
+DRUG_00835,burping heartburn chest pain loss appetite nausea,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,49
+DRUG_01458,itching dizziness inflammation pain nausea headache back pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,61
+DRUG_00691,nausea sour taste heartburn cough bloating,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,42
+DRUG_00084,rash runny nose throat irritation,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,33
+DRUG_00895,recurrent infections fatigue numbness blurred vision,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,52
+DRUG_00360,excessive thirst weakness fatigue,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,33
+DRUG_00052,congestion chills sore throat,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,29
+DRUG_00626,headache sneezing congestion dizziness fatigue,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,46
+DRUG_00907,headache sore throat chills cough runny nose fatigue,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,52
+DRUG_01139,loss appetite fatigue anxiety dry mouth,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,39
+DRUG_01322,insomnia wheezing exercise intolerance chest tightness shortness breath,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,71
+DRUG_01163,bloating heartburn sore throat loss appetite burping chest pain,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,63
+DRUG_01178,joint pain inflammation fever swelling,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,38
+DRUG_01349,swelling palpitation headache blurred vision insomnia chest tightness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,69
+DRUG_00150,swelling weakness fatigue redness nausea cough,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,46
+DRUG_01470,fatigue fever sneezing chest tightness,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,38
+DRUG_00022,fatigue exercise intolerance chest tightness difficulty breathing wheezing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,74
+DRUG_00329,body ache headache runny nose fatigue sneezing congestion,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,57
+DRUG_00128,pain muscle ache back pain cough fever joint pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,49
+DRUG_01408,runny nose hives swelling dizziness rash,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,40
+DRUG_01045,sneezing cough hives insomnia itching watery eyes swelling,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,58
+DRUG_01049,headache nausea chest pain chest tightness swelling,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,51
+DRUG_01409,tenderness fever joint pain stiffness inflammation,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,50
+DRUG_00015,wheezing anxiety difficulty breathing shortness breath pain fatigue cough,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,73
+DRUG_01130,shortness breath bloating sour taste nausea,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,43
+DRUG_00800,slow healing weight loss fatigue recurrent infections frequent urination blurred vision,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,87
+DRUG_00088,cough congestion headache,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,25
+DRUG_00147,discharge fever excessive thirst redness fatigue,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,48
+DRUG_01151,skin irritation throat irritation watery eyes runny nose cough sneezing,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,71
+DRUG_00990,slow healing weakness dry mouth excessive thirst fatigue,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,56
+DRUG_00267,headache insomnia shortness breath chest tightness dizziness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,60
+DRUG_01449,cough chest tightness shortness breath exercise intolerance,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,59
+DRUG_00808,cough swelling weakness pain,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,28
+DRUG_00978,throat irritation runny nose sneezing,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,37
+DRUG_01477,anxiety palpitation loss appetite fatigue low energy,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,52
+DRUG_00092,discharge fever pain chills weakness,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,36
+DRUG_01209,nausea inflammation burping bloating loss appetite heartburn difficulty swallowing,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,82
+DRUG_01148,blurred vision fatigue itching weight loss weakness,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Gliclazide 80mg,Diabetes Type 2,51
+DRUG_00120,palpitation exercise intolerance cough insomnia shortness breath,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,64
+DRUG_01218,itching weakness blurred vision numbness fatigue,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,48
+DRUG_00711,fatigue stiffness fever weakness swelling,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,41
+DRUG_01146,weakness cough runny nose chest tightness congestion nausea,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,59
+DRUG_00136,headache dizziness inflammation fever,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,37
+DRUG_00874,sore throat fatigue nausea,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,26
+DRUG_01455,blurred vision dry mouth weakness fatigue excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,58
+DRUG_01176,chest tightness anxiety fatigue dizziness headache,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,50
+DRUG_01462,frequent urination pain fever rash redness,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,42
+DRUG_00249,swelling fever loss appetite redness nausea,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,43
+DRUG_00562,fever loss appetite redness fatigue weakness,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,44
+DRUG_00117,chest tightness stiffness tenderness redness joint pain fatigue,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,63
+DRUG_00149,insomnia shortness breath chest tightness fatigue cough difficulty breathing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,76
+DRUG_00352,back pain headache joint pain fever pain muscle ache,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,52
+DRUG_00842,fever inflammation dizziness,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,28
+DRUG_00886,chills cough fever sneezing headache,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,36
+DRUG_00347,sneezing watery eyes hives,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,26
+DRUG_00641,inflammation pain tenderness muscle ache fever,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,46
+DRUG_00553,chills sore throat cough weakness congestion,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,44
+DRUG_00582,insomnia dry mouth fatigue redness,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,34
+DRUG_00340,insomnia dizziness headache palpitation shortness breath fatigue,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,64
+DRUG_01454,headache fever nausea dizziness,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,31
+DRUG_00650,headache dizziness nausea anxiety shortness breath chest tightness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,66
+DRUG_00385,fatigue loss appetite pain fever,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,32
+DRUG_00053,fatigue chest tightness anxiety cough,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,37
+DRUG_01241,headache congestion nausea sore throat chills,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,45
+DRUG_01034,itching hives sneezing watery eyes fever,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,40
+DRUG_00736,fatigue fever inflammation joint pain stiffness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,47
+DRUG_00773,dizziness insomnia swelling blurred vision chest tightness headache,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,67
+DRUG_00712,back pain pain dizziness fever fatigue,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,38
+DRUG_00796,loss appetite dizziness palpitation anxiety insomnia dry mouth,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,62
+DRUG_01309,fatigue weakness headache insomnia loss appetite,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,48
+DRUG_00424,swelling stiffness redness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,26
+DRUG_01061,fever tenderness swelling inflammation difficulty moving stiffness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,66
+DRUG_00233,chest pain sour taste nausea loss appetite heartburn difficulty swallowing,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,74
+DRUG_00612,nausea palpitation headache fatigue,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,35
+DRUG_00686,pain headache nausea tenderness,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,31
+DRUG_01253,inflammation nausea bloating chest pain loss appetite difficulty swallowing,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,75
+DRUG_00140,nausea pain headache fever chills loss appetite redness,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,55
+DRUG_00343,dry mouth fatigue excessive thirst blurred vision,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,49
+DRUG_00197,anxiety headache palpitation insomnia swelling,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,46
+DRUG_00433,dizziness headache back pain muscle ache fever,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,46
+DRUG_00338,weakness swelling stiffness inflammation fatigue headache,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,57
+DRUG_00863,headache cough fever,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,20
+DRUG_00767,runny nose fever weakness congestion fatigue,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,44
+DRUG_01452,joint pain redness swelling,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,27
+DRUG_00241,excessive thirst joint pain swelling loss appetite,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,50
+DRUG_01347,insomnia swelling anxiety chest tightness headache nausea,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Losartan 50mg,Hypertension,57
+DRUG_00594,loss appetite nausea sore throat sour taste chest pain dizziness,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,64
+DRUG_00737,fatigue slow healing numbness frequent urination dry mouth,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,58
+DRUG_01467,weakness fever congestion chills cough nausea,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,45
+DRUG_01177,swelling skin irritation runny nose rash itching hives,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fexofenadine 120mg,Allergy,54
+DRUG_00611,itching swelling sneezing throat irritation rash,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,48
+DRUG_00547,bloating sore throat cough burping nausea,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,41
+DRUG_00919,sneezing weakness nausea sore throat fever fatigue,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,50
+DRUG_00209,palpitation loss appetite fatigue dizziness anxiety,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,51
+DRUG_00629,runny nose watery eyes cough,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,28
+DRUG_00142,heartburn insomnia chest pain cough,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,35
+DRUG_00460,headache fatigue palpitation,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,28
+DRUG_01194,insomnia chest tightness palpitation dizziness nausea shortness breath,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,70
+DRUG_01026,headache pain stiffness tenderness,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,34
+DRUG_00690,stiffness chest tightness swelling difficulty moving weakness loss appetite,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,75
+DRUG_00206,sore throat nausea chest pain heartburn loss appetite,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,53
+DRUG_00488,cough shortness breath chest tightness palpitation insomnia nausea,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,66
+DRUG_00670,dizziness weakness loss appetite anxiety,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,40
+DRUG_00079,bloating burping nausea heartburn difficulty swallowing,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,55
+DRUG_01275,watery eyes sneezing swelling frequent urination runny nose skin irritation,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,75
+DRUG_01363,low energy insomnia loss appetite headache anxiety weight loss,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,62
+DRUG_01161,fever inflammation back pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,28
+DRUG_00158,insomnia headache weakness anxiety,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,34
+DRUG_00154,redness joint pain fever inflammation,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,37
+DRUG_01425,heartburn burping insomnia nausea chest pain difficulty swallowing,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,66
+DRUG_00638,fatigue insomnia anxiety weakness,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,33
+DRUG_00349,dizziness anxiety dry mouth loss appetite,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,41
+DRUG_00135,swelling sneezing cough itching congestion rash,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,47
+DRUG_00223,fatigue nausea sore throat fever headache weakness,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,50
+DRUG_00452,stiffness inflammation swelling fever difficulty moving fatigue,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,63
+DRUG_00134,weakness fever fatigue,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,22
+DRUG_01189,joint pain stiffness fever weakness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,35
+DRUG_00317,sore throat fatigue runny nose fever body ache headache,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,55
+DRUG_00438,fatigue blurred vision chest tightness dizziness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,48
+DRUG_00040,fatigue nausea sore throat cough,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,32
+DRUG_00183,weakness congestion body ache cough,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,35
+DRUG_00939,blurred vision weight loss recurrent infections excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,64
+DRUG_00627,hives watery eyes congestion itching throat irritation,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,54
+DRUG_00489,fatigue bloating heartburn burping cough sore throat,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,52
+DRUG_01341,cough wheezing chest tightness sneezing insomnia,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,48
+DRUG_00401,nausea fever inflammation,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,25
+DRUG_00278,swelling cough watery eyes sneezing runny nose,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,46
+DRUG_00195,insomnia dry mouth anxiety headache fatigue,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,43
+DRUG_00869,weight loss palpitation fever loss appetite weakness fatigue insomnia,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,69
+DRUG_00045,slow healing blurred vision excessive thirst fatigue dry mouth,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Gliclazide 80mg,Diabetes Type 2,62
+DRUG_00247,shortness breath watery eyes congestion runny nose,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fexofenadine 120mg,Allergy,50
+DRUG_01112,inflammation difficulty moving tenderness swelling chest pain,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,61
+DRUG_01006,sore throat chills congestion body ache sneezing joint pain,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,59
+DRUG_00899,chest tightness cough exercise intolerance wheezing anxiety,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,59
+DRUG_00918,fever fatigue nausea body ache sore throat,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,42
+DRUG_00927,heartburn bloating sour taste,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,29
+DRUG_00193,bloating burping chest pain loss appetite,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,41
+DRUG_00509,inflammation joint pain fatigue redness tenderness swelling,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,59
+DRUG_00361,cough sneezing rash throat irritation skin irritation,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,53
+DRUG_01103,difficulty swallowing burping sour taste heartburn bloating chest pain,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,70
+DRUG_00994,joint pain swelling inflammation weakness difficulty moving,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,59
+DRUG_00251,joint pain difficulty moving inflammation,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,41
+DRUG_00936,sore throat chest pain heartburn bloating,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,41
+DRUG_01121,weakness joint pain stiffness itching,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,37
+DRUG_00100,redness swelling joint pain fatigue inflammation weakness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,57
+DRUG_00589,cough pain weakness fatigue fever,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,33
+DRUG_01406,blurred vision fatigue numbness weakness,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,40
+DRUG_01106,cough chest tightness fatigue wheezing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,38
+DRUG_01134,pain swelling fever loss appetite,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,33
+DRUG_01220,swelling dizziness headache chest tightness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,43
+DRUG_00747,throat irritation itching rash runny nose skin irritation,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,57
+DRUG_00165,weakness nausea cough fatigue headache sore throat,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,50
+DRUG_00250,bloating fever heartburn nausea difficulty swallowing burping,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,61
+DRUG_01016,blurred vision headache chest tightness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,39
+DRUG_00139,shortness breath difficulty breathing chest tightness palpitation insomnia,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,74
+DRUG_01426,shortness breath chest tightness insomnia,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,41
+DRUG_00956,difficulty moving joint pain fever weakness swelling inflammation insomnia,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,74
+DRUG_00920,cough fatigue palpitation shortness breath chest tightness exercise intolerance,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,79
+DRUG_00192,blurred vision frequent urination weight loss excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Gliclazide 80mg,Diabetes Type 2,62
+DRUG_00325,dizziness shortness breath headache palpitation,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,47
+DRUG_00273,sneezing runny nose congestion,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,30
+DRUG_00595,joint pain cough redness fever inflammation,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,43
+DRUG_00955,shortness breath sneezing wheezing difficulty breathing palpitation chest tightness,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,83
+DRUG_00155,stiffness shortness breath chest tightness wheezing exercise intolerance insomnia palpitation,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,93
+DRUG_00687,wheezing headache sore throat fatigue,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,37
+DRUG_00855,back pain headache inflammation pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,36
+DRUG_00411,dizziness chest tightness palpitation shortness breath insomnia,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,63
+DRUG_01415,frequent urination recurrent infections fatigue,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,47
+DRUG_00324,itching fatigue excessive thirst blurred vision numbness inflammation weight loss,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,81
+DRUG_00495,muscle ache inflammation pain headache anxiety fatigue tenderness,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,65
+DRUG_00843,headache fatigue cough sore throat,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,34
+DRUG_01184,bloating cough loss appetite nausea pain,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,40
+DRUG_00701,pain rash fatigue,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,17
+DRUG_00109,nausea body ache congestion cough fatigue,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,41
+DRUG_00535,chest tightness shortness breath blurred vision headache palpitation,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,68
+DRUG_00829,wheezing chest tightness palpitation insomnia,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,45
+DRUG_01490,fatigue discharge fever chills,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,30
+DRUG_00050,body ache sore throat fatigue fever,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,35
+DRUG_00389,low energy fatigue headache weight loss anxiety loss appetite,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,61
+DRUG_01222,rash itching sneezing congestion,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,32
+DRUG_00814,palpitation chest tightness headache blurred vision shortness breath,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Losartan 50mg,Hypertension,68
+DRUG_00522,fatigue shortness breath cough palpitation chest tightness insomnia,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,67
+DRUG_01337,chest tightness wheezing cough exercise intolerance,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,51
+DRUG_00999,anxiety excessive thirst blurred vision itching fatigue,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,55
+DRUG_00818,pain weakness loss appetite fatigue,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,35
+DRUG_00208,slow healing numbness excessive thirst stiffness fatigue weakness,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,65
+DRUG_00637,headache fever inflammation muscle ache,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,39
+DRUG_01202,headache chest tightness dizziness fatigue,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,42
+DRUG_00749,redness joint pain swelling,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,27
+DRUG_00720,insomnia cough fatigue palpitation wheezing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,43
+DRUG_00682,chest pain sore throat heartburn,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,32
+DRUG_00406,rash discharge swelling fatigue pain palpitation,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,48
+DRUG_00864,sour taste chest pain sore throat heartburn difficulty swallowing bloating,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,74
+DRUG_01175,fatigue loss appetite insomnia weakness,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,39
+DRUG_00366,inflammation watery eyes nausea headache muscle ache,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,52
+DRUG_00604,muscle ache fever inflammation headache,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,39
+DRUG_00232,headache joint pain fever,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,25
+DRUG_00688,hives watery eyes runny nose palpitation sneezing,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,49
+DRUG_00187,headache nausea muscle ache pain inflammation,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,45
+DRUG_01277,shortness breath anxiety difficulty breathing wheezing insomnia,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,63
+DRUG_00790,anxiety dizziness chest tightness nausea,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,40
+DRUG_00817,dizziness wheezing loss appetite weakness dry mouth insomnia,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,60
+DRUG_01181,congestion sneezing nausea watery eyes headache fever,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,53
+DRUG_00911,insomnia weakness weight loss fatigue low energy,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,48
+DRUG_00314,fever joint pain redness inflammation weakness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,46
+DRUG_00853,insomnia cough weakness loss appetite dry mouth,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,47
+DRUG_01226,body ache sneezing fatigue sore throat,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,38
+DRUG_00368,tenderness headache fatigue pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,32
+DRUG_01084,cough fever swelling pain,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,25
+DRUG_00391,bloating cough chest pain,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,25
+DRUG_00975,fatigue recurrent infections excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,45
+DRUG_00931,difficulty breathing fatigue wheezing chest tightness palpitation,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,65
+DRUG_00417,pain swelling chills fever cough,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,32
+DRUG_00889,excessive thirst blurred vision swelling slow healing,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,53
+DRUG_00422,chills fatigue sneezing weakness sore throat fever,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,50
+DRUG_00268,anxiety loss appetite weakness insomnia fatigue low energy,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,58
+DRUG_00113,rash loss appetite nausea swelling fatigue,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,42
+DRUG_00513,inflammation fever joint pain headache,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,38
+DRUG_01395,cough sore throat body ache runny nose,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,38
+DRUG_00185,body ache fatigue nausea fever,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,30
+DRUG_00555,shortness breath nausea palpitation insomnia headache chest tightness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,69
+DRUG_00675,swelling headache palpitation shortness breath nausea,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,53
+DRUG_01041,rash itching runny nose throat irritation,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,41
+DRUG_01001,runny nose insomnia sneezing throat irritation cough itching,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fexofenadine 120mg,Allergy,60
+DRUG_00002,cough runny nose nausea heartburn sour taste,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,44
+DRUG_01429,fatigue difficulty breathing palpitation shortness breath chest tightness cough swelling,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,88
+DRUG_01009,heartburn bloating sour taste loss appetite,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,43
+DRUG_00224,insomnia palpitation anxiety headache dizziness nausea,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,54
+DRUG_01201,nausea headache chest tightness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Losartan 50mg,Hypertension,31
+DRUG_00104,dizziness nausea palpitation fatigue,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Losartan 50mg,Hypertension,36
+DRUG_00759,dry mouth frequent urination excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,45
+DRUG_01488,cough nausea congestion weakness headache,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,41
+DRUG_00446,swelling redness loss appetite nausea cough,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,43
+DRUG_00490,nausea sore throat chills fatigue,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,33
+DRUG_00151,shortness breath exercise intolerance difficulty breathing palpitation cough,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,76
+DRUG_01108,dry mouth insomnia dizziness loss appetite,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,42
+DRUG_00390,redness rash chills pain fever,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,30
+DRUG_00044,rash swelling fever,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,19
+DRUG_01166,cough pain fever,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,16
+DRUG_00383,joint pain headache muscle ache watery eyes pain back pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,58
+DRUG_01142,rash swelling watery eyes skin irritation hives,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,47
+DRUG_00481,loss appetite anxiety runny nose fatigue dizziness low energy palpitation,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,73
+DRUG_00238,fatigue dizziness headache insomnia blurred vision,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,50
+DRUG_00413,excessive thirst frequent urination weakness dry mouth,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Gliclazide 80mg,Diabetes Type 2,54
+DRUG_01264,chills cough fever swelling pain,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,32
+DRUG_00500,fatigue swelling redness headache loss appetite,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,47
+DRUG_00729,cough bloating burping loss appetite heartburn,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,46
+DRUG_00963,back pain headache inflammation muscle ache fever,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,49
+DRUG_00152,excessive thirst dry mouth fatigue,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,34
+DRUG_00758,cough exercise intolerance wheezing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,35
+DRUG_00396,pain inflammation headache fatigue,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,34
+DRUG_00392,congestion swelling hives rash runny nose watery eyes,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,53
+DRUG_01397,cough shortness breath wheezing difficulty breathing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,52
+DRUG_01417,runny nose rash swelling congestion,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,35
+DRUG_00099,anxiety chest tightness shortness breath dizziness headache,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,59
+DRUG_00656,shortness breath pain fever joint pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,38
+DRUG_01021,frequent urination dry mouth blurred vision numbness,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,52
+DRUG_00048,back pain muscle ache inflammation palpitation dizziness fever,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,62
+DRUG_01126,chest tightness fever dizziness nausea anxiety palpitation fatigue,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,66
+DRUG_00166,dry mouth fatigue itching weakness excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Gliclazide 80mg,Diabetes Type 2,51
+DRUG_01022,tenderness fatigue pain fever wheezing inflammation joint pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,62
+DRUG_00937,fever redness swelling pain cough,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,33
+DRUG_01095,redness swelling chills loss appetite fatigue,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,45
+DRUG_00326,fatigue dizziness inflammation headache,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,39
+DRUG_00761,nausea loss appetite bloating cough joint pain chest pain sore throat,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,69
+DRUG_01183,wheezing exercise intolerance difficulty breathing shortness breath,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,67
+DRUG_00163,fever joint pain redness stiffness inflammation weakness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,56
+DRUG_01210,frequent urination inflammation weakness swelling joint pain loss appetite,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,74
+DRUG_01082,headache insomnia dizziness chest tightness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Losartan 50mg,Hypertension,43
+DRUG_00078,headache swelling insomnia palpitation anxiety chest tightness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,62
+DRUG_00470,dry mouth fatigue loss appetite headache dizziness insomnia,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,59
+DRUG_01319,weakness chills fatigue fever loss appetite cough,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,49
+DRUG_00934,chills swelling pain redness,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,28
+DRUG_01101,swelling redness stiffness joint pain,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,37
+DRUG_00114,body ache cough fever sore throat chills weakness,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,49
+DRUG_01489,itching swelling watery eyes throat irritation congestion,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,57
+DRUG_01027,loss appetite inflammation chest pain sour taste heartburn nausea,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,65
+DRUG_00997,back pain inflammation fever joint pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,39
+DRUG_00455,shortness breath chest tightness difficulty breathing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,53
+DRUG_01398,headache fatigue cough,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,22
+DRUG_00063,stiffness difficulty moving joint pain,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,38
+DRUG_00222,exercise intolerance chest tightness shortness breath,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,53
+DRUG_00094,heartburn cough loss appetite bloating burping,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,46
+DRUG_00757,blurred vision swelling joint pain stiffness difficulty moving,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,62
+DRUG_01053,fatigue dry mouth insomnia headache,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,35
+DRUG_01155,pain inflammation swelling headache back pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,45
+DRUG_01446,fatigue difficulty moving fever joint pain stiffness inflammation,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,65
+DRUG_00042,cough pain fatigue,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,18
+DRUG_00743,chills fatigue weakness chest tightness swelling,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,48
+DRUG_01167,loss appetite swelling stiffness joint pain tenderness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,54
+DRUG_01192,weakness nausea swelling pain fatigue chills,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,44
+DRUG_00095,exercise intolerance cough shortness breath palpitation wheezing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,64
+DRUG_00679,weakness inflammation difficulty moving stiffness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,49
+DRUG_00667,frequent urination fatigue numbness blurred vision slow healing,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,63
+DRUG_01345,inflammation dizziness headache fever,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,37
+DRUG_01042,dizziness shortness breath headache palpitation anxiety stiffness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,65
+DRUG_00427,nausea bloating loss appetite heartburn,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,39
+DRUG_00239,dry mouth palpitation anxiety loss appetite fatigue,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,51
+DRUG_01232,blurred vision dizziness bloating shortness breath headache,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Losartan 50mg,Hypertension,59
+DRUG_00755,anxiety chest tightness fatigue headache palpitation,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,52
+DRUG_00395,inflammation stiffness weakness difficulty moving,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,49
+DRUG_01279,bloating heartburn frequent urination sour taste loss appetite chest pain sore throat,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,85
+DRUG_00127,weakness fatigue loss appetite insomnia,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,39
+DRUG_01068,joint pain swelling weakness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,28
+DRUG_00456,dizziness nausea palpitation,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,28
+DRUG_00210,inflammation swelling fever blurred vision weakness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,51
+DRUG_00809,itching swelling rash,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,21
+DRUG_01411,difficulty breathing chest tightness wheezing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,45
+DRUG_01320,rash itching runny nose hives throat irritation skin irritation,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,63
+DRUG_00132,chest pain bloating nausea cough,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,32
+DRUG_00037,weight loss headache fatigue dry mouth loss appetite,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,52
+DRUG_01374,nausea sour taste chest pain,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,28
+DRUG_01335,heartburn bloating sour taste nausea,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,36
+DRUG_00367,nausea insomnia sore throat cough weakness,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,42
+DRUG_00550,inflammation swelling fatigue,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,29
+DRUG_00909,anxiety numbness excessive thirst weight loss fatigue itching blurred vision,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Gliclazide 80mg,Diabetes Type 2,76
+DRUG_01094,weight loss weakness loss appetite dry mouth anxiety fatigue,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,60
+DRUG_01476,sour taste frequent urination sore throat heartburn bloating chest pain,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,71
+DRUG_00218,weakness stiffness joint pain fever,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,35
+DRUG_01471,joint pain swelling loss appetite,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,33
+DRUG_00528,redness inflammation swelling tenderness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,40
+DRUG_01216,joint pain inflammation difficulty moving,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,41
+DRUG_00176,wheezing shortness breath exercise intolerance chest tightness fever anxiety,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,76
+DRUG_00928,excessive thirst weakness frequent urination numbness,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,53
+DRUG_00558,insomnia chest tightness runny nose exercise intolerance cough,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,62
+DRUG_01310,fatigue dry mouth insomnia loss appetite chest pain,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,51
+DRUG_01104,wheezing shortness breath exercise intolerance fatigue,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,54
+DRUG_00284,discharge swelling fever joint pain,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,35
+DRUG_00398,dizziness anxiety cough chest tightness headache shortness breath,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,65
+DRUG_00069,cough fever fatigue wheezing headache,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,37
+DRUG_00568,insomnia chest tightness dizziness swelling palpitation,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Losartan 50mg,Hypertension,55
+DRUG_00418,discharge fever redness fatigue,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,31
+DRUG_00665,sneezing watery eyes congestion cough,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,37
+DRUG_00803,fatigue pain chest pain fever,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,29
+DRUG_00529,fatigue headache insomnia cough wheezing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,40
+DRUG_00024,weakness redness cough swelling fatigue,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,39
+DRUG_01246,pain nausea inflammation fever tenderness,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,41
+DRUG_01039,swelling loss appetite discharge stiffness redness weakness,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,59
+DRUG_00071,cough weakness fatigue anxiety,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,30
+DRUG_00971,loss appetite dizziness insomnia low energy,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,43
+DRUG_00290,pain dizziness joint pain fever tenderness inflammation,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,55
+DRUG_00748,wheezing nausea chest tightness cough exercise intolerance,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,58
+DRUG_01100,headache palpitation insomnia,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,29
+DRUG_00006,rash swelling runny nose,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,24
+DRUG_00397,itching hives runny nose throat irritation,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fexofenadine 120mg,Allergy,42
+DRUG_00831,stiffness loss appetite weakness inflammation,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,45
+DRUG_01179,nausea palpitation insomnia heartburn dizziness headache,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Losartan 50mg,Hypertension,56
+DRUG_00776,chest pain sore throat heartburn sour taste nausea,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,50
+DRUG_00951,wheezing headache shortness breath insomnia,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,43
+DRUG_01413,dizziness loss appetite fatigue,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,31
+DRUG_01197,chest pain bloating sour taste,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,30
+DRUG_00213,blurred vision numbness fatigue frequent urination,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Gliclazide 80mg,Diabetes Type 2,50
+DRUG_00973,fatigue chills pain,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,19
+DRUG_00731,fatigue loss appetite weight loss,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,33
+DRUG_00003,heartburn sour taste burping nausea,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,35
+DRUG_00762,fever joint pain dizziness headache inflammation,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,48
+DRUG_00473,frequent urination chest tightness fatigue cough wheezing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,57
+DRUG_00472,headache nausea congestion fatigue cough,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,40
+DRUG_00960,headache insomnia chest tightness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Losartan 50mg,Hypertension,33
+DRUG_00028,congestion sore throat chills body ache fatigue,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,47
+DRUG_01046,numbness chest tightness excessive thirst blurred vision,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,56
+DRUG_00364,chest tightness exercise intolerance bloating wheezing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,54
+DRUG_01221,fatigue blurred vision excessive thirst itching weakness,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,56
+DRUG_00047,dizziness anxiety fatigue insomnia,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,34
+DRUG_00312,sneezing rash congestion swelling runny nose,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fexofenadine 120mg,Allergy,44
+DRUG_01390,rash fever cough pain,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,21
+DRUG_01153,swelling headache palpitation dizziness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,39
+DRUG_01158,weight loss itching fatigue excessive thirst slow healing frequent urination,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,76
+DRUG_00949,frequent urination weight loss excessive thirst fatigue itching weakness,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,72
+DRUG_00732,shortness breath cough anxiety insomnia,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,39
+DRUG_00625,fatigue shortness breath cough difficulty breathing insomnia,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,60
+DRUG_00848,loss appetite sour taste anxiety bloating nausea difficulty swallowing,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,70
+DRUG_00778,anxiety shortness breath insomnia wheezing congestion cough,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,59
+DRUG_00834,loss appetite difficulty moving tenderness inflammation stiffness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,65
+DRUG_00119,cough weakness fever,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,20
+DRUG_00242,discharge chest tightness swelling fatigue fever,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,48
+DRUG_01040,runny nose chills fatigue cough headache nausea,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,47
+DRUG_00619,chills headache fatigue weakness nausea fever,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,45
+DRUG_00334,frequent urination slow healing dry mouth blurred vision,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,56
+DRUG_00523,fatigue insomnia dry mouth loss appetite dizziness,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,50
+DRUG_01440,palpitation fever dizziness shortness breath,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,44
+DRUG_00660,shortness breath wheezing chest tightness anxiety palpitation,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,61
+DRUG_00805,anxiety loss appetite low energy weakness,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,41
+DRUG_00309,headache pain fatigue fever,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,27
+DRUG_01342,weakness blurred vision recurrent infections excessive thirst fatigue slow healing,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,82
+DRUG_00462,fatigue inflammation fever,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,26
+DRUG_01402,joint pain inflammation stiffness redness loss appetite fever,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,61
+DRUG_00850,nausea frequent urination excessive thirst fatigue itching dry mouth,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,68
+DRUG_00466,pain headache dizziness,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,23
+DRUG_00043,congestion chills fatigue,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,25
+DRUG_00025,chills fatigue fever rash pain,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,30
+DRUG_00924,inflammation fatigue cough weakness,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,35
+DRUG_00235,cough runny nose rash skin irritation,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fexofenadine 120mg,Allergy,37
+DRUG_00906,fever inflammation swelling sneezing,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,36
+DRUG_00696,fatigue inflammation pain tenderness,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,36
+DRUG_01193,pain muscle ache fever headache tenderness fatigue,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,50
+DRUG_01093,redness difficulty moving tenderness swelling inflammation,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,58
+DRUG_00085,hives skin irritation sneezing pain rash,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fexofenadine 120mg,Allergy,40
+DRUG_00211,weakness insomnia fatigue loss appetite,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,39
+DRUG_01043,rash sneezing skin irritation watery eyes hives,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,47
+DRUG_01451,heartburn bloating sore throat redness difficulty swallowing chest pain,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,71
+DRUG_00640,rash skin irritation sneezing runny nose congestion,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,51
+DRUG_00985,fatigue chest tightness palpitation difficulty breathing wheezing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,65
+DRUG_01344,chills weakness fever sore throat runny nose,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,44
+DRUG_00633,frequent urination blurred vision itching,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,41
+DRUG_00491,bloating loss appetite nausea cough sour taste,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,46
+DRUG_00436,heartburn recurrent infections frequent urination excessive thirst fatigue slow healing,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,87
+DRUG_00802,insomnia wheezing fatigue chest tightness shortness breath,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,58
+DRUG_00056,palpitation exercise intolerance cough wheezing fatigue,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,55
+DRUG_00914,palpitation shortness breath inflammation chest tightness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Losartan 50mg,Hypertension,57
+DRUG_00655,cough headache bloating sour taste heartburn nausea,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,51
+DRUG_00836,inflammation back pain fever,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,28
+DRUG_00986,blurred vision fatigue itching weakness frequent urination weight loss,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,70
+DRUG_00605,headache nausea joint pain inflammation stiffness,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,49
+DRUG_01242,nausea anxiety palpitation dizziness chest tightness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,52
+DRUG_00839,exercise intolerance palpitation cough wheezing chest tightness,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,63
+DRUG_01077,nausea chest tightness fatigue dizziness insomnia,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Losartan 50mg,Hypertension,49
+DRUG_00354,headache nausea dizziness pain fever,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,36
+DRUG_00503,dizziness headache insomnia palpitation,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Losartan 50mg,Hypertension,39
+DRUG_01491,watery eyes runny nose congestion,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,33
+DRUG_01354,skin irritation hives congestion itching rash,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,45
+DRUG_00703,throat irritation sneezing swelling watery eyes congestion runny nose,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,69
+DRUG_00148,itching tenderness swelling inflammation,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,40
+DRUG_00141,headache fatigue palpitation low energy insomnia anxiety,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,56
+DRUG_01086,fatigue chills sore throat runny nose fever weakness,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,52
+DRUG_00884,fatigue headache fever palpitation,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Losartan 50mg,Hypertension,34
+DRUG_00517,insomnia fatigue shortness breath cough wheezing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,48
+DRUG_00476,sore throat weakness cough headache fever nausea,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,48
+DRUG_00784,palpitation blurred vision headache,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Losartan 50mg,Hypertension,35
+DRUG_01144,sore throat heartburn chest pain difficulty swallowing nausea,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,61
+DRUG_01362,dizziness headache shortness breath anxiety palpitation excessive thirst,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,72
+DRUG_01164,redness fatigue weakness,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,24
+DRUG_00504,fatigue congestion sore throat sneezing headache,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,48
+DRUG_00012,headache nausea inflammation back pain fever,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,44
+DRUG_00145,swelling inflammation joint pain redness loss appetite weakness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,63
+DRUG_00904,heartburn nausea sour taste bloating sore throat,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,48
+DRUG_01281,headache nausea fever,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,21
+DRUG_00245,fever fatigue tenderness headache,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,33
+DRUG_00888,dizziness fatigue pain fever headache muscle ache,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,49
+DRUG_00511,wheezing anxiety difficulty breathing insomnia shortness breath,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,63
+DRUG_00721,weakness congestion fever cough,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,31
+DRUG_00730,fatigue blurred vision chest tightness palpitation,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,50
+DRUG_01482,fatigue congestion sneezing,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,27
+DRUG_00231,fever fatigue itching swelling discharge,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,40
+DRUG_00485,cough body ache fatigue fever weakness,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,38
+DRUG_01015,itching throat irritation sneezing,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,34
+DRUG_00932,sneezing cough itching watery eyes hives,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,40
+DRUG_00013,pain fever tenderness headache fatigue inflammation back pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,61
+DRUG_01377,cough fatigue nausea,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,20
+DRUG_00647,cough difficulty breathing chest tightness exercise intolerance palpitation,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,75
+DRUG_00763,weakness loss appetite fatigue low energy insomnia dizziness,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,60
+DRUG_01392,inflammation joint pain fever weakness swelling,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,47
+DRUG_00894,stiffness tenderness swelling,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,29
+DRUG_00502,chest pain tenderness redness swelling joint pain,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,49
+DRUG_00125,itching pain nausea fever,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,25
+DRUG_01025,sneezing throat irritation runny nose cough,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,43
+DRUG_00018,cough pain discharge fatigue,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,28
+DRUG_01172,fatigue inflammation stiffness difficulty moving,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,48
+DRUG_00387,rash congestion hives swelling sneezing runny nose,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,50
+DRUG_01456,cough loss appetite sour taste bloating nausea,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,46
+DRUG_00212,swelling tenderness difficulty moving joint pain,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,48
+DRUG_00516,redness chills cough fever pain discharge,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,41
+DRUG_00782,wheezing blurred vision exercise intolerance cough chest tightness,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,66
+DRUG_01401,itching runny nose sneezing cough,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,33
+DRUG_00546,cough fever fatigue chills,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,26
+DRUG_00567,burping bloating nausea heartburn,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,33
+DRUG_01186,loss appetite bloating heartburn cough difficulty swallowing itching,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,68
+DRUG_00727,chest pain joint pain sour taste nausea heartburn cough,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,55
+DRUG_01265,dizziness fever pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,20
+DRUG_00306,swelling watery eyes cough sneezing anxiety hives,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,49
+DRUG_01229,exercise intolerance anxiety wheezing difficulty breathing chest tightness fever,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,80
+DRUG_00480,frequent urination itching loss appetite blurred vision,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,55
+DRUG_01268,tenderness headache dizziness inflammation,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,42
+DRUG_01249,fever fatigue swelling cough weakness,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,37
+DRUG_00569,redness fever chest pain discharge,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,34
+DRUG_01384,itching weakness fatigue numbness excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Gliclazide 80mg,Diabetes Type 2,50
+DRUG_00621,fatigue pain weakness heartburn,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,31
+DRUG_00713,weight loss fatigue excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,36
+DRUG_01227,runny nose swelling rash insomnia itching skin irritation,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,57
+DRUG_00923,nausea sore throat heartburn difficulty swallowing loss appetite,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,64
+DRUG_00668,anxiety difficulty breathing chest tightness wheezing insomnia shortness breath,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,79
+DRUG_01125,fatigue weakness sore throat,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,28
+DRUG_01369,anxiety low energy headache loss appetite fatigue dizziness,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,59
+DRUG_00090,itching skin irritation sneezing congestion runny nose cough,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,60
+DRUG_01007,nausea heartburn bloating sour taste burping,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,44
+DRUG_01494,muscle ache fever pain dizziness nausea headache,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,48
+DRUG_00657,fever dizziness inflammation muscle ache pain tenderness,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,56
+DRUG_00126,frequent urination recurrent infections excessive thirst weakness,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,65
+DRUG_00559,swelling fever tenderness inflammation joint pain,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,49
+DRUG_00599,recurrent infections excessive thirst dry mouth frequent urination,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,66
+DRUG_00590,weakness fatigue headache insomnia,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,34
+DRUG_00527,fever nausea sore throat sneezing body ache,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,43
+DRUG_01098,headache body ache cough weakness fever,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,39
+DRUG_00571,fatigue fever headache sneezing congestion,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,42
+DRUG_00786,shortness breath palpitation cough wheezing fatigue,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,51
+DRUG_00373,rash throat irritation itching,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,30
+DRUG_00444,sour taste difficulty swallowing heartburn chest pain loss appetite,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,67
+DRUG_00023,bloating cough heartburn,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,24
+DRUG_01464,watery eyes throat irritation rash hives congestion sneezing,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,60
+DRUG_01430,joint pain headache heartburn inflammation fatigue fever nausea,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,63
+DRUG_00868,headache dizziness insomnia palpitation anxiety,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,47
+DRUG_01133,chills cough sneezing swelling sore throat congestion,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,53
+DRUG_00564,nausea weakness sore throat fatigue congestion,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,46
+DRUG_00525,stiffness loss appetite inflammation joint pain difficulty moving,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,65
+DRUG_00220,dry mouth anxiety loss appetite fatigue,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,39
+DRUG_00539,loss appetite chest pain bloating heartburn,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,43
+DRUG_00283,bloating fatigue sour taste nausea difficulty swallowing,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,56
+DRUG_00538,inflammation fever cough tenderness pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,40
+DRUG_01075,palpitation chest tightness dizziness swelling,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,46
+DRUG_00246,fatigue chest tightness wheezing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,32
+DRUG_00943,fatigue cough joint pain wheezing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,33
+DRUG_00065,chills weakness pain nausea fever,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,33
+DRUG_00007,stiffness fever headache inflammation,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,37
+DRUG_01424,headache fatigue chest tightness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,32
+DRUG_00900,joint pain redness fatigue loss appetite swelling,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,49
+DRUG_01132,palpitation rash chest tightness anxiety blurred vision nausea dizziness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,72
+DRUG_00179,fatigue frequent urination numbness cough itching excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,66
+DRUG_00699,cough congestion fever nausea,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,29
+DRUG_01412,blurred vision weakness frequent urination weight loss dry mouth,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Gliclazide 80mg,Diabetes Type 2,64
+DRUG_00414,headache back pain dizziness fever inflammation,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,47
+DRUG_00038,muscle ache pain fever,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,22
+DRUG_00779,anxiety dizziness chest tightness shortness breath,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,50
+DRUG_00783,joint pain swelling inflammation fatigue fever,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,46
+DRUG_00588,slow healing blurred vision frequent urination inflammation excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,76
+DRUG_00770,difficulty swallowing heartburn nausea bloating,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,47
+DRUG_00953,runny nose congestion watery eyes throat irritation,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,51
+DRUG_00429,weakness blurred vision slow healing frequent urination excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,72
+DRUG_00577,insomnia cough anxiety fatigue headache,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,39
+DRUG_01196,chest tightness fatigue cough inflammation exercise intolerance difficulty breathing shortness breath,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,101
+DRUG_00188,frequent urination excessive thirst fatigue numbness,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Gliclazide 80mg,Diabetes Type 2,52
+DRUG_01355,difficulty swallowing heartburn bloating chest pain,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,51
+DRUG_01099,loss appetite discharge chest tightness fatigue redness rash,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,60
+DRUG_00172,sneezing rash cough congestion runny nose throat irritation,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,59
+DRUG_01296,blurred vision excessive thirst slow healing dry mouth weight loss,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,66
+DRUG_00606,chest tightness nausea headache fatigue,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,39
+DRUG_01317,weakness joint pain swelling,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,28
+DRUG_00393,fatigue anxiety low energy weight loss loss appetite dizziness,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,62
+DRUG_00866,swelling pain nausea inflammation discharge loss appetite,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,57
+DRUG_00348,nausea dizziness palpitation headache fatigue,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,45
+DRUG_00751,fever nausea redness discharge pain chills,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,42
+DRUG_00856,anxiety palpitation dizziness swelling fatigue,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,46
+DRUG_00653,headache chest tightness nausea insomnia,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,40
+DRUG_01441,stiffness tenderness inflammation swelling,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,42
+DRUG_00499,swelling stiffness inflammation fever,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,37
+DRUG_01267,dry mouth excessive thirst weight loss weakness blurred vision,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,62
+DRUG_01152,fatigue nausea pain weakness,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,28
+DRUG_00708,joint pain shortness breath cough chest tightness exercise intolerance insomnia,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,79
+DRUG_01089,anxiety weight loss fatigue weakness,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,36
+DRUG_01436,fever runny nose pain sore throat,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,33
+DRUG_01302,insomnia fatigue anxiety dry mouth,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,34
+DRUG_00320,difficulty swallowing bloating burping nausea chest pain,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,56
+DRUG_00274,fatigue dizziness frequent urination palpitation,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,48
+DRUG_00794,swelling dizziness palpitation fatigue,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,38
+DRUG_00016,chest tightness anxiety wheezing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,32
+DRUG_00177,rash itching skin irritation watery eyes,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,40
+DRUG_00207,weight loss dry mouth blurred vision frequent urination fatigue,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,63
+DRUG_00404,dizziness fatigue anxiety weakness headache,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,43
+DRUG_00062,dizziness swelling anxiety headache,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,35
+DRUG_01035,weakness fever fatigue chills nausea,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,36
+DRUG_00087,sore throat heartburn pain nausea sour taste,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,44
+DRUG_00067,excessive thirst itching frequent urination dry mouth blurred vision weakness,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,77
+DRUG_01056,rash swelling weakness pain fever,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,33
+DRUG_01373,fever redness loss appetite swelling chills weakness,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,52
+DRUG_00557,heartburn watery eyes sneezing rash hives,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,41
+DRUG_00753,pain fever rash nausea,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,22
+DRUG_01168,fever chest pain redness stiffness difficulty moving joint pain,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,63
+DRUG_00487,chest tightness anxiety dizziness palpitation,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,45
+DRUG_00217,hives itching watery eyes congestion swelling rash,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,50
+DRUG_00531,joint pain swelling difficulty moving,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,37
+DRUG_01435,insomnia chest tightness anxiety palpitation dizziness shortness breath,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Losartan 50mg,Hypertension,71
+DRUG_00601,chest tightness shortness breath fatigue wheezing exercise intolerance,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,70
+DRUG_01286,hives runny nose swelling sneezing,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,34
+DRUG_01346,weakness insomnia weight loss fatigue,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,37
+DRUG_00300,nausea sore throat headache congestion runny nose,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,49
+DRUG_00719,watery eyes skin irritation hives rash runny nose cough,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,55
+DRUG_00133,anxiety fatigue low energy dizziness headache,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,45
+DRUG_01063,fever pain fatigue nausea,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,25
+DRUG_01438,muscle ache runny nose dizziness fever inflammation,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,51
+DRUG_00996,loss appetite weakness dizziness fatigue,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,40
+DRUG_01111,weakness fatigue anxiety loss appetite headache,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,47
+DRUG_00799,frequent urination fatigue weakness excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Gliclazide 80mg,Diabetes Type 2,52
+DRUG_00144,blurred vision weight loss fatigue dry mouth itching,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Gliclazide 80mg,Diabetes Type 2,52
+DRUG_00642,loss appetite dizziness headache anxiety insomnia low energy,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,60
+DRUG_00979,cough swelling watery eyes congestion rash,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,42
+DRUG_00993,swelling bloating chest pain difficulty swallowing,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,50
+DRUG_01213,itching hives sneezing watery eyes congestion,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,45
+DRUG_00862,swelling cough itching rash,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,27
+DRUG_01313,fever nausea headache pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,26
+DRUG_01469,insomnia palpitation loss appetite anxiety,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,42
+DRUG_00754,chills weakness shortness breath fatigue fever,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,46
+DRUG_00876,chest tightness wheezing anxiety exercise intolerance cough,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,59
+DRUG_00402,chest tightness palpitation blurred vision pain headache,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,56
+DRUG_01461,heartburn insomnia nausea sour taste cough,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,42
+DRUG_01448,heartburn nausea chest pain cough burping,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,41
+DRUG_00407,palpitation difficulty breathing insomnia stiffness shortness breath cough,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,74
+DRUG_00938,sore throat chest pain bloating,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,31
+DRUG_00697,nausea fever sore throat heartburn bloating,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,43
+DRUG_01330,shortness breath chest tightness anxiety cough insomnia,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,55
+DRUG_00196,chest tightness wheezing palpitation insomnia shortness breath,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,62
+DRUG_00524,shortness breath insomnia chest tightness fatigue palpitation cough,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,67
+DRUG_00101,headache pain back pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,23
+DRUG_00106,insomnia low energy weakness anxiety dizziness loss appetite,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,60
+DRUG_00138,sneezing throat irritation rash watery eyes,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,43
+DRUG_00840,sore throat bloating sour taste chest pain,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,42
+DRUG_00614,chest pain cough fatigue sore throat chills sneezing,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,52
+DRUG_00434,congestion fatigue weakness fever redness,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,41
+DRUG_00632,rash cough fatigue redness,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,26
+DRUG_00428,redness swelling fatigue inflammation pain fever joint pain,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,59
+DRUG_00170,bloating rash loss appetite chest pain nausea,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,45
+DRUG_01465,sore throat fatigue weakness nausea fever chills,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,48
+DRUG_00935,wheezing insomnia chest tightness cough fatigue,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,47
+DRUG_00437,weight loss weakness insomnia anxiety dizziness,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,47
+DRUG_00795,fever swelling weakness,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,23
+DRUG_00617,inflammation stiffness weakness tenderness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Hydroxychloroquine 200mg,Arthritis,42
+DRUG_00887,cough anxiety shortness breath difficulty breathing exercise intolerance,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,72
+DRUG_00483,pain headache back pain inflammation joint pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,47
+DRUG_00359,fatigue palpitation wheezing shortness breath chest tightness,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,61
+DRUG_00992,weakness fatigue fever congestion,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,33
+DRUG_00603,recurrent infections weakness dry mouth heartburn blurred vision frequent urination,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Gliclazide 80mg,Diabetes Type 2,83
+DRUG_00447,sore throat headache fatigue cough,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,34
+DRUG_01274,swelling chest tightness palpitation,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,36
+DRUG_01087,redness fever weakness discharge chills,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,39
+DRUG_00742,headache pain inflammation dizziness joint pain nausea,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,54
+DRUG_01365,fatigue dry mouth frequent urination blurred vision weakness,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,60
+DRUG_01003,dry mouth fatigue anxiety palpitation loss appetite,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,51
+DRUG_01011,cough congestion weakness body ache sore throat headache,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,56
+DRUG_01453,anxiety palpitation insomnia,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,28
+DRUG_01052,sore throat weakness congestion fever,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,37
+DRUG_00475,bloating sour taste nausea chest pain,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,37
+DRUG_00498,cough runny nose shortness breath fatigue chills,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,48
+DRUG_01240,loss appetite discharge redness swelling rash pain,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,50
+DRUG_01248,loss appetite weight loss anxiety,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Sertraline 50mg,Depression,33
+DRUG_01044,chills fatigue swelling fever,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,29
+DRUG_00630,headache fatigue pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,21
+DRUG_00787,exercise intolerance cough chest tightness anxiety wheezing,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,59
+DRUG_00253,sneezing sore throat runny nose cough nausea fever,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,50
+DRUG_00296,congestion watery eyes runny nose swelling itching,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fexofenadine 120mg,Allergy,50
+DRUG_01204,cough shortness breath wheezing exercise intolerance,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,52
+DRUG_01029,swelling weakness joint pain stiffness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,38
+DRUG_01131,swelling redness frequent urination weakness pain,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,49
+DRUG_00854,runny nose congestion rash throat irritation,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,44
+DRUG_00297,slow healing excessive thirst fatigue recurrent infections dry mouth blurred vision,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,83
+DRUG_01127,headache tenderness fever inflammation dizziness,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,48
+DRUG_00362,wheezing cough fatigue chest tightness,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,38
+DRUG_00875,recurrent infections blurred vision weight loss headache excessive thirst dry mouth frequent urination,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Gliclazide 80mg,Diabetes Type 2,102
+DRUG_00255,itching frequent urination slow healing weakness fatigue blurred vision,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,71
+DRUG_00827,chest pain sore throat nausea difficulty swallowing,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,51
+DRUG_00832,palpitation fever cough insomnia chest tightness,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,48
+DRUG_00323,swelling redness pain chills discharge,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,38
+DRUG_00432,skin irritation itching congestion headache sneezing hives,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,58
+DRUG_01273,frequent urination dry mouth itching blurred vision weakness,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,60
+DRUG_01443,sour taste difficulty swallowing nausea bloating chest pain,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,59
+DRUG_00998,fatigue anxiety insomnia weakness,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Escitalopram 10mg,Depression,33
+DRUG_00497,headache pain fatigue fever,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,27
+DRUG_00292,heartburn nausea chest pain difficulty swallowing,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,49
+DRUG_01431,cough runny nose chills swelling congestion nausea sore throat,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,62
+DRUG_01260,fatigue dizziness headache insomnia low energy,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,46
+DRUG_01288,excessive thirst itching blurred vision fatigue slow healing,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,60
+DRUG_01228,chest pain rash swelling itching runny nose skin irritation cough,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Chlorphenamine 4mg,Allergy,65
+DRUG_00785,headache palpitation nausea shortness breath,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Atenolol 50mg,Hypertension,44
+DRUG_00921,dizziness chest pain headache insomnia palpitation fatigue,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,58
+DRUG_00885,nausea fever sneezing joint pain headache back pain pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,56
+DRUG_01433,dizziness headache shortness breath,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Losartan 50mg,Hypertension,35
+DRUG_00877,loss appetite fatigue inflammation difficulty moving joint pain,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,63
+DRUG_00945,sneezing hives runny nose throat irritation cough,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fexofenadine 120mg,Allergy,49
+DRUG_00076,sore throat bloating heartburn nausea loss appetite,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,51
+DRUG_00649,palpitation low energy weight loss chest tightness insomnia fatigue,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,67
+DRUG_01083,burping heartburn cough bloating,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,32
+DRUG_00225,weakness frequent urination swelling stiffness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,46
+DRUG_01394,runny nose fatigue sore throat,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,30
+DRUG_00967,muscle ache dizziness fever headache nausea,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,43
+DRUG_00664,sour taste chest pain heartburn,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,31
+DRUG_00644,cough sneezing sore throat chills,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,33
+DRUG_01379,weakness recurrent infections excessive thirst frequent urination,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,65
+DRUG_00819,body ache fever fatigue,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,23
+DRUG_01473,fever pain headache joint pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,30
+DRUG_01032,bloating heartburn loss appetite sore throat nausea,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,51
+DRUG_00008,headache insomnia palpitation,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,29
+DRUG_00574,pain fever back pain nausea,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,27
+DRUG_00610,frequent urination recurrent infections fatigue slow healing excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,77
+DRUG_00777,sore throat fatigue body ache congestion,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,40
+DRUG_00496,skin irritation congestion headache rash runny nose itching,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fexofenadine 120mg,Allergy,59
+DRUG_00635,fever stiffness weakness joint pain wheezing,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,44
+DRUG_00946,runny nose sore throat cough sneezing,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,37
+DRUG_00459,swelling inflammation stiffness sore throat fever fatigue,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,57
+DRUG_00059,headache pain nausea,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,20
+DRUG_01236,shortness breath cough inflammation exercise intolerance wheezing fatigue,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,73
+DRUG_01243,wheezing shortness breath fatigue chest tightness,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,49
+DRUG_00186,dizziness palpitation nausea fatigue,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,36
+DRUG_01136,nausea redness fatigue,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,22
+DRUG_01225,tenderness joint pain headache pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,35
+DRUG_00765,redness fever swelling cough weakness loss appetite,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,51
+DRUG_00631,dizziness pain headache inflammation,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,36
+DRUG_00259,blurred vision weight loss excessive thirst itching,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Gliclazide 80mg,Diabetes Type 2,51
+DRUG_00458,back pain pain dizziness headache,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,33
+DRUG_00243,nausea difficulty swallowing heartburn chest pain,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,49
+DRUG_00735,stiffness difficulty moving headache weakness joint pain,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,56
+DRUG_01472,cough weakness congestion fatigue,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,33
+DRUG_01326,congestion sore throat fever chills,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol+Phenylephrine,Cold & Flu,35
+DRUG_00823,wheezing chest tightness difficulty breathing shortness breath,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,62
+DRUG_01270,palpitation anxiety wheezing difficulty breathing chest tightness,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,65
+DRUG_00034,back pain muscle ache fever dizziness headache inflammation,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,59
+DRUG_00111,difficulty moving joint pain inflammation stiffness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,51
+DRUG_01033,blurred vision weight loss frequent urination excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,62
+DRUG_01149,fever headache inflammation tenderness,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,38
+DRUG_01280,inflammation dizziness pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,27
+DRUG_00351,fatigue headache palpitation chest tightness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,44
+DRUG_00618,headache inflammation nausea,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,28
+DRUG_00634,nausea heartburn sour taste sore throat bloating,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Omeprazole 20mg,Gastroesophageal Reflux,48
+DRUG_00442,sore throat chills cough,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,24
+DRUG_00471,rash itching hives sneezing congestion swelling,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,47
+DRUG_00520,anxiety headache loss appetite fatigue weight loss,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Fluoxetine 20mg,Depression,50
+DRUG_00286,fatigue fever chills,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,20
+DRUG_00405,frequent urination dry mouth recurrent infections blurred vision fatigue numbness,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,81
+DRUG_00882,stiffness swelling joint pain loss appetite redness difficulty moving,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Diclofenac 50mg,Arthritis,69
+DRUG_01224,cough pain fatigue nausea stiffness discharge,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,45
+DRUG_01165,palpitation anxiety shortness breath cough chest tightness,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,58
+DRUG_00851,fatigue cough congestion sore throat headache body ache,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,55
+DRUG_00266,watery eyes itching throat irritation,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,37
+DRUG_00860,fever dizziness joint pain back pain headache,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,45
+DRUG_00377,tenderness inflammation swelling joint pain runny nose,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,54
+DRUG_00519,headache muscle ache inflammation,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,33
+DRUG_00191,muscle ache tenderness inflammation fever chest pain dizziness,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Tramadol 50mg,Pain Relief,62
+DRUG_01333,dizziness headache inflammation fever,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,37
+DRUG_00789,cough fever weakness,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,20
+DRUG_00671,wheezing anxiety cough chest tightness exercise intolerance,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,59
+DRUG_00388,frequent urination slow healing itching blurred vision,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,54
+DRUG_00715,congestion rash cough hives runny nose,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Loratadine 10mg,Allergy,38
+DRUG_00237,palpitation weight loss fatigue anxiety loss appetite,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,53
+DRUG_00201,weight loss fatigue palpitation dry mouth insomnia,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,50
+DRUG_00910,inflammation stiffness swelling tenderness difficulty moving redness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,68
+DRUG_00384,sore throat runny nose congestion fatigue body ache,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,51
+DRUG_00580,palpitation watery eyes insomnia swelling fatigue headache chest tightness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Losartan 50mg,Hypertension,74
+DRUG_01135,redness pain chills weakness cough,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Ciprofloxacin 500mg,Infection,34
+DRUG_01419,joint pain difficulty moving swelling,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,37
+DRUG_00801,loss appetite sore throat heartburn cough bloating,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,50
+DRUG_01198,slow healing fatigue recurrent infections blurred vision,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Sitagliptin 100mg,Diabetes Type 2,56
+DRUG_01393,headache pain inflammation dizziness fatigue back pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Paracetamol 500mg,Pain Relief,54
+DRUG_00820,nausea sore throat difficulty swallowing cough chest pain bloating,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,66
+DRUG_00976,sore throat body ache fever,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,27
+DRUG_01076,fatigue tenderness headache joint pain fever,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,44
+DRUG_00049,dry mouth fatigue frequent urination excessive thirst,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Gliclazide 80mg,Diabetes Type 2,53
+DRUG_00565,difficulty breathing palpitation cough fatigue shortness breath,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,63
+DRUG_00258,weakness frequent urination blurred vision dry mouth joint pain itching,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Empagliflozin 10mg,Diabetes Type 2,71
+DRUG_00027,fever fatigue runny nose chills,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Dextromethorphan 15mg,Cold & Flu,31
+DRUG_00394,swelling pain cough loss appetite discharge fever,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,49
+DRUG_01072,fatigue weight loss dry mouth excessive thirst frequent urination bloating,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,74
+DRUG_00821,nausea fatigue sneezing fever,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Oseltamivir 75mg,Cold & Flu,29
+DRUG_00570,watery eyes itching rash cough skin irritation,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fexofenadine 120mg,Allergy,46
+DRUG_01200,fever nausea headache back pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Ibuprofen 400mg,Pain Relief,31
+DRUG_01028,pain joint pain chills cough discharge fever,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,44
+DRUG_01356,joint pain swelling stiffness loss appetite redness,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Methotrexate 7.5mg,Arthritis,51
+DRUG_00304,chest tightness dizziness headache blurred vision fatigue,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,57
+DRUG_00091,fatigue stiffness weakness tenderness inflammation joint pain,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]",Celecoxib 200mg,Arthritis,61
+DRUG_00299,watery eyes cough sneezing,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,26
+DRUG_00108,shortness breath anxiety headache cough fatigue insomnia,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Salbutamol Inhaler,Asthma,56
+DRUG_00131,itching sneezing runny nose congestion,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fexofenadine 120mg,Allergy,38
+DRUG_01391,redness cough chills fatigue shortness breath discharge,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Metronidazole 400mg,Infection,55
+DRUG_01380,burping heartburn chest pain sore throat,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Esomeprazole 40mg,Gastroesophageal Reflux,40
+DRUG_00680,cough congestion nausea weakness excessive thirst chills,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]",Pseudoephedrine 60mg,Cold & Flu,56
+DRUG_00615,chest pain nausea rash sore throat heartburn,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Pantoprazole 40mg,Gastroesophageal Reflux,44
+DRUG_00080,anxiety sore throat heartburn nausea difficulty swallowing,"[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]",Ranitidine 150mg,Gastroesophageal Reflux,58
+DRUG_00374,itching skin irritation rash runny nose,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Fexofenadine 120mg,Allergy,39
+DRUG_01211,wheezing shortness breath cough anxiety palpitation insomnia,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Fluticasone Inhaler,Asthma,60
+DRUG_00121,palpitation insomnia anxiety,"[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]",Venlafaxine 75mg,Depression,28
+DRUG_00695,palpitation fatigue headache insomnia nausea chest tightness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,60
+DRUG_00379,fever cough weakness fatigue,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Clarithromycin 500mg,Infection,28
+DRUG_01217,insomnia exercise intolerance wheezing shortness breath,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Montelukast 10mg,Asthma,55
+DRUG_00331,palpitation insomnia chest tightness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Enalapril 10mg,Hypertension,36
+DRUG_01414,back pain tenderness fever muscle ache pain,"[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]",Naproxen 250mg,Pain Relief,43
+DRUG_00892,loss appetite cough nausea swelling redness,"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]",Amoxicillin 500mg,Infection,43
+DRUG_00319,chest tightness insomnia headache dizziness,"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",Amlodipine 5mg,Hypertension,43
+DRUG_00009,chest tightness weakness dry mouth fatigue frequent urination,"[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",Metformin 500mg,Diabetes Type 2,61
+DRUG_01439,palpitation anxiety inflammation wheezing shortness breath fatigue,"[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]",Tiotropium Inhaler,Asthma,66
+DRUG_00386,sneezing itching chest pain congestion,"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]",Cetirizine 10mg,Allergy,38

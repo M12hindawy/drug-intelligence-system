@@ -1,0 +1,34 @@
+# Virtual Environment
+venv/
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+ENV/
+env/
+
+# Python & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Databases & Local Storage
+*.db
+*.sqlite3
+chroma_drug_db/
+chroma.sqlite3
+
+# Logs & Secrets
+*.log
+.env
+.env.local
+.DS_Store
+*.tmp
+logs/
+
+# IDE
+.vscode/
+.idea/

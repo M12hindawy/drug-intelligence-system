@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ code }} — MedLink AI</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Cairo', sans-serif;
+            background: linear-gradient(135deg, #0a0f1e 0%, #0d1b2a 50%, #0a1628 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #fff;
+        }
+        .container {
+            text-align: center;
+            padding: 2rem;
+            max-width: 500px;
+        }
+        .error-code {
+            font-size: 8rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, #00d4ff, #7b2ff7);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            line-height: 1;
+            margin-bottom: 1rem;
+        }
+        .icon {
+            font-size: 4rem;
+            margin-bottom: 1.5rem;
+        }
+        .title {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: #e0e0e0;
+            margin-bottom: 0.75rem;
+        }
+        .subtitle {
+            font-size: 1rem;
+            color: #8899aa;
+            margin-bottom: 2rem;
+            line-height: 1.6;
+        }
+        .btn {
+            display: inline-block;
+            padding: 0.85rem 2rem;
+            background: linear-gradient(135deg, #00d4ff, #7b2ff7);
+            color: white;
+            text-decoration: none;
+            border-radius: 12px;
+            font-family: 'Cairo', sans-serif;
+            font-size: 1rem;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+        }
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0, 212, 255, 0.3);
+        }
+        .pulse {
+            display: inline-block;
+            width: 10px; height: 10px;
+            background: #00d4ff;
+            border-radius: 50%;
+            margin: 0 4px;
+            animation: pulse 1.4s ease-in-out infinite;
+        }
+        .pulse:nth-child(2) { animation-delay: 0.2s; }
+        .pulse:nth-child(3) { animation-delay: 0.4s; }
+        @keyframes pulse {
+            0%, 80%, 100% { transform: scale(0.6); opacity: 0.4; }
+            40% { transform: scale(1); opacity: 1; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="error-code">{{ code }}</div>
+        <div class="icon">
+            {% if code == 404 %}🔍{% elif code == 500 %}⚕️{% else %}⚠️{% endif %}
+        </div>
+        <h1 class="title">
+            {% if code == 404 %}الصفحة غير موجودة
+            {% elif code == 500 %}خطأ في السيرفر
+            {% else %}حدث خطأ{% endif %}
+        </h1>
+        <p class="subtitle">{{ message }}</p>
+        <div style="margin-bottom: 2rem;">
+            <span class="pulse"></span>
+            <span class="pulse"></span>
+            <span class="pulse"></span>
+        </div>
+        <a href="/" class="btn">🏥 العودة للرئيسية</a>
+    </div>
+</body>
+</html>

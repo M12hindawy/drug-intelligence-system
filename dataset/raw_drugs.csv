@@ -1,0 +1,1497 @@
+drug_name,symptoms,side_effects,interactions,condition
+Sertraline 50mg,dizziness fatigue insomnia runny nose loss of appetite weight loss,sexual dysfunction insomnia,,Depression
+Paracetamol+Phenylephrine,sore throat runny nose chills fatigue inflammation weakness congestion,palpitation hypertension,,Cold & Flu
+Ranitidine 150mg,cough runny nose nausea heartburn sour taste,headache confusion,,Gastroesophageal Reflux
+Omeprazole 20mg,heartburn sour taste burping nausea,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Pseudoephedrine 60mg,fever sore throat body ache sneezing chills,insomnia elevated BP,,Cold & Flu
+Metformin 500mg,palpitation dry mouth itching fatigue blurred vision numbness,GI upset lactic acidosis,,Diabetes Type 2
+Cetirizine 10mg,rash swelling runny nose,drowsiness dry mouth,,Allergy
+Diclofenac 50mg,stiffness fever headache inflammation,GI ulceration cardiovascular,,Arthritis
+Enalapril 10mg,headache insomnia palpitation,dry cough dizziness,,Hypertension
+Metformin 500mg,chest tightness weakness dry mouth fatigue frequent urination,GI upset lactic acidosis,,Diabetes Type 2
+Paracetamol 500mg,pain dizziness inflammation tenderness headache,hepatotoxicity nausea,,Pain Relief
+Venlafaxine 75mg,loss of appetite palpitation dizziness fatigue weakness,hypertension sweating,,Depression
+Tramadol 50mg,headache nausea inflammation back pain fever,dependence constipation,,Pain Relief
+Naproxen 250mg,pain fever tenderness headache fatigue inflammation back pain,dyspepsia cardiovascular,,Pain Relief
+Pseudoephedrine 60mg,congestion fever sore throat sneezing,insomnia elevated BP,,Cold & Flu
+Tiotropium Inhaler,wheezing anxiety difficulty breathing shortness breath pain fatigue cough,dry mouth urinary retention,,Asthma
+Tiotropium Inhaler,chest tightness anxiety wheezing,dry mouth urinary retention,,Asthma
+Paracetamol+Phenylephrine,sore throat cough chills,palpitation hypertension,,Cold & Flu
+Metronidazole 400mg,cough pain discharge fatigue,metallic taste neuropathy,,Infection
+Gliclazide 80mg,slow healing blurred vision excessive thirst anxiety fatigue weight loss,hypoglycemia weight gain,,Diabetes Type 2
+Loratadine 10mg,cough rash watery eyes,headache fatigue,,Allergy
+Gliclazide 80mg,numbness frequent urination recurrent infections fatigue,hypoglycemia weight gain,,Diabetes Type 2
+Tiotropium Inhaler,fatigue exercise intolerance chest tightness difficulty breathing wheezing,dry mouth urinary retention,,Asthma
+Pantoprazole 40mg,bloating cough heartburn,headache osteoporosis,,Gastroesophageal Reflux
+Ciprofloxacin 500mg,weakness redness cough swelling fatigue,tendinopathy photosensitivity,,Infection
+Amoxicillin 500mg,chills fatigue fever rash pain,diarrhea hypersensitivity,,Infection
+Diclofenac 50mg,redness joint pain stiffness fatigue inflammation,GI ulceration cardiovascular,,Arthritis
+Dextromethorphan 15mg,fever fatigue runny nose chills,drowsiness nausea,,Cold & Flu
+Dextromethorphan 15mg,congestion sore throat chills body ache fatigue,drowsiness nausea,,Cold & Flu
+Empagliflozin 10mg,slow healing frequent urination recurrent infections blurred vision,UTI genital mycosis,,Diabetes Type 2
+Metformin 500mg,weight loss excessive thirst fatigue weakness recurrent infections,GI upset lactic acidosis,,Diabetes Type 2
+Amlodipine 5mg,dizziness stiffness anxiety headache fatigue,peripheral edema flushing,,Hypertension
+Dextromethorphan 15mg,cough congestion body ache weakness fatigue,drowsiness nausea,,Cold & Flu
+Hydroxychloroquine 200mg,fatigue difficulty moving stiffness redness swelling,retinopathy GI upset,,Arthritis
+Naproxen 250mg,back pain muscle ache fever dizziness headache inflammation,dyspepsia cardiovascular,,Pain Relief
+Ranitidine 150mg,heartburn chest pain bloating cough sore throat,headache confusion,,Gastroesophageal Reflux
+Fluticasone Inhaler,wheezing chest tightness anxiety fatigue shortness breath,oral thrush hoarseness,,Asthma
+Sertraline 50mg,weight loss headache fatigue dry mouth loss of appetite,sexual dysfunction insomnia,,Depression
+Tramadol 50mg,muscle ache pain fever,dependence constipation,,Pain Relief
+Cetirizine 10mg,sneezing congestion skin irritation runny nose cough itching,drowsiness dry mouth,,Allergy
+Pseudoephedrine 60mg,fatigue nausea sore throat cough,insomnia elevated BP,,Cold & Flu
+Sertraline 50mg,insomnia fatigue weakness chest tightness,sexual dysfunction insomnia,,Depression
+Amoxicillin 500mg,cough pain fatigue,diarrhea hypersensitivity,,Infection
+Paracetamol+Phenylephrine,congestion chills fatigue,palpitation hypertension,,Cold & Flu
+Amoxicillin 500mg,rash swelling fever,diarrhea hypersensitivity,,Infection
+Gliclazide 80mg,slow healing blurred vision excessive thirst fatigue dry mouth,hypoglycemia weight gain,,Diabetes Type 2
+Oseltamivir 75mg,headache sore throat fever nausea,nausea vomiting,,Cold & Flu
+Sertraline 50mg,dizziness anxiety fatigue insomnia,sexual dysfunction insomnia,,Depression
+Ibuprofen 400mg,back pain muscle ache inflammation palpitation dizziness fever,GI bleeding renal risk,,Pain Relief
+Gliclazide 80mg,dry mouth fatigue frequent urination excessive thirst,hypoglycemia weight gain,,Diabetes Type 2
+Oseltamivir 75mg,body ache sore throat fatigue fever,nausea vomiting,,Cold & Flu
+Paracetamol+Phenylephrine,congestion chills cough,palpitation hypertension,,Cold & Flu
+Pseudoephedrine 60mg,congestion chills sore throat,insomnia elevated BP,,Cold & Flu
+Salbutamol Inhaler,fatigue chest tightness anxiety cough,tremor tachycardia,,Asthma
+Fluticasone Inhaler,insomnia swelling cough wheezing,oral thrush hoarseness,,Asthma
+Cetirizine 10mg,watery eyes runny nose skin irritation congestion cough,drowsiness dry mouth,,Allergy
+Tiotropium Inhaler,palpitation exercise intolerance cough wheezing fatigue,dry mouth urinary retention,,Asthma
+Esomeprazole 40mg,fatigue chest pain heartburn burping bloating,diarrhea abdominal pain,,Gastroesophageal Reflux
+Escitalopram 10mg,headache dry mouth anxiety insomnia loss of appetite,QT prolongation,,Depression
+Tramadol 50mg,headache pain nausea,dependence constipation,,Pain Relief
+Tramadol 50mg,pain fever dizziness,dependence constipation,,Pain Relief
+Hydroxychloroquine 200mg,stiffness tenderness swelling joint pain,retinopathy GI upset,,Arthritis
+Amlodipine 5mg,dizziness swelling anxiety headache,peripheral edema flushing,,Hypertension
+Methotrexate 7.5mg,stiffness difficulty moving joint pain,hepatotoxicity pulmonary,,Arthritis
+Atenolol 50mg,headache chest tightness dizziness insomnia fatigue blurred vision,bradycardia fatigue,,Hypertension
+Clarithromycin 500mg,chills weakness pain nausea fever,QT prolongation hepatotoxicity,,Infection
+Omeprazole 20mg,sour taste chest pain heartburn,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Metformin 500mg,excessive thirst itching frequent urination dry mouth blurred vision weakness,GI upset lactic acidosis,,Diabetes Type 2
+Esomeprazole 40mg,bloating nausea chest pain loss of appetite,diarrhea abdominal pain,,Gastroesophageal Reflux
+Pseudoephedrine 60mg,cough fever fatigue wheezing headache,insomnia elevated BP,,Cold & Flu
+Atenolol 50mg,palpitation headache blurred vision,bradycardia fatigue,,Hypertension
+Sertraline 50mg,cough weakness fatigue anxiety,sexual dysfunction insomnia,,Depression
+Omeprazole 20mg,sour taste burping heartburn chest pain sore throat,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Losartan 50mg,dizziness nausea headache fatigue,hyperkalemia dizziness,,Hypertension
+Sitagliptin 100mg,excessive thirst recurrent infections weight loss frequent urination,nasopharyngitis pancreatitis,,Diabetes Type 2
+Diclofenac 50mg,tenderness joint pain difficulty moving stiffness,GI ulceration cardiovascular,,Arthritis
+Omeprazole 20mg,sore throat bloating heartburn nausea loss of appetite,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Pantoprazole 40mg,nausea burping sour taste headache chest pain heartburn,headache osteoporosis,,Gastroesophageal Reflux
+Enalapril 10mg,headache swelling insomnia palpitation anxiety chest tightness,dry cough dizziness,,Hypertension
+Omeprazole 20mg,bloating burping nausea heartburn difficulty swallowing,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Ranitidine 150mg,anxiety sore throat heartburn nausea difficulty swallowing,headache confusion,,Gastroesophageal Reflux
+Amoxicillin 500mg,loss of appetite fatigue swelling fever discharge,diarrhea hypersensitivity,,Infection
+Venlafaxine 75mg,fatigue anxiety low energy insomnia cough,hypertension sweating,,Depression
+Tiotropium Inhaler,exercise intolerance wheezing joint pain cough difficulty breathing insomnia,dry mouth urinary retention,,Asthma
+Loratadine 10mg,rash runny nose throat irritation,headache fatigue,,Allergy
+Fexofenadine 120mg,hives skin irritation sneezing pain rash,headache back pain,,Allergy
+Amoxicillin 500mg,chills joint pain redness fever fatigue nausea,diarrhea hypersensitivity,,Infection
+Omeprazole 20mg,sore throat heartburn pain nausea sour taste,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Paracetamol+Phenylephrine,cough congestion headache,palpitation hypertension,,Cold & Flu
+Loratadine 10mg,watery eyes runny nose throat irritation,headache fatigue,,Allergy
+Chlorphenamine 4mg,itching skin irritation sneezing congestion runny nose cough,sedation anticholinergic,,Allergy
+Celecoxib 200mg,fatigue stiffness weakness tenderness inflammation joint pain,cardiovascular edema,,Arthritis
+Metronidazole 400mg,discharge fever pain chills weakness,metallic taste neuropathy,,Infection
+Fluticasone Inhaler,wheezing anxiety cough difficulty breathing exercise intolerance,oral thrush hoarseness,,Asthma
+Pantoprazole 40mg,heartburn cough loss of appetite bloating burping,headache osteoporosis,,Gastroesophageal Reflux
+Fluticasone Inhaler,exercise intolerance cough shortness breath palpitation wheezing,oral thrush hoarseness,,Asthma
+Pseudoephedrine 60mg,fever body ache chills weakness cough sore throat,insomnia elevated BP,,Cold & Flu
+Chlorphenamine 4mg,runny nose rash swelling throat irritation cough,sedation anticholinergic,,Allergy
+Metronidazole 400mg,pain rash redness,metallic taste neuropathy,,Infection
+Enalapril 10mg,anxiety chest tightness shortness breath dizziness headache,dry cough dizziness,,Hypertension
+Diclofenac 50mg,redness swelling joint pain fatigue inflammation weakness,GI ulceration cardiovascular,,Arthritis
+Tramadol 50mg,headache pain back pain,dependence constipation,,Pain Relief
+Diclofenac 50mg,inflammation fatigue weakness stiffness swelling,GI ulceration cardiovascular,,Arthritis
+Venlafaxine 75mg,dizziness loss of appetite anxiety fatigue low energy dry mouth,hypertension sweating,,Depression
+Losartan 50mg,dizziness nausea palpitation fatigue,hyperkalemia dizziness,,Hypertension
+Clarithromycin 500mg,fever swelling loss of appetite,QT prolongation hepatotoxicity,,Infection
+Fluoxetine 20mg,insomnia low energy weakness anxiety dizziness loss of appetite,initial anxiety insomnia,,Depression
+Enalapril 10mg,headache chest tightness swelling,dry cough dizziness,,Hypertension
+Salbutamol Inhaler,shortness breath anxiety headache cough fatigue insomnia,tremor tachycardia,,Asthma
+Oseltamivir 75mg,nausea body ache congestion cough fatigue,nausea vomiting,,Cold & Flu
+Chlorphenamine 4mg,watery eyes fatigue itching congestion,sedation anticholinergic,,Allergy
+Celecoxib 200mg,difficulty moving joint pain inflammation stiffness,cardiovascular edema,,Arthritis
+Escitalopram 10mg,loss of appetite palpitation anxiety insomnia,QT prolongation,,Depression
+Metronidazole 400mg,rash loss of appetite nausea swelling fatigue,metallic taste neuropathy,,Infection
+Paracetamol+Phenylephrine,body ache cough fever sore throat chills weakness,palpitation hypertension,,Cold & Flu
+Metformin 500mg,excessive thirst fatigue weight loss slow healing,GI upset lactic acidosis,,Diabetes Type 2
+Gliclazide 80mg,blurred vision fatigue weight loss frequent urination dry mouth weakness,hypoglycemia weight gain,,Diabetes Type 2
+Celecoxib 200mg,chest tightness stiffness tenderness redness joint pain fatigue,cardiovascular edema,,Arthritis
+Ranitidine 150mg,nausea burping sour taste cough heartburn chest pain,headache confusion,,Gastroesophageal Reflux
+Pseudoephedrine 60mg,cough weakness fever,insomnia elevated BP,,Cold & Flu
+Fluticasone Inhaler,palpitation exercise intolerance cough insomnia shortness breath,oral thrush hoarseness,,Asthma
+Venlafaxine 75mg,palpitation insomnia anxiety,hypertension sweating,,Depression
+Atenolol 50mg,insomnia palpitation headache,bradycardia fatigue,,Hypertension
+Metronidazole 400mg,pain fever nausea,metallic taste neuropathy,,Infection
+Ciprofloxacin 500mg,fever loss of appetite swelling fatigue rash weakness,tendinopathy photosensitivity,,Infection
+Ciprofloxacin 500mg,itching pain nausea fever,tendinopathy photosensitivity,,Infection
+Metformin 500mg,frequent urination recurrent infections excessive thirst weakness,GI upset lactic acidosis,,Diabetes Type 2
+Fluoxetine 20mg,weakness fatigue loss of appetite insomnia,initial anxiety insomnia,,Depression
+Naproxen 250mg,pain muscle ache back pain cough fever joint pain,dyspepsia cardiovascular,,Pain Relief
+Ciprofloxacin 500mg,fever pain weakness,tendinopathy photosensitivity,,Infection
+Ciprofloxacin 500mg,swelling cough loss of appetite redness discharge,tendinopathy photosensitivity,,Infection
+Fexofenadine 120mg,itching sneezing runny nose congestion,headache back pain,,Allergy
+Esomeprazole 40mg,chest pain bloating nausea cough,diarrhea abdominal pain,,Gastroesophageal Reflux
+Venlafaxine 75mg,anxiety fatigue low energy dizziness headache,hypertension sweating,,Depression
+Paracetamol+Phenylephrine,weakness fever fatigue,palpitation hypertension,,Cold & Flu
+Loratadine 10mg,swelling sneezing cough itching congestion rash,headache fatigue,,Allergy
+Paracetamol 500mg,headache dizziness inflammation fever,hepatotoxicity nausea,,Pain Relief
+Methotrexate 7.5mg,swelling tenderness difficulty moving fatigue rash inflammation joint pain,hepatotoxicity pulmonary,,Arthritis
+Loratadine 10mg,sneezing throat irritation rash watery eyes,headache fatigue,,Allergy
+Salbutamol Inhaler,shortness breath difficulty breathing chest tightness palpitation insomnia,tremor tachycardia,,Asthma
+Clarithromycin 500mg,nausea pain headache fever chills loss of appetite redness,QT prolongation hepatotoxicity,,Infection
+Escitalopram 10mg,headache fatigue palpitation low energy insomnia anxiety,QT prolongation,,Depression
+Ranitidine 150mg,heartburn insomnia chest pain cough,headache confusion,,Gastroesophageal Reflux
+Esomeprazole 40mg,loss of appetite sour taste nausea difficulty swallowing chest pain bloating,diarrhea abdominal pain,,Gastroesophageal Reflux
+Gliclazide 80mg,blurred vision weight loss fatigue dry mouth itching,hypoglycemia weight gain,,Diabetes Type 2
+Celecoxib 200mg,swelling inflammation joint pain redness loss of appetite weakness,cardiovascular edema,,Arthritis
+Fluoxetine 20mg,insomnia dizziness anxiety,initial anxiety insomnia,,Depression
+Ciprofloxacin 500mg,discharge fever excessive thirst redness fatigue,tendinopathy photosensitivity,,Infection
+Diclofenac 50mg,itching tenderness swelling inflammation,GI ulceration cardiovascular,,Arthritis
+Tiotropium Inhaler,insomnia shortness breath chest tightness fatigue cough difficulty breathing,dry mouth urinary retention,,Asthma
+Ciprofloxacin 500mg,swelling weakness fatigue redness nausea cough,tendinopathy photosensitivity,,Infection
+Fluticasone Inhaler,shortness breath exercise intolerance difficulty breathing palpitation cough,oral thrush hoarseness,,Asthma
+Metformin 500mg,excessive thirst dry mouth fatigue,GI upset lactic acidosis,,Diabetes Type 2
+Chlorphenamine 4mg,rash sneezing watery eyes throat irritation swelling,sedation anticholinergic,,Allergy
+Hydroxychloroquine 200mg,redness joint pain fever inflammation,retinopathy GI upset,,Arthritis
+Montelukast 10mg,stiffness shortness breath chest tightness wheezing exercise intolerance insomnia palpitation,neuropsychiatric headache,,Asthma
+Fexofenadine 120mg,rash throat irritation itching,headache back pain,,Allergy
+Celecoxib 200mg,swelling difficulty moving stiffness joint pain tenderness,cardiovascular edema,,Arthritis
+Fluoxetine 20mg,insomnia headache weakness anxiety,initial anxiety insomnia,,Depression
+Enalapril 10mg,chest tightness blurred vision dizziness palpitation swelling,dry cough dizziness,,Hypertension
+Oseltamivir 75mg,weakness headache sore throat fatigue fever,nausea vomiting,,Cold & Flu
+Chlorphenamine 4mg,cough watery eyes hives itching skin irritation,sedation anticholinergic,,Allergy
+Montelukast 10mg,fatigue cough chest tightness runny nose difficulty breathing,neuropsychiatric headache,,Asthma
+Methotrexate 7.5mg,fever joint pain redness stiffness inflammation weakness,hepatotoxicity pulmonary,,Arthritis
+Losartan 50mg,palpitation fatigue blurred vision headache dizziness nausea,hyperkalemia dizziness,,Hypertension
+Dextromethorphan 15mg,weakness nausea cough fatigue headache sore throat,drowsiness nausea,,Cold & Flu
+Gliclazide 80mg,dry mouth fatigue itching weakness excessive thirst,hypoglycemia weight gain,,Diabetes Type 2
+Diclofenac 50mg,stiffness swelling fatigue fever,GI ulceration cardiovascular,,Arthritis
+Paracetamol 500mg,tenderness nausea inflammation headache excessive thirst fatigue fever,hepatotoxicity nausea,,Pain Relief
+Oseltamivir 75mg,fever sore throat runny nose congestion sneezing body ache,nausea vomiting,,Cold & Flu
+Esomeprazole 40mg,bloating rash loss of appetite chest pain nausea,diarrhea abdominal pain,,Gastroesophageal Reflux
+Tiotropium Inhaler,difficulty breathing inflammation cough exercise intolerance wheezing,dry mouth urinary retention,,Asthma
+Chlorphenamine 4mg,sneezing rash cough congestion runny nose throat irritation,sedation anticholinergic,,Allergy
+Fexofenadine 120mg,sneezing runny nose rash cough,headache back pain,,Allergy
+Salbutamol Inhaler,fatigue chest tightness shortness breath difficulty breathing wheezing,tremor tachycardia,,Asthma
+Empagliflozin 10mg,fatigue recurrent infections numbness blurred vision excessive thirst itching,UTI genital mycosis,,Diabetes Type 2
+Fluticasone Inhaler,wheezing shortness breath exercise intolerance chest tightness fever anxiety,oral thrush hoarseness,,Asthma
+Chlorphenamine 4mg,rash itching skin irritation watery eyes,sedation anticholinergic,,Allergy
+Dextromethorphan 15mg,chills weakness sore throat cough,drowsiness nausea,,Cold & Flu
+Metformin 500mg,fatigue frequent urination numbness cough itching excessive thirst,GI upset lactic acidosis,,Diabetes Type 2
+Fexofenadine 120mg,congestion hives rash cough itching,headache back pain,,Allergy
+Fluticasone Inhaler,palpitation shortness breath difficulty breathing chest tightness fatigue,oral thrush hoarseness,,Asthma
+Fluticasone Inhaler,exercise intolerance shortness breath fatigue cough palpitation,oral thrush hoarseness,,Asthma
+Dextromethorphan 15mg,weakness congestion body ache cough,drowsiness nausea,,Cold & Flu
+Naproxen 250mg,headache inflammation fever nausea,dyspepsia cardiovascular,,Pain Relief
+Paracetamol+Phenylephrine,body ache fatigue nausea fever,palpitation hypertension,,Cold & Flu
+Enalapril 10mg,dizziness palpitation nausea fatigue,dry cough dizziness,,Hypertension
+Ibuprofen 400mg,headache nausea muscle ache pain inflammation,GI bleeding renal risk,,Pain Relief
+Gliclazide 80mg,frequent urination excessive thirst fatigue numbness,hypoglycemia weight gain,,Diabetes Type 2
+Losartan 50mg,chest tightness anxiety insomnia headache pain nausea palpitation,hyperkalemia dizziness,,Hypertension
+Fexofenadine 120mg,itching rash congestion fever swelling,headache back pain,,Allergy
+Tramadol 50mg,muscle ache tenderness inflammation fever chest pain dizziness,dependence constipation,,Pain Relief
+Gliclazide 80mg,blurred vision frequent urination weight loss excessive thirst,hypoglycemia weight gain,,Diabetes Type 2
+Pantoprazole 40mg,bloating burping chest pain loss of appetite,headache osteoporosis,,Gastroesophageal Reflux
+Cetirizine 10mg,throat irritation sneezing swelling runny nose rash,drowsiness dry mouth,,Allergy
+Fluoxetine 20mg,insomnia dry mouth anxiety headache fatigue,initial anxiety insomnia,,Depression
+Tiotropium Inhaler,chest tightness wheezing palpitation insomnia shortness breath,dry mouth urinary retention,,Asthma
+Enalapril 10mg,anxiety headache palpitation insomnia swelling,dry cough dizziness,,Hypertension
+Esomeprazole 40mg,sour taste nausea heartburn loss of appetite,diarrhea abdominal pain,,Gastroesophageal Reflux
+Hydroxychloroquine 200mg,weakness inflammation stiffness bloating joint pain tenderness,retinopathy GI upset,,Arthritis
+Sertraline 50mg,insomnia weight loss fatigue anxiety,sexual dysfunction insomnia,,Depression
+Venlafaxine 75mg,weight loss fatigue palpitation dry mouth insomnia,hypertension sweating,,Depression
+Hydroxychloroquine 200mg,inflammation redness tenderness loss of appetite stiffness swelling,retinopathy GI upset,,Arthritis
+Fluoxetine 20mg,joint pain low energy weight loss fatigue headache anxiety,initial anxiety insomnia,,Depression
+Naproxen 250mg,fever muscle ache pain nausea inflammation,dyspepsia cardiovascular,,Pain Relief
+Paracetamol 500mg,fever tenderness inflammation,hepatotoxicity nausea,,Pain Relief
+Pantoprazole 40mg,sore throat nausea chest pain heartburn loss of appetite,headache osteoporosis,,Gastroesophageal Reflux
+Empagliflozin 10mg,weight loss dry mouth blurred vision frequent urination fatigue,UTI genital mycosis,,Diabetes Type 2
+Sitagliptin 100mg,slow healing numbness excessive thirst stiffness fatigue weakness,nasopharyngitis pancreatitis,,Diabetes Type 2
+Venlafaxine 75mg,palpitation loss of appetite fatigue dizziness anxiety,hypertension sweating,,Depression
+Methotrexate 7.5mg,inflammation swelling fever blurred vision weakness,hepatotoxicity pulmonary,,Arthritis
+Sertraline 50mg,weakness insomnia fatigue loss of appetite,sexual dysfunction insomnia,,Depression
+Hydroxychloroquine 200mg,swelling tenderness difficulty moving joint pain,retinopathy GI upset,,Arthritis
+Gliclazide 80mg,blurred vision numbness fatigue frequent urination,hypoglycemia weight gain,,Diabetes Type 2
+Cetirizine 10mg,runny nose itching inflammation congestion throat irritation,drowsiness dry mouth,,Allergy
+Fluticasone Inhaler,anxiety wheezing shortness breath exercise intolerance difficulty breathing,oral thrush hoarseness,,Asthma
+Dextromethorphan 15mg,fever weakness body ache cough fatigue nausea,drowsiness nausea,,Cold & Flu
+Cetirizine 10mg,hives itching watery eyes congestion swelling rash,drowsiness dry mouth,,Allergy
+Methotrexate 7.5mg,weakness stiffness joint pain fever,hepatotoxicity pulmonary,,Arthritis
+Fluticasone Inhaler,wheezing shortness breath palpitation anxiety,oral thrush hoarseness,,Asthma
+Sertraline 50mg,dry mouth anxiety loss of appetite fatigue,sexual dysfunction insomnia,,Depression
+Sitagliptin 100mg,frequent urination itching excessive thirst,nasopharyngitis pancreatitis,,Diabetes Type 2
+Fluticasone Inhaler,exercise intolerance chest tightness shortness breath,oral thrush hoarseness,,Asthma
+Paracetamol+Phenylephrine,fatigue nausea sore throat fever headache weakness,palpitation hypertension,,Cold & Flu
+Atenolol 50mg,insomnia palpitation anxiety headache dizziness nausea,bradycardia fatigue,,Hypertension
+Diclofenac 50mg,weakness frequent urination swelling stiffness,GI ulceration cardiovascular,,Arthritis
+Montelukast 10mg,insomnia cough shortness breath palpitation chest tightness fatigue exercise intolerance,neuropsychiatric headache,,Asthma
+Pseudoephedrine 60mg,congestion cough runny nose chills,insomnia elevated BP,,Cold & Flu
+Clarithromycin 500mg,swelling loss of appetite fatigue rash chills pain,QT prolongation hepatotoxicity,,Infection
+Salbutamol Inhaler,wheezing insomnia shortness breath fatigue,tremor tachycardia,,Asthma
+Sertraline 50mg,fatigue palpitation weight loss anxiety,sexual dysfunction insomnia,,Depression
+Clarithromycin 500mg,fever fatigue itching swelling discharge,QT prolongation hepatotoxicity,,Infection
+Naproxen 250mg,headache joint pain fever,dyspepsia cardiovascular,,Pain Relief
+Pantoprazole 40mg,chest pain sour taste nausea loss of appetite heartburn difficulty swallowing,headache osteoporosis,,Gastroesophageal Reflux
+Atenolol 50mg,headache shortness breath chest tightness,bradycardia fatigue,,Hypertension
+Fexofenadine 120mg,cough runny nose rash skin irritation,headache back pain,,Allergy
+Naproxen 250mg,headache fatigue back pain fever pain muscle ache,dyspepsia cardiovascular,,Pain Relief
+Venlafaxine 75mg,palpitation weight loss fatigue anxiety loss of appetite,hypertension sweating,,Depression
+Enalapril 10mg,fatigue dizziness headache insomnia blurred vision,dry cough dizziness,,Hypertension
+Sertraline 50mg,dry mouth palpitation anxiety loss of appetite fatigue,sexual dysfunction insomnia,,Depression
+Clarithromycin 500mg,fatigue pain discharge redness loss of appetite,QT prolongation hepatotoxicity,,Infection
+Celecoxib 200mg,excessive thirst joint pain swelling loss of appetite,cardiovascular edema,,Arthritis
+Ciprofloxacin 500mg,discharge chest tightness swelling fatigue fever,tendinopathy photosensitivity,,Infection
+Ranitidine 150mg,nausea difficulty swallowing heartburn chest pain,headache confusion,,Gastroesophageal Reflux
+Venlafaxine 75mg,anxiety headache loss of appetite insomnia,hypertension sweating,,Depression
+Ibuprofen 400mg,fever fatigue tenderness headache,GI bleeding renal risk,,Pain Relief
+Tiotropium Inhaler,fatigue chest tightness wheezing,dry mouth urinary retention,,Asthma
+Fexofenadine 120mg,shortness breath watery eyes congestion runny nose,headache back pain,,Allergy
+Empagliflozin 10mg,fatigue excessive thirst frequent urination weakness,UTI genital mycosis,,Diabetes Type 2
+Metronidazole 400mg,swelling fever loss of appetite redness nausea,metallic taste neuropathy,,Infection
+Ranitidine 150mg,bloating fever heartburn nausea difficulty swallowing burping,headache confusion,,Gastroesophageal Reflux
+Celecoxib 200mg,joint pain difficulty moving inflammation,cardiovascular edema,,Arthritis
+Dextromethorphan 15mg,congestion fever headache weakness sneezing body ache,drowsiness nausea,,Cold & Flu
+Paracetamol+Phenylephrine,sneezing sore throat runny nose cough nausea fever,palpitation hypertension,,Cold & Flu
+Dextromethorphan 15mg,runny nose weakness cough sore throat sneezing,drowsiness nausea,,Cold & Flu
+Metformin 500mg,itching frequent urination slow healing weakness fatigue blurred vision,GI upset lactic acidosis,,Diabetes Type 2
+Amlodipine 5mg,chest tightness headache blurred vision dizziness,peripheral edema flushing,,Hypertension
+Omeprazole 20mg,sour taste nausea bloating,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Empagliflozin 10mg,weakness frequent urination blurred vision dry mouth joint pain itching,UTI genital mycosis,,Diabetes Type 2
+Gliclazide 80mg,blurred vision weight loss excessive thirst itching,hypoglycemia weight gain,,Diabetes Type 2
+Ranitidine 150mg,bloating heartburn chest pain burping sore throat loss of appetite,headache confusion,,Gastroesophageal Reflux
+Paracetamol+Phenylephrine,wheezing cough fever sore throat body ache weakness,palpitation hypertension,,Cold & Flu
+Amoxicillin 500mg,rash weakness swelling discharge palpitation fatigue,diarrhea hypersensitivity,,Infection
+Gliclazide 80mg,blurred vision itching frequent urination recurrent infections fatigue,hypoglycemia weight gain,,Diabetes Type 2
+Fluoxetine 20mg,insomnia loss of appetite low energy anxiety,initial anxiety insomnia,,Depression
+Metformin 500mg,dry mouth excessive thirst fatigue blurred vision,GI upset lactic acidosis,,Diabetes Type 2
+Cetirizine 10mg,watery eyes itching throat irritation,drowsiness dry mouth,,Allergy
+Enalapril 10mg,headache insomnia shortness breath chest tightness dizziness,dry cough dizziness,,Hypertension
+Escitalopram 10mg,anxiety loss of appetite weakness insomnia fatigue low energy,QT prolongation,,Depression
+Tiotropium Inhaler,exercise intolerance fatigue wheezing chest tightness bloating palpitation shortness breath,dry mouth urinary retention,,Asthma
+Venlafaxine 75mg,dizziness loss of appetite headache insomnia weakness fatigue,hypertension sweating,,Depression
+Escitalopram 10mg,low energy inflammation dry mouth palpitation anxiety fatigue insomnia,QT prolongation,,Depression
+Clarithromycin 500mg,discharge fever bloating rash pain redness,QT prolongation hepatotoxicity,,Infection
+Cetirizine 10mg,sneezing runny nose congestion,drowsiness dry mouth,,Allergy
+Atenolol 50mg,fatigue dizziness frequent urination palpitation,bradycardia fatigue,,Hypertension
+Ranitidine 150mg,nausea bloating chest pain sore throat,headache confusion,,Gastroesophageal Reflux
+Atenolol 50mg,runny nose dizziness blurred vision headache insomnia anxiety,bradycardia fatigue,,Hypertension
+Salbutamol Inhaler,cough wheezing insomnia shortness breath,tremor tachycardia,,Asthma
+Loratadine 10mg,swelling cough watery eyes sneezing runny nose,headache fatigue,,Allergy
+Tramadol 50mg,tenderness dizziness fatigue pain fever,dependence constipation,,Pain Relief
+Methotrexate 7.5mg,joint pain fever loss of appetite fatigue stiffness,hepatotoxicity pulmonary,,Arthritis
+Salbutamol Inhaler,chest tightness palpitation exercise intolerance anxiety wheezing shortness breath,tremor tachycardia,,Asthma
+Ciprofloxacin 500mg,chills pain loss of appetite fever,tendinopathy photosensitivity,,Infection
+Omeprazole 20mg,bloating fatigue sour taste nausea difficulty swallowing,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Clarithromycin 500mg,discharge swelling fever joint pain,QT prolongation hepatotoxicity,,Infection
+Fluticasone Inhaler,fatigue wheezing shortness breath chest tightness anxiety,oral thrush hoarseness,,Asthma
+Clarithromycin 500mg,fatigue fever chills,QT prolongation hepatotoxicity,,Infection
+Oseltamivir 75mg,heartburn runny nose congestion fatigue cough,nausea vomiting,,Cold & Flu
+Loratadine 10mg,watery eyes throat irritation runny nose,headache fatigue,,Allergy
+Paracetamol+Phenylephrine,runny nose chest tightness congestion cough sore throat body ache,palpitation hypertension,,Cold & Flu
+Ibuprofen 400mg,pain dizziness joint pain fever tenderness inflammation,GI bleeding renal risk,,Pain Relief
+Metronidazole 400mg,frequent urination pain fever weakness fatigue,metallic taste neuropathy,,Infection
+Omeprazole 20mg,heartburn nausea chest pain difficulty swallowing,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Paracetamol 500mg,fever back pain nausea inflammation headache,hepatotoxicity nausea,,Pain Relief
+Venlafaxine 75mg,palpitation low energy fatigue loss of appetite dizziness,hypertension sweating,,Depression
+Celecoxib 200mg,inflammation stiffness insomnia weakness,cardiovascular edema,,Arthritis
+Fexofenadine 120mg,congestion watery eyes runny nose swelling itching,headache back pain,,Allergy
+Sitagliptin 100mg,slow healing excessive thirst fatigue recurrent infections dry mouth blurred vision,nasopharyngitis pancreatitis,,Diabetes Type 2
+Metformin 500mg,weakness blurred vision weight loss excessive thirst,GI upset lactic acidosis,,Diabetes Type 2
+Cetirizine 10mg,watery eyes cough sneezing,drowsiness dry mouth,,Allergy
+Dextromethorphan 15mg,nausea sore throat headache congestion runny nose,drowsiness nausea,,Cold & Flu
+Omeprazole 20mg,sore throat chest pain sour taste nausea bloating,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Cetirizine 10mg,watery eyes rash congestion,drowsiness dry mouth,,Allergy
+Escitalopram 10mg,palpitation fatigue dry mouth low energy loss of appetite,QT prolongation,,Depression
+Enalapril 10mg,chest tightness dizziness headache blurred vision fatigue,dry cough dizziness,,Hypertension
+Sertraline 50mg,low energy insomnia anxiety weight loss fatigue,sexual dysfunction insomnia,,Depression
+Cetirizine 10mg,swelling watery eyes cough sneezing anxiety hives,drowsiness dry mouth,,Allergy
+Salbutamol Inhaler,shortness breath palpitation chest tightness difficulty breathing exercise intolerance wheezing,tremor tachycardia,,Asthma
+Amlodipine 5mg,palpitation shortness breath nausea fatigue dizziness headache loss of appetite,peripheral edema flushing,,Hypertension
+Tramadol 50mg,headache pain fatigue fever,dependence constipation,,Pain Relief
+Tiotropium Inhaler,insomnia shortness breath cough exercise intolerance,dry mouth urinary retention,,Asthma
+Fluticasone Inhaler,cough chest tightness exercise intolerance wheezing,oral thrush hoarseness,,Asthma
+Fexofenadine 120mg,sneezing rash congestion swelling runny nose,headache back pain,,Allergy
+Clarithromycin 500mg,pain fatigue cough nausea chills fever,QT prolongation hepatotoxicity,,Infection
+Diclofenac 50mg,fever joint pain redness inflammation weakness,GI ulceration cardiovascular,,Arthritis
+Celecoxib 200mg,redness stiffness joint pain frequent urination,cardiovascular edema,,Arthritis
+Atenolol 50mg,dizziness chest tightness anxiety palpitation,bradycardia fatigue,,Hypertension
+Dextromethorphan 15mg,sore throat fatigue runny nose fever body ache headache,drowsiness nausea,,Cold & Flu
+Atenolol 50mg,anxiety fatigue chest tightness nausea headache,bradycardia fatigue,,Hypertension
+Amlodipine 5mg,chest tightness insomnia headache dizziness,peripheral edema flushing,,Hypertension
+Pantoprazole 40mg,difficulty swallowing bloating burping nausea chest pain,headache osteoporosis,,Gastroesophageal Reflux
+Paracetamol 500mg,back pain nausea headache fever,hepatotoxicity nausea,,Pain Relief
+Tiotropium Inhaler,difficulty breathing shortness breath chest tightness anxiety,dry mouth urinary retention,,Asthma
+Metronidazole 400mg,swelling redness pain chills discharge,metallic taste neuropathy,,Infection
+Metformin 500mg,itching fatigue excessive thirst blurred vision numbness inflammation weight loss,GI upset lactic acidosis,,Diabetes Type 2
+Enalapril 10mg,dizziness shortness breath headache palpitation,dry cough dizziness,,Hypertension
+Paracetamol 500mg,fatigue dizziness inflammation headache,hepatotoxicity nausea,,Pain Relief
+Pantoprazole 40mg,sour taste heartburn sore throat bloating difficulty swallowing chest pain,headache osteoporosis,,Gastroesophageal Reflux
+Amlodipine 5mg,anxiety chest tightness headache blurred vision insomnia dizziness,peripheral edema flushing,,Hypertension
+Pseudoephedrine 60mg,body ache headache runny nose fatigue sneezing congestion,insomnia elevated BP,,Cold & Flu
+Tramadol 50mg,headache fever fatigue watery eyes inflammation tenderness,dependence constipation,,Pain Relief
+Enalapril 10mg,palpitation insomnia chest tightness,dry cough dizziness,,Hypertension
+Gliclazide 80mg,slow healing weakness excessive thirst frequent urination itching fatigue,hypoglycemia weight gain,,Diabetes Type 2
+Empagliflozin 10mg,numbness fatigue excessive thirst,UTI genital mycosis,,Diabetes Type 2
+Sitagliptin 100mg,frequent urination slow healing dry mouth blurred vision,nasopharyngitis pancreatitis,,Diabetes Type 2
+Omeprazole 20mg,sore throat burping bloating chest pain,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Paracetamol+Phenylephrine,fatigue sneezing sore throat congestion nausea,palpitation hypertension,,Cold & Flu
+Montelukast 10mg,insomnia palpitation cough shortness breath,neuropsychiatric headache,,Asthma
+Methotrexate 7.5mg,weakness swelling stiffness inflammation fatigue headache,hepatotoxicity pulmonary,,Arthritis
+Venlafaxine 75mg,headache anxiety loss of appetite fatigue,hypertension sweating,,Depression
+Enalapril 10mg,insomnia dizziness headache palpitation shortness breath fatigue,dry cough dizziness,,Hypertension
+Amlodipine 5mg,headache fatigue inflammation insomnia dizziness chest tightness,peripheral edema flushing,,Hypertension
+Diclofenac 50mg,stiffness inflammation joint pain redness loss of appetite,GI ulceration cardiovascular,,Arthritis
+Empagliflozin 10mg,dry mouth fatigue excessive thirst blurred vision,UTI genital mycosis,,Diabetes Type 2
+Methotrexate 7.5mg,inflammation stiffness fever headache,hepatotoxicity pulmonary,,Arthritis
+Montelukast 10mg,cough palpitation wheezing,neuropsychiatric headache,,Asthma
+Loratadine 10mg,rash itching throat irritation skin irritation,headache fatigue,,Allergy
+Chlorphenamine 4mg,sneezing watery eyes hives,sedation anticholinergic,,Allergy
+Atenolol 50mg,nausea dizziness palpitation headache fatigue,bradycardia fatigue,,Hypertension
+Fluoxetine 20mg,dizziness anxiety dry mouth loss of appetite,initial anxiety insomnia,,Depression
+Empagliflozin 10mg,dry mouth weight loss blurred vision excessive thirst numbness fatigue,UTI genital mycosis,,Diabetes Type 2
+Amlodipine 5mg,fatigue headache palpitation chest tightness,peripheral edema flushing,,Hypertension
+Naproxen 250mg,back pain headache joint pain fever pain muscle ache,dyspepsia cardiovascular,,Pain Relief
+Fexofenadine 120mg,sneezing watery eyes cough itching throat irritation congestion,headache back pain,,Allergy
+Tramadol 50mg,headache nausea dizziness pain fever,dependence constipation,,Pain Relief
+Dextromethorphan 15mg,congestion nausea fever sore throat,drowsiness nausea,,Cold & Flu
+Amlodipine 5mg,fatigue shortness breath headache swelling chest tightness,peripheral edema flushing,,Hypertension
+Montelukast 10mg,cough shortness breath palpitation,neuropsychiatric headache,,Asthma
+Cetirizine 10mg,rash watery eyes cough throat irritation swelling,drowsiness dry mouth,,Allergy
+Fluticasone Inhaler,fatigue palpitation wheezing shortness breath chest tightness,oral thrush hoarseness,,Asthma
+Metformin 500mg,excessive thirst weakness fatigue,GI upset lactic acidosis,,Diabetes Type 2
+Loratadine 10mg,cough sneezing rash throat irritation skin irritation,headache fatigue,,Allergy
+Tiotropium Inhaler,wheezing cough fatigue chest tightness,dry mouth urinary retention,,Asthma
+Enalapril 10mg,inflammation dizziness swelling chest tightness,dry cough dizziness,,Hypertension
+Fluticasone Inhaler,chest tightness exercise intolerance bloating wheezing,oral thrush hoarseness,,Asthma
+Escitalopram 10mg,weakness fatigue anxiety shortness breath weight loss insomnia,QT prolongation,,Depression
+Naproxen 250mg,inflammation watery eyes nausea headache muscle ache,dyspepsia cardiovascular,,Pain Relief
+Pseudoephedrine 60mg,nausea insomnia sore throat cough weakness,insomnia elevated BP,,Cold & Flu
+Paracetamol 500mg,tenderness headache fatigue pain,hepatotoxicity nausea,,Pain Relief
+Enalapril 10mg,swelling nausea chest tightness itching headache dizziness,dry cough dizziness,,Hypertension
+Sitagliptin 100mg,excessive thirst dry mouth slow healing blurred vision,nasopharyngitis pancreatitis,,Diabetes Type 2
+Fluticasone Inhaler,swelling wheezing insomnia chest tightness difficulty breathing,oral thrush hoarseness,,Asthma
+Ciprofloxacin 500mg,loss of appetite cough weakness redness swelling,tendinopathy photosensitivity,,Infection
+Chlorphenamine 4mg,rash throat irritation itching,sedation anticholinergic,,Allergy
+Fexofenadine 120mg,itching skin irritation rash runny nose,headache back pain,,Allergy
+Amoxicillin 500mg,cough fatigue swelling,diarrhea hypersensitivity,,Infection
+Atenolol 50mg,headache blurred vision dizziness swelling shortness breath,bradycardia fatigue,,Hypertension
+Methotrexate 7.5mg,tenderness inflammation swelling joint pain runny nose,hepatotoxicity pulmonary,,Arthritis
+Enalapril 10mg,insomnia rash headache dizziness,dry cough dizziness,,Hypertension
+Clarithromycin 500mg,fever cough weakness fatigue,QT prolongation hepatotoxicity,,Infection
+Escitalopram 10mg,weight loss fatigue loss of appetite insomnia,QT prolongation,,Depression
+Amoxicillin 500mg,fever nausea chills pain loss of appetite,diarrhea hypersensitivity,,Infection
+Paracetamol 500mg,muscle ache fever nausea inflammation pain tenderness,hepatotoxicity nausea,,Pain Relief
+Tramadol 50mg,joint pain headache muscle ache watery eyes pain back pain,dependence constipation,,Pain Relief
+Dextromethorphan 15mg,sore throat runny nose congestion fatigue body ache,drowsiness nausea,,Cold & Flu
+Amoxicillin 500mg,fatigue loss of appetite pain fever,diarrhea hypersensitivity,,Infection
+Cetirizine 10mg,sneezing itching chest pain congestion,drowsiness dry mouth,,Allergy
+Cetirizine 10mg,rash congestion hives swelling sneezing runny nose,drowsiness dry mouth,,Allergy
+Metformin 500mg,frequent urination slow healing itching blurred vision,GI upset lactic acidosis,,Diabetes Type 2
+Sertraline 50mg,low energy fatigue headache weight loss anxiety loss of appetite,sexual dysfunction insomnia,,Depression
+Clarithromycin 500mg,redness rash chills pain fever,QT prolongation hepatotoxicity,,Infection
+Ranitidine 150mg,bloating cough chest pain,headache confusion,,Gastroesophageal Reflux
+Loratadine 10mg,congestion swelling hives rash runny nose watery eyes,headache fatigue,,Allergy
+Fluoxetine 20mg,fatigue anxiety low energy weight loss loss of appetite dizziness,initial anxiety insomnia,,Depression
+Clarithromycin 500mg,swelling pain cough loss of appetite discharge fever,QT prolongation hepatotoxicity,,Infection
+Diclofenac 50mg,inflammation stiffness weakness difficulty moving,GI ulceration cardiovascular,,Arthritis
+Paracetamol 500mg,pain inflammation headache fatigue,hepatotoxicity nausea,,Pain Relief
+Fexofenadine 120mg,itching hives runny nose throat irritation,headache back pain,,Allergy
+Enalapril 10mg,dizziness anxiety cough chest tightness headache shortness breath,dry cough dizziness,,Hypertension
+Tramadol 50mg,nausea swelling inflammation headache,dependence constipation,,Pain Relief
+Ibuprofen 400mg,fever pain fatigue joint pain,GI bleeding renal risk,,Pain Relief
+Naproxen 250mg,nausea fever inflammation,dyspepsia cardiovascular,,Pain Relief
+Amlodipine 5mg,chest tightness palpitation blurred vision pain headache,peripheral edema flushing,,Hypertension
+Losartan 50mg,palpitation dizziness headache anxiety nausea,hyperkalemia dizziness,,Hypertension
+Fluoxetine 20mg,dizziness fatigue anxiety weakness headache,initial anxiety insomnia,,Depression
+Sitagliptin 100mg,frequent urination dry mouth recurrent infections blurred vision fatigue numbness,nasopharyngitis pancreatitis,,Diabetes Type 2
+Metronidazole 400mg,rash discharge swelling fatigue pain palpitation,metallic taste neuropathy,,Infection
+Montelukast 10mg,palpitation difficulty breathing insomnia stiffness shortness breath cough,neuropsychiatric headache,,Asthma
+Losartan 50mg,palpitation swelling blurred vision dizziness anxiety,hyperkalemia dizziness,,Hypertension
+Methotrexate 7.5mg,redness fatigue joint pain swelling fever,hepatotoxicity pulmonary,,Arthritis
+Fexofenadine 120mg,hives itching sneezing fever skin irritation swelling watery eyes,headache back pain,,Allergy
+Atenolol 50mg,dizziness chest tightness palpitation shortness breath insomnia,bradycardia fatigue,,Hypertension
+Escitalopram 10mg,anxiety dizziness insomnia headache,QT prolongation,,Depression
+Gliclazide 80mg,excessive thirst frequent urination weakness dry mouth,hypoglycemia weight gain,,Diabetes Type 2
+Paracetamol 500mg,headache back pain dizziness fever inflammation,hepatotoxicity nausea,,Pain Relief
+Gliclazide 80mg,weakness frequent urination itching blurred vision fatigue recurrent infections,hypoglycemia weight gain,,Diabetes Type 2
+Escitalopram 10mg,dry mouth fatigue anxiety loss of appetite,QT prolongation,,Depression
+Amoxicillin 500mg,pain swelling chills fever cough,diarrhea hypersensitivity,,Infection
+Metronidazole 400mg,discharge fever redness fatigue,metallic taste neuropathy,,Infection
+Enalapril 10mg,anxiety chest tightness swelling shortness breath palpitation,dry cough dizziness,,Hypertension
+Dextromethorphan 15mg,headache sore throat cough anxiety nausea,drowsiness nausea,,Cold & Flu
+Ibuprofen 400mg,palpitation joint pain headache inflammation,GI bleeding renal risk,,Pain Relief
+Dextromethorphan 15mg,chills fatigue sneezing weakness sore throat fever,drowsiness nausea,,Cold & Flu
+Sertraline 50mg,dizziness dry mouth fatigue anxiety weight loss,sexual dysfunction insomnia,,Depression
+Hydroxychloroquine 200mg,swelling stiffness redness,retinopathy GI upset,,Arthritis
+Amlodipine 5mg,chest tightness blurred vision shortness breath headache insomnia palpitation,peripheral edema flushing,,Hypertension
+Ranitidine 150mg,difficulty swallowing burping nausea sore throat bloating,headache confusion,,Gastroesophageal Reflux
+Pantoprazole 40mg,nausea bloating loss of appetite heartburn,headache osteoporosis,,Gastroesophageal Reflux
+Methotrexate 7.5mg,redness swelling fatigue inflammation pain fever joint pain,hepatotoxicity pulmonary,,Arthritis
+Empagliflozin 10mg,weakness blurred vision slow healing frequent urination excessive thirst,UTI genital mycosis,,Diabetes Type 2
+Ibuprofen 400mg,pain back pain nausea fever,GI bleeding renal risk,,Pain Relief
+Salbutamol Inhaler,insomnia shortness breath exercise intolerance cough wheezing fatigue,tremor tachycardia,,Asthma
+Cetirizine 10mg,skin irritation itching congestion headache sneezing hives,drowsiness dry mouth,,Allergy
+Paracetamol 500mg,dizziness headache back pain muscle ache fever,hepatotoxicity nausea,,Pain Relief
+Metronidazole 400mg,congestion fatigue weakness fever redness,metallic taste neuropathy,,Infection
+Loratadine 10mg,swelling watery eyes hives skin irritation sneezing,headache fatigue,,Allergy
+Metformin 500mg,heartburn recurrent infections frequent urination excessive thirst fatigue slow healing,GI upset lactic acidosis,,Diabetes Type 2
+Venlafaxine 75mg,weight loss weakness insomnia anxiety dizziness,hypertension sweating,,Depression
+Atenolol 50mg,fatigue blurred vision chest tightness dizziness,bradycardia fatigue,,Hypertension
+Methotrexate 7.5mg,loss of appetite stiffness weakness joint pain,hepatotoxicity pulmonary,,Arthritis
+Gliclazide 80mg,frequent urination blurred vision dry mouth excessive thirst,hypoglycemia weight gain,,Diabetes Type 2
+Chlorphenamine 4mg,sneezing chest tightness swelling watery eyes cough skin irritation,sedation anticholinergic,,Allergy
+Oseltamivir 75mg,sore throat chills cough,nausea vomiting,,Cold & Flu
+Loratadine 10mg,hives watery eyes runny nose congestion sneezing,headache fatigue,,Allergy
+Omeprazole 20mg,sour taste difficulty swallowing heartburn chest pain loss of appetite,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Amlodipine 5mg,palpitation anxiety dizziness,peripheral edema flushing,,Hypertension
+Ciprofloxacin 500mg,swelling redness loss of appetite nausea cough,tendinopathy photosensitivity,,Infection
+Paracetamol+Phenylephrine,sore throat headache fatigue cough,palpitation hypertension,,Cold & Flu
+Paracetamol 500mg,fever headache muscle ache tenderness nausea inflammation,hepatotoxicity nausea,,Pain Relief
+Tramadol 50mg,fatigue headache muscle ache back pain pain,dependence constipation,,Pain Relief
+Ibuprofen 400mg,muscle ache tenderness inflammation fever swelling,GI bleeding renal risk,,Pain Relief
+Escitalopram 10mg,fatigue dry mouth weakness loss of appetite dizziness insomnia,QT prolongation,,Depression
+Diclofenac 50mg,stiffness inflammation swelling fever difficulty moving fatigue,GI ulceration cardiovascular,,Arthritis
+Escitalopram 10mg,headache insomnia anxiety loss of appetite,QT prolongation,,Depression
+Pantoprazole 40mg,heartburn sore throat nausea chest pain,headache osteoporosis,,Gastroesophageal Reflux
+Montelukast 10mg,shortness breath chest tightness difficulty breathing,neuropsychiatric headache,,Asthma
+Atenolol 50mg,dizziness nausea palpitation,bradycardia fatigue,,Hypertension
+Pseudoephedrine 60mg,nausea chills body ache cough sore throat,insomnia elevated BP,,Cold & Flu
+Naproxen 250mg,back pain pain dizziness headache,dyspepsia cardiovascular,,Pain Relief
+Diclofenac 50mg,swelling inflammation stiffness sore throat fever fatigue,GI ulceration cardiovascular,,Arthritis
+Amlodipine 5mg,headache fatigue palpitation,peripheral edema flushing,,Hypertension
+Montelukast 10mg,insomnia exercise intolerance chest tightness loss of appetite wheezing,neuropsychiatric headache,,Asthma
+Ibuprofen 400mg,fatigue inflammation fever,GI bleeding renal risk,,Pain Relief
+Metronidazole 400mg,fatigue pain swelling chills loss of appetite,metallic taste neuropathy,,Infection
+Tramadol 50mg,muscle ache inflammation dizziness swelling headache,dependence constipation,,Pain Relief
+Ranitidine 150mg,loss of appetite nausea cough excessive thirst chest pain bloating sour taste,headache confusion,,Gastroesophageal Reflux
+Tramadol 50mg,pain headache dizziness,dependence constipation,,Pain Relief
+Clarithromycin 500mg,fever swelling discharge nausea pain,QT prolongation hepatotoxicity,,Infection
+Clarithromycin 500mg,fever swelling rash pain,QT prolongation hepatotoxicity,,Infection
+Montelukast 10mg,palpitation exercise intolerance cough shortness breath,neuropsychiatric headache,,Asthma
+Venlafaxine 75mg,dry mouth fatigue loss of appetite headache dizziness insomnia,hypertension sweating,,Depression
+Loratadine 10mg,rash itching hives sneezing congestion swelling,headache fatigue,,Allergy
+Oseltamivir 75mg,headache nausea congestion fatigue cough,nausea vomiting,,Cold & Flu
+Montelukast 10mg,frequent urination chest tightness fatigue cough wheezing,neuropsychiatric headache,,Asthma
+Loratadine 10mg,hives runny nose skin irritation sneezing watery eyes congestion,headache fatigue,,Allergy
+Esomeprazole 40mg,bloating sour taste nausea chest pain,diarrhea abdominal pain,,Gastroesophageal Reflux
+Oseltamivir 75mg,sore throat weakness cough headache fever nausea,nausea vomiting,,Cold & Flu
+Montelukast 10mg,cough difficulty breathing anxiety palpitation wheezing chest tightness,neuropsychiatric headache,,Asthma
+Tramadol 50mg,dizziness headache fatigue inflammation nausea,dependence constipation,,Pain Relief
+Gliclazide 80mg,slow healing blurred vision recurrent infections itching excessive thirst fatigue,hypoglycemia weight gain,,Diabetes Type 2
+Empagliflozin 10mg,frequent urination itching loss of appetite blurred vision,UTI genital mycosis,,Diabetes Type 2
+Fluoxetine 20mg,loss of appetite anxiety runny nose fatigue dizziness low energy palpitation,initial anxiety insomnia,,Depression
+Oseltamivir 75mg,congestion fever cough nausea headache runny nose,nausea vomiting,,Cold & Flu
+Naproxen 250mg,pain headache back pain inflammation joint pain,dyspepsia cardiovascular,,Pain Relief
+Oseltamivir 75mg,cough chest pain fever fatigue weakness body ache,nausea vomiting,,Cold & Flu
+Oseltamivir 75mg,cough body ache fatigue fever weakness,nausea vomiting,,Cold & Flu
+Venlafaxine 75mg,low energy dizziness anxiety insomnia loss of appetite dry mouth,hypertension sweating,,Depression
+Atenolol 50mg,chest tightness anxiety dizziness palpitation,bradycardia fatigue,,Hypertension
+Amlodipine 5mg,cough shortness breath chest tightness palpitation insomnia nausea,peripheral edema flushing,,Hypertension
+Esomeprazole 40mg,fatigue bloating heartburn burping cough sore throat,diarrhea abdominal pain,,Gastroesophageal Reflux
+Paracetamol+Phenylephrine,nausea sore throat chills fatigue,palpitation hypertension,,Cold & Flu
+Pantoprazole 40mg,bloating loss of appetite nausea cough sour taste,headache osteoporosis,,Gastroesophageal Reflux
+Empagliflozin 10mg,blurred vision fatigue weakness itching slow healing,UTI genital mycosis,,Diabetes Type 2
+Ciprofloxacin 500mg,cough fever swelling,tendinopathy photosensitivity,,Infection
+Pantoprazole 40mg,chest pain bloating sore throat heartburn cough,headache osteoporosis,,Gastroesophageal Reflux
+Paracetamol 500mg,muscle ache inflammation pain headache anxiety fatigue tenderness,hepatotoxicity nausea,,Pain Relief
+Fexofenadine 120mg,skin irritation congestion headache rash runny nose itching,headache back pain,,Allergy
+Ibuprofen 400mg,headache pain fatigue fever,GI bleeding renal risk,,Pain Relief
+Pseudoephedrine 60mg,cough runny nose shortness breath fatigue chills,insomnia elevated BP,,Cold & Flu
+Celecoxib 200mg,swelling stiffness inflammation fever,cardiovascular edema,,Arthritis
+Metronidazole 400mg,fatigue swelling redness headache loss of appetite,metallic taste neuropathy,,Infection
+Ranitidine 150mg,nausea bloating chest pain loss of appetite difficulty swallowing,headache confusion,,Gastroesophageal Reflux
+Diclofenac 50mg,chest pain tenderness redness swelling joint pain,GI ulceration cardiovascular,,Arthritis
+Losartan 50mg,dizziness headache insomnia palpitation,hyperkalemia dizziness,,Hypertension
+Paracetamol+Phenylephrine,fatigue congestion sore throat sneezing headache,palpitation hypertension,,Cold & Flu
+Fexofenadine 120mg,hives rash itching,headache back pain,,Allergy
+Fexofenadine 120mg,swelling itching anxiety rash watery eyes,headache back pain,,Allergy
+Hydroxychloroquine 200mg,redness difficulty moving stiffness swelling joint pain tenderness,retinopathy GI upset,,Arthritis
+Gliclazide 80mg,dry mouth blurred vision frequent urination weakness,hypoglycemia weight gain,,Diabetes Type 2
+Diclofenac 50mg,inflammation joint pain fatigue redness tenderness swelling,GI ulceration cardiovascular,,Arthritis
+Metronidazole 400mg,nausea swelling pain fever chills rash,metallic taste neuropathy,,Infection
+Montelukast 10mg,wheezing anxiety difficulty breathing insomnia shortness breath,neuropsychiatric headache,,Asthma
+Metronidazole 400mg,fever cough fatigue swelling rash,metallic taste neuropathy,,Infection
+Ibuprofen 400mg,inflammation fever joint pain headache,GI bleeding renal risk,,Pain Relief
+Gliclazide 80mg,recurrent infections frequent urination fatigue slow healing blurred vision numbness,hypoglycemia weight gain,,Diabetes Type 2
+Salbutamol Inhaler,cough wheezing insomnia,tremor tachycardia,,Asthma
+Clarithromycin 500mg,redness chills cough fever pain discharge,QT prolongation hepatotoxicity,,Infection
+Salbutamol Inhaler,insomnia fatigue shortness breath cough wheezing,tremor tachycardia,,Asthma
+Dextromethorphan 15mg,cough sneezing headache nausea fatigue,drowsiness nausea,,Cold & Flu
+Ibuprofen 400mg,headache muscle ache inflammation,GI bleeding renal risk,,Pain Relief
+Fluoxetine 20mg,anxiety headache loss of appetite fatigue weight loss,initial anxiety insomnia,,Depression
+Sertraline 50mg,dry mouth anxiety palpitation weakness insomnia,sexual dysfunction insomnia,,Depression
+Tiotropium Inhaler,fatigue shortness breath cough palpitation chest tightness insomnia,dry mouth urinary retention,,Asthma
+Sertraline 50mg,fatigue insomnia dry mouth loss of appetite dizziness,sexual dysfunction insomnia,,Depression
+Salbutamol Inhaler,shortness breath insomnia chest tightness fatigue palpitation cough,tremor tachycardia,,Asthma
+Methotrexate 7.5mg,stiffness loss of appetite inflammation joint pain difficulty moving,hepatotoxicity pulmonary,,Arthritis
+Loratadine 10mg,swelling itching watery eyes cough,headache fatigue,,Allergy
+Dextromethorphan 15mg,fever nausea sore throat sneezing body ache,drowsiness nausea,,Cold & Flu
+Diclofenac 50mg,redness inflammation swelling tenderness,GI ulceration cardiovascular,,Arthritis
+Tiotropium Inhaler,fatigue headache insomnia cough wheezing,dry mouth urinary retention,,Asthma
+Dextromethorphan 15mg,sore throat fever nausea headache body ache congestion,drowsiness nausea,,Cold & Flu
+Methotrexate 7.5mg,joint pain swelling difficulty moving,hepatotoxicity pulmonary,,Arthritis
+Enalapril 10mg,dizziness headache nausea chest tightness shortness breath,dry cough dizziness,,Hypertension
+Fexofenadine 120mg,cough rash itching runny nose,headache back pain,,Allergy
+Ranitidine 150mg,heartburn loss of appetite chest pain,headache confusion,,Gastroesophageal Reflux
+Amlodipine 5mg,chest tightness shortness breath blurred vision headache palpitation,peripheral edema flushing,,Hypertension
+Ibuprofen 400mg,inflammation fever headache joint pain,GI bleeding renal risk,,Pain Relief
+Loratadine 10mg,runny nose loss of appetite watery eyes sneezing cough,headache fatigue,,Allergy
+Ibuprofen 400mg,inflammation fever cough tenderness pain,GI bleeding renal risk,,Pain Relief
+Pantoprazole 40mg,loss of appetite chest pain bloating heartburn,headache osteoporosis,,Gastroesophageal Reflux
+Ciprofloxacin 500mg,fatigue weakness swelling discharge,tendinopathy photosensitivity,,Infection
+Tramadol 50mg,muscle ache inflammation fever nausea pain,dependence constipation,,Pain Relief
+Chlorphenamine 4mg,sneezing rash cough,sedation anticholinergic,,Allergy
+Oseltamivir 75mg,cough sore throat sneezing nausea headache,nausea vomiting,,Cold & Flu
+Paracetamol 500mg,nausea headache watery eyes pain muscle ache inflammation,hepatotoxicity nausea,,Pain Relief
+Metronidazole 400mg,chills redness weakness pain nausea,metallic taste neuropathy,,Infection
+Ciprofloxacin 500mg,cough fever fatigue chills,tendinopathy photosensitivity,,Infection
+Esomeprazole 40mg,bloating sore throat cough burping nausea,diarrhea abdominal pain,,Gastroesophageal Reflux
+Amoxicillin 500mg,swelling redness pain discharge nausea cough,diarrhea hypersensitivity,,Infection
+Fexofenadine 120mg,sneezing itching watery eyes skin irritation congestion,headache back pain,,Allergy
+Diclofenac 50mg,inflammation swelling fatigue,GI ulceration cardiovascular,,Arthritis
+Empagliflozin 10mg,excessive thirst anxiety numbness frequent urination recurrent infections blurred vision slow healing,UTI genital mycosis,,Diabetes Type 2
+Ranitidine 150mg,difficulty swallowing loss of appetite chest pain sore throat nausea,headache confusion,,Gastroesophageal Reflux
+Paracetamol+Phenylephrine,chills sore throat cough weakness congestion,palpitation hypertension,,Cold & Flu
+Escitalopram 10mg,loss of appetite headache palpitation insomnia weight loss,QT prolongation,,Depression
+Atenolol 50mg,shortness breath nausea palpitation insomnia headache chest tightness,bradycardia fatigue,,Hypertension
+Dextromethorphan 15mg,fever headache sore throat congestion,drowsiness nausea,,Cold & Flu
+Loratadine 10mg,heartburn watery eyes sneezing rash hives,headache fatigue,,Allergy
+Montelukast 10mg,insomnia chest tightness runny nose exercise intolerance cough,neuropsychiatric headache,,Asthma
+Celecoxib 200mg,swelling fever tenderness inflammation joint pain,cardiovascular edema,,Arthritis
+Gliclazide 80mg,slow healing cough numbness fatigue blurred vision,hypoglycemia weight gain,,Diabetes Type 2
+Fluoxetine 20mg,loss of appetite weakness fatigue dizziness weight loss insomnia,initial anxiety insomnia,,Depression
+Metronidazole 400mg,fever loss of appetite redness fatigue weakness,metallic taste neuropathy,,Infection
+Hydroxychloroquine 200mg,tenderness fever joint pain inflammation,retinopathy GI upset,,Arthritis
+Paracetamol+Phenylephrine,nausea weakness sore throat fatigue congestion,palpitation hypertension,,Cold & Flu
+Montelukast 10mg,difficulty breathing palpitation cough fatigue shortness breath,neuropsychiatric headache,,Asthma
+Fluticasone Inhaler,shortness breath fatigue cough,oral thrush hoarseness,,Asthma
+Pantoprazole 40mg,burping bloating nausea heartburn,headache osteoporosis,,Gastroesophageal Reflux
+Losartan 50mg,insomnia chest tightness dizziness swelling palpitation,hyperkalemia dizziness,,Hypertension
+Amoxicillin 500mg,redness fever chest pain discharge,diarrhea hypersensitivity,,Infection
+Fexofenadine 120mg,watery eyes itching rash cough skin irritation,headache back pain,,Allergy
+Dextromethorphan 15mg,fatigue fever headache sneezing congestion,drowsiness nausea,,Cold & Flu
+Naproxen 250mg,fever headache pain nausea,dyspepsia cardiovascular,,Pain Relief
+Gliclazide 80mg,blurred vision weakness fatigue excessive thirst recurrent infections,hypoglycemia weight gain,,Diabetes Type 2
+Tramadol 50mg,pain fever back pain nausea,dependence constipation,,Pain Relief
+Ranitidine 150mg,bloating sour taste heartburn loss of appetite burping,headache confusion,,Gastroesophageal Reflux
+Oseltamivir 75mg,chills sneezing fever fatigue,nausea vomiting,,Cold & Flu
+Venlafaxine 75mg,insomnia cough anxiety fatigue headache,hypertension sweating,,Depression
+Fluoxetine 20mg,insomnia fatigue anxiety low energy dry mouth,initial anxiety insomnia,,Depression
+Clarithromycin 500mg,nausea dizziness swelling fatigue weakness chills fever,QT prolongation hepatotoxicity,,Infection
+Losartan 50mg,palpitation watery eyes insomnia swelling fatigue headache chest tightness,hyperkalemia dizziness,,Hypertension
+Sitagliptin 100mg,dry mouth frequent urination fatigue excessive thirst,nasopharyngitis pancreatitis,,Diabetes Type 2
+Venlafaxine 75mg,insomnia dry mouth fatigue redness,hypertension sweating,,Depression
+Gliclazide 80mg,recurrent infections dry mouth fatigue slow healing frequent urination inflammation,hypoglycemia weight gain,,Diabetes Type 2
+Ibuprofen 400mg,fatigue tenderness headache muscle ache fever nausea,GI bleeding renal risk,,Pain Relief
+Diclofenac 50mg,fever loss of appetite inflammation redness joint pain swelling,GI ulceration cardiovascular,,Arthritis
+Ciprofloxacin 500mg,pain fatigue redness nausea,tendinopathy photosensitivity,,Infection
+Empagliflozin 10mg,fatigue recurrent infections blurred vision,UTI genital mycosis,,Diabetes Type 2
+Sitagliptin 100mg,slow healing blurred vision frequent urination inflammation excessive thirst,nasopharyngitis pancreatitis,,Diabetes Type 2
+Ciprofloxacin 500mg,cough pain weakness fatigue fever,tendinopathy photosensitivity,,Infection
+Fluoxetine 20mg,weakness fatigue headache insomnia,initial anxiety insomnia,,Depression
+Tiotropium Inhaler,insomnia difficulty breathing exercise intolerance wheezing chest tightness,dry mouth urinary retention,,Asthma
+Escitalopram 10mg,loss of appetite anxiety dry mouth palpitation dizziness fatigue,QT prolongation,,Depression
+Paracetamol 500mg,headache fever joint pain nausea muscle ache,hepatotoxicity nausea,,Pain Relief
+Pantoprazole 40mg,loss of appetite nausea sore throat sour taste chest pain dizziness,headache osteoporosis,,Gastroesophageal Reflux
+Hydroxychloroquine 200mg,joint pain cough redness fever inflammation,retinopathy GI upset,,Arthritis
+Venlafaxine 75mg,weight loss insomnia fatigue loss of appetite,hypertension sweating,,Depression
+Oseltamivir 75mg,body ache fever cough fatigue,nausea vomiting,,Cold & Flu
+Empagliflozin 10mg,shortness breath itching excessive thirst frequent urination fatigue,UTI genital mycosis,,Diabetes Type 2
+Metformin 500mg,recurrent infections excessive thirst dry mouth frequent urination,GI upset lactic acidosis,,Diabetes Type 2
+Loratadine 10mg,hives skin irritation runny nose sneezing congestion watery eyes,headache fatigue,,Allergy
+Salbutamol Inhaler,chest tightness shortness breath fatigue wheezing exercise intolerance,tremor tachycardia,,Asthma
+Salbutamol Inhaler,shortness breath difficulty breathing chest tightness insomnia,tremor tachycardia,,Asthma
+Gliclazide 80mg,recurrent infections weakness dry mouth heartburn blurred vision frequent urination,hypoglycemia weight gain,,Diabetes Type 2
+Paracetamol 500mg,muscle ache fever inflammation headache,hepatotoxicity nausea,,Pain Relief
+Ibuprofen 400mg,headache nausea joint pain inflammation stiffness,GI bleeding renal risk,,Pain Relief
+Enalapril 10mg,chest tightness nausea headache fatigue,dry cough dizziness,,Hypertension
+Fluoxetine 20mg,insomnia weight loss fatigue weakness low energy,initial anxiety insomnia,,Depression
+Hydroxychloroquine 200mg,redness swelling inflammation tenderness,retinopathy GI upset,,Arthritis
+Paracetamol+Phenylephrine,nausea cough headache sore throat,palpitation hypertension,,Cold & Flu
+Empagliflozin 10mg,frequent urination recurrent infections fatigue slow healing excessive thirst,UTI genital mycosis,,Diabetes Type 2
+Loratadine 10mg,itching swelling sneezing throat irritation rash,headache fatigue,,Allergy
+Atenolol 50mg,nausea palpitation headache fatigue,bradycardia fatigue,,Hypertension
+Dextromethorphan 15mg,congestion chills cough,drowsiness nausea,,Cold & Flu
+Oseltamivir 75mg,chest pain cough fatigue sore throat chills sneezing,nausea vomiting,,Cold & Flu
+Pantoprazole 40mg,chest pain nausea rash sore throat heartburn,headache osteoporosis,,Gastroesophageal Reflux
+Pantoprazole 40mg,chest pain bloating loss of appetite sore throat cough,headache osteoporosis,,Gastroesophageal Reflux
+Hydroxychloroquine 200mg,inflammation stiffness weakness tenderness,retinopathy GI upset,,Arthritis
+Naproxen 250mg,headache inflammation nausea,dyspepsia cardiovascular,,Pain Relief
+Metronidazole 400mg,chills headache fatigue weakness nausea fever,metallic taste neuropathy,,Infection
+Paracetamol+Phenylephrine,cough congestion joint pain nausea fatigue,palpitation hypertension,,Cold & Flu
+Ciprofloxacin 500mg,fatigue pain weakness heartburn,tendinopathy photosensitivity,,Infection
+Omeprazole 20mg,nausea loss of appetite difficulty swallowing bloating sore throat,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Amoxicillin 500mg,pain chills swelling inflammation redness,diarrhea hypersensitivity,,Infection
+Fluoxetine 20mg,weakness palpitation insomnia anxiety headache fatigue,initial anxiety insomnia,,Depression
+Salbutamol Inhaler,fatigue shortness breath cough difficulty breathing insomnia,tremor tachycardia,,Asthma
+Paracetamol+Phenylephrine,headache sneezing congestion dizziness fatigue,palpitation hypertension,,Cold & Flu
+Loratadine 10mg,hives watery eyes congestion itching throat irritation,headache fatigue,,Allergy
+Methotrexate 7.5mg,loss of appetite tenderness stiffness difficulty moving shortness breath inflammation,hepatotoxicity pulmonary,,Arthritis
+Chlorphenamine 4mg,runny nose watery eyes cough,sedation anticholinergic,,Allergy
+Naproxen 250mg,headache fatigue pain,dyspepsia cardiovascular,,Pain Relief
+Ibuprofen 400mg,dizziness pain headache inflammation,GI bleeding renal risk,,Pain Relief
+Metronidazole 400mg,rash cough fatigue redness,metallic taste neuropathy,,Infection
+Sitagliptin 100mg,frequent urination blurred vision itching,nasopharyngitis pancreatitis,,Diabetes Type 2
+Omeprazole 20mg,nausea heartburn sour taste sore throat bloating,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Celecoxib 200mg,fever stiffness weakness joint pain wheezing,cardiovascular edema,,Arthritis
+Amlodipine 5mg,chest tightness blurred vision nausea dizziness palpitation insomnia,peripheral edema flushing,,Hypertension
+Paracetamol 500mg,headache fever inflammation muscle ache,hepatotoxicity nausea,,Pain Relief
+Sertraline 50mg,fatigue insomnia anxiety weakness,sexual dysfunction insomnia,,Depression
+Salbutamol Inhaler,cough shortness breath wheezing anxiety,tremor tachycardia,,Asthma
+Cetirizine 10mg,rash skin irritation sneezing runny nose congestion,drowsiness dry mouth,,Allergy
+Paracetamol 500mg,inflammation pain tenderness muscle ache fever,hepatotoxicity nausea,,Pain Relief
+Venlafaxine 75mg,loss of appetite dizziness headache anxiety insomnia low energy,hypertension sweating,,Depression
+Methotrexate 7.5mg,loss of appetite tenderness nausea redness swelling joint pain inflammation,hepatotoxicity pulmonary,,Arthritis
+Pseudoephedrine 60mg,cough sneezing sore throat chills,insomnia elevated BP,,Cold & Flu
+Atenolol 50mg,chest tightness nausea sneezing palpitation dizziness,bradycardia fatigue,,Hypertension
+Oseltamivir 75mg,weakness headache fever fatigue sore throat cough,nausea vomiting,,Cold & Flu
+Tiotropium Inhaler,cough difficulty breathing chest tightness exercise intolerance palpitation,dry mouth urinary retention,,Asthma
+Paracetamol 500mg,headache pain fever back pain,hepatotoxicity nausea,,Pain Relief
+Venlafaxine 75mg,palpitation low energy weight loss chest tightness insomnia fatigue,hypertension sweating,,Depression
+Amlodipine 5mg,headache dizziness nausea anxiety shortness breath chest tightness,peripheral edema flushing,,Hypertension
+Montelukast 10mg,exercise intolerance wheezing anxiety cough insomnia,neuropsychiatric headache,,Asthma
+Celecoxib 200mg,stiffness joint pain difficulty moving swelling,cardiovascular edema,,Arthritis
+Atenolol 50mg,headache chest tightness nausea insomnia,bradycardia fatigue,,Hypertension
+Omeprazole 20mg,cough fever chest pain loss of appetite sore throat bloating,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Pantoprazole 40mg,cough headache bloating sour taste heartburn nausea,headache osteoporosis,,Gastroesophageal Reflux
+Paracetamol 500mg,shortness breath pain fever joint pain,hepatotoxicity nausea,,Pain Relief
+Ibuprofen 400mg,fever dizziness inflammation muscle ache pain tenderness,GI bleeding renal risk,,Pain Relief
+Amlodipine 5mg,headache joint pain anxiety dizziness,peripheral edema flushing,,Hypertension
+Escitalopram 10mg,dizziness anxiety loss of appetite,QT prolongation,,Depression
+Salbutamol Inhaler,shortness breath wheezing chest tightness anxiety palpitation,tremor tachycardia,,Asthma
+Pseudoephedrine 60mg,fever sore throat weakness headache cough runny nose,insomnia elevated BP,,Cold & Flu
+Paracetamol 500mg,tenderness inflammation back pain pain fever,hepatotoxicity nausea,,Pain Relief
+Esomeprazole 40mg,nausea loss of appetite bloating chest pain,diarrhea abdominal pain,,Gastroesophageal Reflux
+Pantoprazole 40mg,sour taste chest pain heartburn,headache osteoporosis,,Gastroesophageal Reflux
+Loratadine 10mg,sneezing watery eyes congestion cough,headache fatigue,,Allergy
+Amoxicillin 500mg,pain fever loss of appetite weakness,diarrhea hypersensitivity,,Infection
+Empagliflozin 10mg,frequent urination fatigue numbness blurred vision slow healing,UTI genital mycosis,,Diabetes Type 2
+Montelukast 10mg,anxiety difficulty breathing chest tightness wheezing insomnia shortness breath,neuropsychiatric headache,,Asthma
+Cetirizine 10mg,throat irritation swelling runny nose watery eyes cough itching,drowsiness dry mouth,,Allergy
+Venlafaxine 75mg,dizziness weakness loss of appetite anxiety,hypertension sweating,,Depression
+Montelukast 10mg,wheezing anxiety cough chest tightness exercise intolerance,neuropsychiatric headache,,Asthma
+Loratadine 10mg,skin irritation hives frequent urination cough itching watery eyes rash,headache fatigue,,Allergy
+Paracetamol 500mg,fever pain nausea headache,hepatotoxicity nausea,,Pain Relief
+Tramadol 50mg,inflammation fever joint pain,dependence constipation,,Pain Relief
+Atenolol 50mg,swelling headache palpitation shortness breath nausea,bradycardia fatigue,,Hypertension
+Fexofenadine 120mg,itching runny nose sneezing congestion,headache back pain,,Allergy
+Chlorphenamine 4mg,hives sneezing watery eyes itching,sedation anticholinergic,,Allergy
+Losartan 50mg,chest tightness palpitation swelling blurred vision anxiety,hyperkalemia dizziness,,Hypertension
+Hydroxychloroquine 200mg,weakness inflammation difficulty moving stiffness,retinopathy GI upset,,Arthritis
+Pseudoephedrine 60mg,cough congestion nausea weakness excessive thirst chills,insomnia elevated BP,,Cold & Flu
+Metronidazole 400mg,fever nausea cough pain,metallic taste neuropathy,,Infection
+Ranitidine 150mg,chest pain sore throat heartburn,headache confusion,,Gastroesophageal Reflux
+Naproxen 250mg,inflammation fever back pain,dyspepsia cardiovascular,,Pain Relief
+Atenolol 50mg,fatigue chest tightness headache shortness breath swelling,bradycardia fatigue,,Hypertension
+Tiotropium Inhaler,chest tightness anxiety frequent urination cough,dry mouth urinary retention,,Asthma
+Naproxen 250mg,pain headache nausea tenderness,dyspepsia cardiovascular,,Pain Relief
+Pseudoephedrine 60mg,wheezing headache sore throat fatigue,insomnia elevated BP,,Cold & Flu
+Chlorphenamine 4mg,hives watery eyes runny nose palpitation sneezing,sedation anticholinergic,,Allergy
+Pantoprazole 40mg,heartburn sore throat loss of appetite bloating,headache osteoporosis,,Gastroesophageal Reflux
+Celecoxib 200mg,stiffness chest tightness swelling difficulty moving weakness loss of appetite,cardiovascular edema,,Arthritis
+Pantoprazole 40mg,nausea sour taste heartburn cough bloating,headache osteoporosis,,Gastroesophageal Reflux
+Empagliflozin 10mg,dry mouth fatigue frequent urination weakness,UTI genital mycosis,,Diabetes Type 2
+Omeprazole 20mg,bloating difficulty swallowing burping fever heartburn,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Fluoxetine 20mg,headache loss of appetite anxiety dizziness palpitation frequent urination,initial anxiety insomnia,,Depression
+Enalapril 10mg,palpitation fatigue headache insomnia nausea chest tightness,dry cough dizziness,,Hypertension
+Ibuprofen 400mg,fatigue inflammation pain tenderness,GI bleeding renal risk,,Pain Relief
+Omeprazole 20mg,nausea fever sore throat heartburn bloating,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Chlorphenamine 4mg,swelling runny nose itching,sedation anticholinergic,,Allergy
+Paracetamol+Phenylephrine,cough congestion fever nausea,palpitation hypertension,,Cold & Flu
+Montelukast 10mg,fatigue shortness breath fever wheezing,neuropsychiatric headache,,Asthma
+Clarithromycin 500mg,pain rash fatigue,QT prolongation hepatotoxicity,,Infection
+Enalapril 10mg,headache fatigue palpitation swelling chest tightness,dry cough dizziness,,Hypertension
+Cetirizine 10mg,throat irritation sneezing swelling watery eyes congestion runny nose,drowsiness dry mouth,,Allergy
+Amoxicillin 500mg,chills cough fatigue swelling nausea,diarrhea hypersensitivity,,Infection
+Sertraline 50mg,fatigue headache low energy anxiety wheezing palpitation loss of appetite,sexual dysfunction insomnia,,Depression
+Metronidazole 400mg,swelling fatigue weakness fever loss of appetite,metallic taste neuropathy,,Infection
+Celecoxib 200mg,joint pain stiffness fatigue swelling tenderness,cardiovascular edema,,Arthritis
+Salbutamol Inhaler,joint pain shortness breath cough chest tightness exercise intolerance insomnia,tremor tachycardia,,Asthma
+Metformin 500mg,fatigue excessive thirst numbness headache,GI upset lactic acidosis,,Diabetes Type 2
+Sertraline 50mg,anxiety dry mouth weakness fatigue loss of appetite headache,sexual dysfunction insomnia,,Depression
+Celecoxib 200mg,fatigue stiffness fever weakness swelling,cardiovascular edema,,Arthritis
+Naproxen 250mg,back pain pain dizziness fever fatigue,dyspepsia cardiovascular,,Pain Relief
+Sitagliptin 100mg,weight loss fatigue excessive thirst,nasopharyngitis pancreatitis,,Diabetes Type 2
+Escitalopram 10mg,insomnia excessive thirst fatigue anxiety dry mouth,QT prolongation,,Depression
+Loratadine 10mg,congestion rash cough hives runny nose,headache fatigue,,Allergy
+Salbutamol Inhaler,shortness breath wheezing difficulty breathing chest tightness fatigue,tremor tachycardia,,Asthma
+Paracetamol 500mg,joint pain headache pain,hepatotoxicity nausea,,Pain Relief
+Amlodipine 5mg,shortness breath blurred vision chest tightness palpitation dizziness,peripheral edema flushing,,Hypertension
+Chlorphenamine 4mg,watery eyes skin irritation hives rash runny nose cough,sedation anticholinergic,,Allergy
+Fluticasone Inhaler,insomnia cough fatigue palpitation wheezing,oral thrush hoarseness,,Asthma
+Pseudoephedrine 60mg,weakness congestion fever cough,insomnia elevated BP,,Cold & Flu
+Esomeprazole 40mg,nausea loss of appetite bloating difficulty swallowing heartburn burping,diarrhea abdominal pain,,Gastroesophageal Reflux
+Sitagliptin 100mg,itching frequent urination slow healing recurrent infections blurred vision,nasopharyngitis pancreatitis,,Diabetes Type 2
+Fluoxetine 20mg,weight loss loss of appetite fatigue insomnia,initial anxiety insomnia,,Depression
+Fluoxetine 20mg,fatigue palpitation weight loss anxiety,initial anxiety insomnia,,Depression
+Ibuprofen 400mg,inflammation fever headache back pain,GI bleeding renal risk,,Pain Relief
+Omeprazole 20mg,chest pain joint pain sour taste nausea heartburn cough,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Dextromethorphan 15mg,headache fever cough chills congestion,drowsiness nausea,,Cold & Flu
+Esomeprazole 40mg,cough bloating burping loss of appetite heartburn,diarrhea abdominal pain,,Gastroesophageal Reflux
+Amlodipine 5mg,fatigue blurred vision chest tightness palpitation,peripheral edema flushing,,Hypertension
+Fluoxetine 20mg,fatigue loss of appetite weight loss,initial anxiety insomnia,,Depression
+Fluticasone Inhaler,shortness breath cough anxiety insomnia,oral thrush hoarseness,,Asthma
+Naproxen 250mg,fatigue pain tenderness dizziness headache,dyspepsia cardiovascular,,Pain Relief
+Naproxen 250mg,headache nausea inflammation fatigue pain muscle ache,dyspepsia cardiovascular,,Pain Relief
+Diclofenac 50mg,stiffness difficulty moving headache weakness joint pain,GI ulceration cardiovascular,,Arthritis
+Hydroxychloroquine 200mg,fatigue fever inflammation joint pain stiffness,retinopathy GI upset,,Arthritis
+Empagliflozin 10mg,fatigue slow healing numbness frequent urination dry mouth,UTI genital mycosis,,Diabetes Type 2
+Cetirizine 10mg,throat irritation hives sneezing skin irritation watery eyes,drowsiness dry mouth,,Allergy
+Clarithromycin 500mg,chills fatigue redness,QT prolongation hepatotoxicity,,Infection
+Metformin 500mg,weakness itching excessive thirst blurred vision numbness fatigue,GI upset lactic acidosis,,Diabetes Type 2
+Salbutamol Inhaler,shortness breath difficulty breathing chest tightness palpitation,tremor tachycardia,,Asthma
+Ibuprofen 400mg,headache pain inflammation dizziness joint pain nausea,GI bleeding renal risk,,Pain Relief
+Amoxicillin 500mg,chills fatigue weakness chest tightness swelling,diarrhea hypersensitivity,,Infection
+Losartan 50mg,congestion palpitation insomnia headache chest tightness nausea,hyperkalemia dizziness,,Hypertension
+Pantoprazole 40mg,chest pain sore throat cough difficulty swallowing sneezing nausea,headache osteoporosis,,Gastroesophageal Reflux
+Omeprazole 20mg,cough chest pain heartburn sore throat bloating loss of appetite,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Loratadine 10mg,throat irritation itching rash runny nose skin irritation,headache fatigue,,Allergy
+Tiotropium Inhaler,wheezing nausea chest tightness cough exercise intolerance,dry mouth urinary retention,,Asthma
+Celecoxib 200mg,redness joint pain swelling,cardiovascular edema,,Arthritis
+Amoxicillin 500mg,pain fever cough,diarrhea hypersensitivity,,Infection
+Metronidazole 400mg,fever nausea redness discharge pain chills,metallic taste neuropathy,,Infection
+Escitalopram 10mg,loss of appetite fatigue itching insomnia headache dizziness,QT prolongation,,Depression
+Clarithromycin 500mg,pain fever rash nausea,QT prolongation hepatotoxicity,,Infection
+Pseudoephedrine 60mg,chills weakness shortness breath fatigue fever,insomnia elevated BP,,Cold & Flu
+Amlodipine 5mg,anxiety chest tightness fatigue headache palpitation,peripheral edema flushing,,Hypertension
+Paracetamol+Phenylephrine,sore throat fever nausea weakness body ache fatigue,palpitation hypertension,,Cold & Flu
+Hydroxychloroquine 200mg,blurred vision swelling joint pain stiffness difficulty moving,retinopathy GI upset,,Arthritis
+Fluticasone Inhaler,cough exercise intolerance wheezing,oral thrush hoarseness,,Asthma
+Empagliflozin 10mg,dry mouth frequent urination excessive thirst,UTI genital mycosis,,Diabetes Type 2
+Cetirizine 10mg,swelling watery eyes runny nose,drowsiness dry mouth,,Allergy
+Omeprazole 20mg,nausea loss of appetite bloating cough joint pain chest pain sore throat,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Paracetamol 500mg,fever joint pain dizziness headache inflammation,hepatotoxicity nausea,,Pain Relief
+Escitalopram 10mg,weakness loss of appetite fatigue low energy insomnia dizziness,QT prolongation,,Depression
+Hydroxychloroquine 200mg,fatigue weakness stiffness swelling inflammation,retinopathy GI upset,,Arthritis
+Amoxicillin 500mg,redness fever swelling cough weakness loss of appetite,diarrhea hypersensitivity,,Infection
+Losartan 50mg,shortness breath headache palpitation chest tightness,hyperkalemia dizziness,,Hypertension
+Pseudoephedrine 60mg,runny nose fever weakness congestion fatigue,insomnia elevated BP,,Cold & Flu
+Naproxen 250mg,tenderness inflammation dizziness back pain fever,dyspepsia cardiovascular,,Pain Relief
+Sitagliptin 100mg,frequent urination blurred vision dry mouth excessive thirst,nasopharyngitis pancreatitis,,Diabetes Type 2
+Ranitidine 150mg,difficulty swallowing heartburn nausea bloating,headache confusion,,Gastroesophageal Reflux
+Paracetamol 500mg,nausea headache back pain pain fatigue,hepatotoxicity nausea,,Pain Relief
+Salbutamol Inhaler,chest tightness palpitation cough fatigue difficulty breathing,tremor tachycardia,,Asthma
+Amlodipine 5mg,dizziness insomnia swelling blurred vision chest tightness headache,peripheral edema flushing,,Hypertension
+Diclofenac 50mg,inflammation stiffness fever,GI ulceration cardiovascular,,Arthritis
+Amoxicillin 500mg,chills pain cough discharge fatigue redness,diarrhea hypersensitivity,,Infection
+Pantoprazole 40mg,chest pain sore throat heartburn sour taste nausea,headache osteoporosis,,Gastroesophageal Reflux
+Paracetamol+Phenylephrine,sore throat fatigue body ache congestion,palpitation hypertension,,Cold & Flu
+Montelukast 10mg,anxiety shortness breath insomnia wheezing congestion cough,neuropsychiatric headache,,Asthma
+Enalapril 10mg,anxiety dizziness chest tightness shortness breath,dry cough dizziness,,Hypertension
+Gliclazide 80mg,frequent urination blurred vision dizziness excessive thirst recurrent infections,hypoglycemia weight gain,,Diabetes Type 2
+Naproxen 250mg,inflammation headache blurred vision fatigue,dyspepsia cardiovascular,,Pain Relief
+Salbutamol Inhaler,wheezing blurred vision exercise intolerance cough chest tightness,tremor tachycardia,,Asthma
+Celecoxib 200mg,joint pain swelling inflammation fatigue fever,cardiovascular edema,,Arthritis
+Losartan 50mg,palpitation blurred vision headache,hyperkalemia dizziness,,Hypertension
+Atenolol 50mg,headache palpitation nausea shortness breath,bradycardia fatigue,,Hypertension
+Fluticasone Inhaler,shortness breath palpitation cough wheezing fatigue,oral thrush hoarseness,,Asthma
+Tiotropium Inhaler,exercise intolerance cough chest tightness anxiety wheezing,dry mouth urinary retention,,Asthma
+Tiotropium Inhaler,shortness breath chest tightness palpitation wheezing exercise intolerance,dry mouth urinary retention,,Asthma
+Pseudoephedrine 60mg,cough fever weakness,insomnia elevated BP,,Cold & Flu
+Enalapril 10mg,anxiety dizziness chest tightness nausea,dry cough dizziness,,Hypertension
+Venlafaxine 75mg,insomnia weight loss dry mouth anxiety,hypertension sweating,,Depression
+Escitalopram 10mg,loss of appetite weakness low energy dizziness insomnia,QT prolongation,,Depression
+Empagliflozin 10mg,frequent urination fatigue blurred vision recurrent infections,UTI genital mycosis,,Diabetes Type 2
+Atenolol 50mg,swelling dizziness palpitation fatigue,bradycardia fatigue,,Hypertension
+Metronidazole 400mg,fever swelling weakness,metallic taste neuropathy,,Infection
+Venlafaxine 75mg,loss of appetite dizziness palpitation anxiety insomnia dry mouth,hypertension sweating,,Depression
+Dextromethorphan 15mg,runny nose fever nausea cough fatigue,drowsiness nausea,,Cold & Flu
+Dextromethorphan 15mg,sneezing body ache fatigue fever,drowsiness nausea,,Cold & Flu
+Gliclazide 80mg,frequent urination fatigue weakness excessive thirst,hypoglycemia weight gain,,Diabetes Type 2
+Sitagliptin 100mg,slow healing weight loss fatigue recurrent infections frequent urination blurred vision,nasopharyngitis pancreatitis,,Diabetes Type 2
+Esomeprazole 40mg,loss of appetite sore throat heartburn cough bloating,diarrhea abdominal pain,,Gastroesophageal Reflux
+Fluticasone Inhaler,insomnia wheezing fatigue chest tightness shortness breath,oral thrush hoarseness,,Asthma
+Paracetamol 500mg,fatigue pain chest pain fever,hepatotoxicity nausea,,Pain Relief
+Metformin 500mg,frequent urination dry mouth recurrent infections excessive thirst,GI upset lactic acidosis,,Diabetes Type 2
+Sertraline 50mg,anxiety loss of appetite low energy weakness,sexual dysfunction insomnia,,Depression
+Paracetamol+Phenylephrine,cough runny nose sore throat headache congestion,palpitation hypertension,,Cold & Flu
+Sitagliptin 100mg,fatigue weakness slow healing blurred vision,nasopharyngitis pancreatitis,,Diabetes Type 2
+Clarithromycin 500mg,cough swelling weakness pain,QT prolongation hepatotoxicity,,Infection
+Loratadine 10mg,itching swelling rash,headache fatigue,,Allergy
+Metronidazole 400mg,cough fever swelling,metallic taste neuropathy,,Infection
+Clarithromycin 500mg,rash nausea redness fever,QT prolongation hepatotoxicity,,Infection
+Fluticasone Inhaler,cough anxiety fatigue chest tightness difficulty breathing,oral thrush hoarseness,,Asthma
+Ranitidine 150mg,sore throat sour taste nausea chest pain heartburn,headache confusion,,Gastroesophageal Reflux
+Losartan 50mg,palpitation chest tightness headache blurred vision shortness breath,hyperkalemia dizziness,,Hypertension
+Oseltamivir 75mg,sneezing fever nausea sore throat congestion,nausea vomiting,,Cold & Flu
+Fexofenadine 120mg,watery eyes rash cough,headache back pain,,Allergy
+Escitalopram 10mg,dizziness wheezing loss of appetite weakness dry mouth insomnia,QT prolongation,,Depression
+Amoxicillin 500mg,pain weakness loss of appetite fatigue,diarrhea hypersensitivity,,Infection
+Pseudoephedrine 60mg,body ache fever fatigue,insomnia elevated BP,,Cold & Flu
+Esomeprazole 40mg,nausea sore throat difficulty swallowing cough chest pain bloating,diarrhea abdominal pain,,Gastroesophageal Reflux
+Oseltamivir 75mg,nausea fatigue sneezing fever,nausea vomiting,,Cold & Flu
+Metformin 500mg,weakness blurred vision excessive thirst fever itching numbness,GI upset lactic acidosis,,Diabetes Type 2
+Tiotropium Inhaler,wheezing chest tightness difficulty breathing shortness breath,dry mouth urinary retention,,Asthma
+Gliclazide 80mg,excessive thirst frequent urination dry mouth bloating,hypoglycemia weight gain,,Diabetes Type 2
+Montelukast 10mg,wheezing cough shortness breath exercise intolerance,neuropsychiatric headache,,Asthma
+Cetirizine 10mg,runny nose sneezing throat irritation hives skin irritation itching,drowsiness dry mouth,,Allergy
+Omeprazole 20mg,chest pain sore throat nausea difficulty swallowing,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Celecoxib 200mg,inflammation joint pain loss of appetite,cardiovascular edema,,Arthritis
+Salbutamol Inhaler,wheezing chest tightness palpitation insomnia,tremor tachycardia,,Asthma
+Losartan 50mg,headache chest tightness fatigue palpitation,hyperkalemia dizziness,,Hypertension
+Diclofenac 50mg,stiffness loss of appetite weakness inflammation,GI ulceration cardiovascular,,Arthritis
+Montelukast 10mg,palpitation fever cough insomnia chest tightness,neuropsychiatric headache,,Asthma
+Chlorphenamine 4mg,throat irritation itching cough runny nose rash,sedation anticholinergic,,Allergy
+Methotrexate 7.5mg,loss of appetite difficulty moving tenderness inflammation stiffness,hepatotoxicity pulmonary,,Arthritis
+Ranitidine 150mg,burping heartburn chest pain loss of appetite nausea,headache confusion,,Gastroesophageal Reflux
+Naproxen 250mg,inflammation back pain fever,dyspepsia cardiovascular,,Pain Relief
+Diclofenac 50mg,inflammation joint pain fatigue,GI ulceration cardiovascular,,Arthritis
+Esomeprazole 40mg,chest pain bloating heartburn burping sour taste,diarrhea abdominal pain,,Gastroesophageal Reflux
+Tiotropium Inhaler,exercise intolerance palpitation cough wheezing chest tightness,dry mouth urinary retention,,Asthma
+Omeprazole 20mg,sore throat bloating sour taste chest pain,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Montelukast 10mg,wheezing chest tightness joint pain shortness breath difficulty breathing fatigue,neuropsychiatric headache,,Asthma
+Naproxen 250mg,fever inflammation dizziness,dyspepsia cardiovascular,,Pain Relief
+Oseltamivir 75mg,headache fatigue cough sore throat,nausea vomiting,,Cold & Flu
+Ibuprofen 400mg,tenderness pain fever headache,GI bleeding renal risk,,Pain Relief
+Sitagliptin 100mg,dry mouth blurred vision excessive thirst,nasopharyngitis pancreatitis,,Diabetes Type 2
+Ranitidine 150mg,bloating cough heartburn difficulty swallowing loss of appetite redness nausea,headache confusion,,Gastroesophageal Reflux
+Paracetamol+Phenylephrine,fever chest tightness sneezing body ache fatigue weakness,palpitation hypertension,,Cold & Flu
+Pantoprazole 40mg,loss of appetite sour taste anxiety bloating nausea difficulty swallowing,headache osteoporosis,,Gastroesophageal Reflux
+Dextromethorphan 15mg,fever weakness cough body ache inflammation congestion sneezing,drowsiness nausea,,Cold & Flu
+Sitagliptin 100mg,nausea frequent urination excessive thirst fatigue itching dry mouth,nasopharyngitis pancreatitis,,Diabetes Type 2
+Pseudoephedrine 60mg,fatigue cough congestion sore throat headache body ache,insomnia elevated BP,,Cold & Flu
+Paracetamol+Phenylephrine,sore throat runny nose fatigue,palpitation hypertension,,Cold & Flu
+Sertraline 50mg,insomnia cough weakness loss of appetite dry mouth,sexual dysfunction insomnia,,Depression
+Chlorphenamine 4mg,runny nose congestion rash throat irritation,sedation anticholinergic,,Allergy
+Naproxen 250mg,back pain headache inflammation pain,dyspepsia cardiovascular,,Pain Relief
+Enalapril 10mg,anxiety palpitation dizziness swelling fatigue,dry cough dizziness,,Hypertension
+Sertraline 50mg,headache low energy loss of appetite weakness insomnia,sexual dysfunction insomnia,,Depression
+Metformin 500mg,excessive thirst blurred vision joint pain itching,GI upset lactic acidosis,,Diabetes Type 2
+Celecoxib 200mg,loss of appetite wheezing swelling tenderness stiffness joint pain,cardiovascular edema,,Arthritis
+Naproxen 250mg,fever dizziness joint pain back pain headache,dyspepsia cardiovascular,,Pain Relief
+Sitagliptin 100mg,blurred vision recurrent infections fatigue fever itching dry mouth,nasopharyngitis pancreatitis,,Diabetes Type 2
+Chlorphenamine 4mg,swelling cough itching rash,sedation anticholinergic,,Allergy
+Oseltamivir 75mg,headache cough fever,nausea vomiting,,Cold & Flu
+Ranitidine 150mg,sour taste chest pain sore throat heartburn difficulty swallowing bloating,headache confusion,,Gastroesophageal Reflux
+Atenolol 50mg,swelling nausea chest tightness palpitation dizziness,bradycardia fatigue,,Hypertension
+Ciprofloxacin 500mg,swelling pain nausea inflammation discharge loss of appetite,tendinopathy photosensitivity,,Infection
+Venlafaxine 75mg,loss of appetite insomnia anxiety dizziness,hypertension sweating,,Depression
+Atenolol 50mg,headache dizziness insomnia palpitation anxiety,bradycardia fatigue,,Hypertension
+Escitalopram 10mg,weight loss palpitation fever loss of appetite weakness fatigue insomnia,QT prolongation,,Depression
+Esomeprazole 40mg,cough bloating heartburn chest pain,diarrhea abdominal pain,,Gastroesophageal Reflux
+Enalapril 10mg,anxiety palpitation headache,dry cough dizziness,,Hypertension
+Pseudoephedrine 60mg,congestion body ache fatigue sore throat chills,insomnia elevated BP,,Cold & Flu
+Ciprofloxacin 500mg,discharge redness nausea swelling,tendinopathy photosensitivity,,Infection
+Oseltamivir 75mg,sore throat fatigue nausea,nausea vomiting,,Cold & Flu
+Gliclazide 80mg,recurrent infections blurred vision weight loss headache excessive thirst dry mouth frequent urination,hypoglycemia weight gain,,Diabetes Type 2
+Salbutamol Inhaler,chest tightness wheezing anxiety exercise intolerance cough,tremor tachycardia,,Asthma
+Diclofenac 50mg,loss of appetite fatigue inflammation difficulty moving joint pain,GI ulceration cardiovascular,,Arthritis
+Paracetamol+Phenylephrine,congestion cough headache sore throat body ache runny nose,palpitation hypertension,,Cold & Flu
+Chlorphenamine 4mg,itching swelling watery eyes throat irritation rash hives,sedation anticholinergic,,Allergy
+Salbutamol Inhaler,chest tightness anxiety wheezing cough,tremor tachycardia,,Asthma
+Tramadol 50mg,dizziness inflammation pain joint pain,dependence constipation,,Pain Relief
+Diclofenac 50mg,stiffness swelling joint pain loss of appetite redness difficulty moving,GI ulceration cardiovascular,,Arthritis
+Loratadine 10mg,congestion sneezing itching,headache fatigue,,Allergy
+Losartan 50mg,fatigue headache fever palpitation,hyperkalemia dizziness,,Hypertension
+Ibuprofen 400mg,nausea fever sneezing joint pain headache back pain pain,GI bleeding renal risk,,Pain Relief
+Pseudoephedrine 60mg,chills cough fever sneezing headache,insomnia elevated BP,,Cold & Flu
+Montelukast 10mg,cough anxiety shortness breath difficulty breathing exercise intolerance,neuropsychiatric headache,,Asthma
+Paracetamol 500mg,dizziness fatigue pain fever headache muscle ache,hepatotoxicity nausea,,Pain Relief
+Sitagliptin 100mg,excessive thirst blurred vision swelling slow healing,nasopharyngitis pancreatitis,,Diabetes Type 2
+Gliclazide 80mg,blurred vision itching fatigue numbness,hypoglycemia weight gain,,Diabetes Type 2
+Escitalopram 10mg,anxiety weight loss loss of appetite palpitation weakness,QT prolongation,,Depression
+Amoxicillin 500mg,loss of appetite cough nausea swelling redness,diarrhea hypersensitivity,,Infection
+Pseudoephedrine 60mg,runny nose sore throat fever body ache cough fatigue sneezing,insomnia elevated BP,,Cold & Flu
+Celecoxib 200mg,stiffness tenderness swelling,cardiovascular edema,,Arthritis
+Metformin 500mg,recurrent infections fatigue numbness blurred vision,GI upset lactic acidosis,,Diabetes Type 2
+Chlorphenamine 4mg,rash skin irritation sneezing runny nose,sedation anticholinergic,,Allergy
+Dextromethorphan 15mg,congestion cough sneezing body ache chills sore throat,drowsiness nausea,,Cold & Flu
+Tiotropium Inhaler,cough chest tightness exercise intolerance fatigue loss of appetite,dry mouth urinary retention,,Asthma
+Fluticasone Inhaler,chest tightness cough exercise intolerance wheezing anxiety,oral thrush hoarseness,,Asthma
+Methotrexate 7.5mg,joint pain redness fatigue loss of appetite swelling,hepatotoxicity pulmonary,,Arthritis
+Fexofenadine 120mg,runny nose sneezing watery eyes chest tightness throat irritation congestion,headache back pain,,Allergy
+Fluticasone Inhaler,palpitation cough shortness breath insomnia chest tightness,oral thrush hoarseness,,Asthma
+Hydroxychloroquine 200mg,difficulty moving stiffness joint pain loss of appetite,retinopathy GI upset,,Arthritis
+Ranitidine 150mg,heartburn nausea sour taste bloating sore throat,headache confusion,,Gastroesophageal Reflux
+Celecoxib 200mg,inflammation swelling fever redness,cardiovascular edema,,Arthritis
+Celecoxib 200mg,fever inflammation swelling sneezing,cardiovascular edema,,Arthritis
+Paracetamol+Phenylephrine,headache sore throat chills cough runny nose fatigue,palpitation hypertension,,Cold & Flu
+Fexofenadine 120mg,sneezing hives cough watery eyes,headache back pain,,Allergy
+Gliclazide 80mg,anxiety numbness excessive thirst weight loss fatigue itching blurred vision,hypoglycemia weight gain,,Diabetes Type 2
+Celecoxib 200mg,inflammation stiffness swelling tenderness difficulty moving redness,cardiovascular edema,,Arthritis
+Fluoxetine 20mg,insomnia weakness weight loss fatigue low energy,initial anxiety insomnia,,Depression
+Amlodipine 5mg,dizziness insomnia shortness breath palpitation headache,peripheral edema flushing,,Hypertension
+Empagliflozin 10mg,blurred vision dry mouth weakness excessive thirst,UTI genital mycosis,,Diabetes Type 2
+Losartan 50mg,palpitation shortness breath inflammation chest tightness,hyperkalemia dizziness,,Hypertension
+Ciprofloxacin 500mg,pain discharge chills rash redness fever,tendinopathy photosensitivity,,Infection
+Celecoxib 200mg,swelling stiffness loss of appetite inflammation weakness,cardiovascular edema,,Arthritis
+Empagliflozin 10mg,weight loss blurred vision recurrent infections dry mouth excessive thirst,UTI genital mycosis,,Diabetes Type 2
+Pseudoephedrine 60mg,fever fatigue nausea body ache sore throat,insomnia elevated BP,,Cold & Flu
+Dextromethorphan 15mg,sneezing weakness nausea sore throat fever fatigue,drowsiness nausea,,Cold & Flu
+Montelukast 10mg,cough fatigue palpitation shortness breath chest tightness exercise intolerance,neuropsychiatric headache,,Asthma
+Amlodipine 5mg,dizziness chest pain headache insomnia palpitation fatigue,peripheral edema flushing,,Hypertension
+Metformin 500mg,blurred vision fatigue itching numbness slow healing,GI upset lactic acidosis,,Diabetes Type 2
+Omeprazole 20mg,nausea sore throat heartburn difficulty swallowing loss of appetite,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Dextromethorphan 15mg,inflammation fatigue cough weakness,drowsiness nausea,,Cold & Flu
+Pantoprazole 40mg,chest pain bloating nausea loss of appetite,headache osteoporosis,,Gastroesophageal Reflux
+Esomeprazole 40mg,chest pain nausea cough bloating sore throat,diarrhea abdominal pain,,Gastroesophageal Reflux
+Esomeprazole 40mg,heartburn bloating sour taste,diarrhea abdominal pain,,Gastroesophageal Reflux
+Empagliflozin 10mg,excessive thirst weakness frequent urination numbness,UTI genital mycosis,,Diabetes Type 2
+Ciprofloxacin 500mg,swelling rash weakness fatigue cough,tendinopathy photosensitivity,,Infection
+Amlodipine 5mg,headache chest tightness insomnia dizziness shortness breath,peripheral edema flushing,,Hypertension
+Salbutamol Inhaler,difficulty breathing fatigue wheezing chest tightness palpitation,tremor tachycardia,,Asthma
+Chlorphenamine 4mg,sneezing cough itching watery eyes hives,sedation anticholinergic,,Allergy
+Atenolol 50mg,palpitation insomnia headache chest tightness,bradycardia fatigue,,Hypertension
+Clarithromycin 500mg,chills swelling pain redness,QT prolongation hepatotoxicity,,Infection
+Salbutamol Inhaler,wheezing insomnia chest tightness cough fatigue,tremor tachycardia,,Asthma
+Omeprazole 20mg,sore throat chest pain heartburn bloating,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Metronidazole 400mg,fever redness swelling pain cough,metallic taste neuropathy,,Infection
+Pantoprazole 40mg,sore throat chest pain bloating,headache osteoporosis,,Gastroesophageal Reflux
+Sitagliptin 100mg,blurred vision weight loss recurrent infections excessive thirst,nasopharyngitis pancreatitis,,Diabetes Type 2
+Amoxicillin 500mg,rash chills fever loss of appetite fatigue,diarrhea hypersensitivity,,Infection
+Escitalopram 10mg,shortness breath headache anxiety fatigue,QT prolongation,,Depression
+Tiotropium Inhaler,palpitation cough wheezing difficulty breathing fatigue,dry mouth urinary retention,,Asthma
+Montelukast 10mg,fatigue cough joint pain wheezing,neuropsychiatric headache,,Asthma
+Fluticasone Inhaler,insomnia fatigue chest tightness exercise intolerance cough wheezing,oral thrush hoarseness,,Asthma
+Fexofenadine 120mg,sneezing hives runny nose throat irritation cough,headache back pain,,Allergy
+Oseltamivir 75mg,runny nose sore throat cough sneezing,nausea vomiting,,Cold & Flu
+Cetirizine 10mg,congestion watery eyes sneezing hives skin irritation,drowsiness dry mouth,,Allergy
+Salbutamol Inhaler,cough chest tightness wheezing fatigue,tremor tachycardia,,Asthma
+Empagliflozin 10mg,frequent urination weight loss excessive thirst fatigue itching weakness,UTI genital mycosis,,Diabetes Type 2
+Clarithromycin 500mg,nausea fever loss of appetite chills swelling pain,QT prolongation hepatotoxicity,,Infection
+Tiotropium Inhaler,wheezing headache shortness breath insomnia,dry mouth urinary retention,,Asthma
+Fluoxetine 20mg,low energy weight loss palpitation fatigue anxiety loss of appetite,initial anxiety insomnia,,Depression
+Cetirizine 10mg,runny nose congestion watery eyes throat irritation,drowsiness dry mouth,,Allergy
+Celecoxib 200mg,loss of appetite stiffness fever weakness joint pain,cardiovascular edema,,Arthritis
+Montelukast 10mg,shortness breath sneezing wheezing difficulty breathing palpitation chest tightness,neuropsychiatric headache,,Asthma
+Diclofenac 50mg,difficulty moving joint pain fever weakness swelling inflammation insomnia,GI ulceration cardiovascular,,Arthritis
+Enalapril 10mg,insomnia nausea fatigue headache chest tightness palpitation,dry cough dizziness,,Hypertension
+Tramadol 50mg,inflammation headache fever joint pain tenderness,dependence constipation,,Pain Relief
+Ranitidine 150mg,chest pain difficulty swallowing heartburn bloating,headache confusion,,Gastroesophageal Reflux
+Losartan 50mg,headache insomnia chest tightness,hyperkalemia dizziness,,Hypertension
+Chlorphenamine 4mg,sneezing bloating watery eyes cough hives,sedation anticholinergic,,Allergy
+Sertraline 50mg,anxiety palpitation insomnia weight loss fatigue low energy nausea,sexual dysfunction insomnia,,Depression
+Naproxen 250mg,back pain headache inflammation muscle ache fever,dyspepsia cardiovascular,,Pain Relief
+Venlafaxine 75mg,dry mouth anxiety weakness fatigue,hypertension sweating,,Depression
+Amoxicillin 500mg,weakness fatigue redness swelling,diarrhea hypersensitivity,,Infection
+Sitagliptin 100mg,numbness weakness dry mouth excessive thirst pain fatigue,nasopharyngitis pancreatitis,,Diabetes Type 2
+Tramadol 50mg,muscle ache dizziness fever headache nausea,dependence constipation,,Pain Relief
+Sitagliptin 100mg,dry mouth blurred vision excessive thirst fatigue,nasopharyngitis pancreatitis,,Diabetes Type 2
+Amlodipine 5mg,itching palpitation swelling chest tightness dizziness,peripheral edema flushing,,Hypertension
+Venlafaxine 75mg,dizziness headache anxiety insomnia fatigue,hypertension sweating,,Depression
+Escitalopram 10mg,loss of appetite dizziness insomnia low energy,QT prolongation,,Depression
+Pantoprazole 40mg,cough bloating chest pain loss of appetite,headache osteoporosis,,Gastroesophageal Reflux
+Ciprofloxacin 500mg,fatigue chills pain,tendinopathy photosensitivity,,Infection
+Metronidazole 400mg,pain joint pain nausea fever swelling cough,metallic taste neuropathy,,Infection
+Metformin 500mg,fatigue recurrent infections excessive thirst,GI upset lactic acidosis,,Diabetes Type 2
+Pseudoephedrine 60mg,sore throat body ache fever,insomnia elevated BP,,Cold & Flu
+Naproxen 250mg,fever dizziness inflammation joint pain fatigue,dyspepsia cardiovascular,,Pain Relief
+Cetirizine 10mg,throat irritation runny nose sneezing,drowsiness dry mouth,,Allergy
+Cetirizine 10mg,cough swelling watery eyes congestion rash,drowsiness dry mouth,,Allergy
+Montelukast 10mg,difficulty breathing shortness breath wheezing insomnia,neuropsychiatric headache,,Asthma
+Pantoprazole 40mg,heartburn burping sore throat chest pain nausea,headache osteoporosis,,Gastroesophageal Reflux
+Atenolol 50mg,anxiety dizziness chest tightness palpitation,bradycardia fatigue,,Hypertension
+Fexofenadine 120mg,watery eyes congestion cough nausea skin irritation rash,headache back pain,,Allergy
+Esomeprazole 40mg,nausea sore throat cough heartburn difficulty swallowing,diarrhea abdominal pain,,Gastroesophageal Reflux
+Salbutamol Inhaler,fatigue chest tightness palpitation difficulty breathing wheezing,tremor tachycardia,,Asthma
+Metformin 500mg,blurred vision fatigue itching weakness frequent urination weight loss,GI upset lactic acidosis,,Diabetes Type 2
+Hydroxychloroquine 200mg,inflammation fever weakness swelling stiffness,retinopathy GI upset,,Arthritis
+Ciprofloxacin 500mg,fatigue fever loss of appetite discharge swelling,tendinopathy photosensitivity,,Infection
+Tramadol 50mg,pain headache fatigue back pain inflammation joint pain,dependence constipation,,Pain Relief
+Sitagliptin 100mg,slow healing weakness dry mouth excessive thirst fatigue,nasopharyngitis pancreatitis,,Diabetes Type 2
+Hydroxychloroquine 200mg,redness inflammation frequent urination joint pain,retinopathy GI upset,,Arthritis
+Pseudoephedrine 60mg,weakness fatigue fever congestion,insomnia elevated BP,,Cold & Flu
+Ranitidine 150mg,swelling bloating chest pain difficulty swallowing,headache confusion,,Gastroesophageal Reflux
+Diclofenac 50mg,joint pain swelling inflammation weakness difficulty moving,GI ulceration cardiovascular,,Arthritis
+Clarithromycin 500mg,cough swelling fever nausea discharge,QT prolongation hepatotoxicity,,Infection
+Sertraline 50mg,loss of appetite weakness dizziness fatigue,sexual dysfunction insomnia,,Depression
+Paracetamol 500mg,back pain inflammation fever joint pain,hepatotoxicity nausea,,Pain Relief
+Escitalopram 10mg,fatigue anxiety insomnia weakness,QT prolongation,,Depression
+Sitagliptin 100mg,anxiety excessive thirst blurred vision itching fatigue,nasopharyngitis pancreatitis,,Diabetes Type 2
+Chlorphenamine 4mg,cough itching swelling sneezing throat irritation,sedation anticholinergic,,Allergy
+Fexofenadine 120mg,runny nose insomnia sneezing throat irritation cough itching,headache back pain,,Allergy
+Metformin 500mg,frequent urination numbness excessive thirst,GI upset lactic acidosis,,Diabetes Type 2
+Sertraline 50mg,dry mouth fatigue anxiety palpitation loss of appetite,sexual dysfunction insomnia,,Depression
+Chlorphenamine 4mg,hives itching cough runny nose,sedation anticholinergic,,Allergy
+Fexofenadine 120mg,itching throat irritation hives cough runny nose,headache back pain,,Allergy
+Paracetamol+Phenylephrine,sore throat chills congestion body ache sneezing joint pain,palpitation hypertension,,Cold & Flu
+Omeprazole 20mg,nausea heartburn bloating sour taste burping,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Hydroxychloroquine 200mg,weakness loss of appetite difficulty moving inflammation swelling stiffness,retinopathy GI upset,,Arthritis
+Pantoprazole 40mg,heartburn bloating sour taste loss of appetite,headache osteoporosis,,Gastroesophageal Reflux
+Venlafaxine 75mg,anxiety fatigue palpitation,hypertension sweating,,Depression
+Dextromethorphan 15mg,cough congestion weakness body ache sore throat headache,drowsiness nausea,,Cold & Flu
+Montelukast 10mg,chest tightness difficulty breathing anxiety wheezing shortness breath,neuropsychiatric headache,,Asthma
+Ibuprofen 400mg,tenderness muscle ache fever pain,GI bleeding renal risk,,Pain Relief
+Losartan 50mg,shortness breath fatigue chest tightness palpitation,hyperkalemia dizziness,,Hypertension
+Chlorphenamine 4mg,itching throat irritation sneezing,sedation anticholinergic,,Allergy
+Atenolol 50mg,blurred vision headache chest tightness,bradycardia fatigue,,Hypertension
+Ibuprofen 400mg,pain fever fatigue,GI bleeding renal risk,,Pain Relief
+Amoxicillin 500mg,discharge chills cough fever swelling,diarrhea hypersensitivity,,Infection
+Fluoxetine 20mg,fatigue anxiety low energy loss of appetite,initial anxiety insomnia,,Depression
+Esomeprazole 40mg,nausea chest pain burping,diarrhea abdominal pain,,Gastroesophageal Reflux
+Sitagliptin 100mg,frequent urination dry mouth blurred vision numbness,nasopharyngitis pancreatitis,,Diabetes Type 2
+Tramadol 50mg,tenderness fatigue pain fever wheezing inflammation joint pain,dependence constipation,,Pain Relief
+Gliclazide 80mg,weight loss blurred vision numbness chest tightness excessive thirst,hypoglycemia weight gain,,Diabetes Type 2
+Metformin 500mg,inflammation weakness excessive thirst frequent urination weight loss,GI upset lactic acidosis,,Diabetes Type 2
+Loratadine 10mg,sneezing throat irritation runny nose cough,headache fatigue,,Allergy
+Tramadol 50mg,headache pain stiffness tenderness,dependence constipation,,Pain Relief
+Pantoprazole 40mg,loss of appetite inflammation chest pain sour taste heartburn nausea,headache osteoporosis,,Gastroesophageal Reflux
+Amoxicillin 500mg,pain joint pain chills cough discharge fever,diarrhea hypersensitivity,,Infection
+Celecoxib 200mg,swelling weakness joint pain stiffness,cardiovascular edema,,Arthritis
+Montelukast 10mg,insomnia sneezing wheezing chest tightness difficulty breathing,neuropsychiatric headache,,Asthma
+Tiotropium Inhaler,exercise intolerance fatigue anxiety chest tightness shortness breath,dry mouth urinary retention,,Asthma
+Ranitidine 150mg,bloating heartburn loss of appetite sore throat nausea,headache confusion,,Gastroesophageal Reflux
+Sitagliptin 100mg,blurred vision weight loss frequent urination excessive thirst,nasopharyngitis pancreatitis,,Diabetes Type 2
+Chlorphenamine 4mg,itching hives sneezing watery eyes fever,sedation anticholinergic,,Allergy
+Oseltamivir 75mg,weakness fever fatigue chills nausea,nausea vomiting,,Cold & Flu
+Loratadine 10mg,watery eyes throat irritation sneezing,headache fatigue,,Allergy
+Paracetamol 500mg,tenderness headache fever nausea inflammation back pain,hepatotoxicity nausea,,Pain Relief
+Sitagliptin 100mg,weight loss dry mouth blurred vision slow healing excessive thirst fatigue,nasopharyngitis pancreatitis,,Diabetes Type 2
+Amoxicillin 500mg,swelling loss of appetite discharge stiffness redness weakness,diarrhea hypersensitivity,,Infection
+Dextromethorphan 15mg,runny nose chills fatigue cough headache nausea,drowsiness nausea,,Cold & Flu
+Chlorphenamine 4mg,rash itching runny nose throat irritation,sedation anticholinergic,,Allergy
+Amlodipine 5mg,dizziness shortness breath headache palpitation anxiety stiffness,peripheral edema flushing,,Hypertension
+Chlorphenamine 4mg,rash sneezing skin irritation watery eyes hives,sedation anticholinergic,,Allergy
+Amoxicillin 500mg,chills fatigue swelling fever,diarrhea hypersensitivity,,Infection
+Chlorphenamine 4mg,sneezing cough hives insomnia itching watery eyes swelling,sedation anticholinergic,,Allergy
+Empagliflozin 10mg,numbness chest tightness excessive thirst blurred vision,UTI genital mycosis,,Diabetes Type 2
+Celecoxib 200mg,stiffness fever swelling joint pain,cardiovascular edema,,Arthritis
+Cetirizine 10mg,throat irritation skin irritation itching watery eyes swelling,drowsiness dry mouth,,Allergy
+Amlodipine 5mg,headache nausea chest pain chest tightness swelling,peripheral edema flushing,,Hypertension
+Escitalopram 10mg,dry mouth headache insomnia loss of appetite,QT prolongation,,Depression
+Paracetamol+Phenylephrine,runny nose nausea fever fatigue sneezing,palpitation hypertension,,Cold & Flu
+Dextromethorphan 15mg,sore throat weakness congestion fever,drowsiness nausea,,Cold & Flu
+Escitalopram 10mg,fatigue dry mouth insomnia headache,QT prolongation,,Depression
+Losartan 50mg,dizziness anxiety palpitation shortness breath fatigue,hyperkalemia dizziness,,Hypertension
+Amlodipine 5mg,palpitation dizziness fatigue headache,peripheral edema flushing,,Hypertension
+Metronidazole 400mg,rash swelling weakness pain fever,metallic taste neuropathy,,Infection
+Sertraline 50mg,dry mouth loss of appetite palpitation low energy insomnia,sexual dysfunction insomnia,,Depression
+Ibuprofen 400mg,pain muscle ache headache dizziness nausea inflammation,GI bleeding renal risk,,Pain Relief
+Omeprazole 20mg,chest pain difficulty swallowing nausea stiffness,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Clarithromycin 500mg,pain swelling loss of appetite weakness chills fever,QT prolongation hepatotoxicity,,Infection
+Hydroxychloroquine 200mg,fever tenderness swelling inflammation difficulty moving stiffness,retinopathy GI upset,,Arthritis
+Sitagliptin 100mg,frequent urination blurred vision weight loss itching,nasopharyngitis pancreatitis,,Diabetes Type 2
+Amoxicillin 500mg,fever pain fatigue nausea,diarrhea hypersensitivity,,Infection
+Loratadine 10mg,throat irritation itching sneezing cough skin irritation,headache fatigue,,Allergy
+Loratadine 10mg,pain itching congestion rash,headache fatigue,,Allergy
+Oseltamivir 75mg,fatigue nausea congestion,nausea vomiting,,Cold & Flu
+Celecoxib 200mg,fever tenderness swelling redness joint pain inflammation,cardiovascular edema,,Arthritis
+Hydroxychloroquine 200mg,joint pain swelling weakness,retinopathy GI upset,,Arthritis
+Pseudoephedrine 60mg,fever fatigue congestion nausea weakness,insomnia elevated BP,,Cold & Flu
+Fluticasone Inhaler,cough anxiety wheezing,oral thrush hoarseness,,Asthma
+Tramadol 50mg,pain headache tenderness back pain,dependence constipation,,Pain Relief
+Metformin 500mg,fatigue weight loss dry mouth excessive thirst frequent urination bloating,GI upset lactic acidosis,,Diabetes Type 2
+Escitalopram 10mg,dizziness fatigue loss of appetite weight loss palpitation insomnia,QT prolongation,,Depression
+Fexofenadine 120mg,throat irritation hives sneezing swelling watery eyes,headache back pain,,Allergy
+Enalapril 10mg,palpitation chest tightness dizziness swelling,dry cough dizziness,,Hypertension
+Ibuprofen 400mg,fatigue tenderness headache joint pain fever,GI bleeding renal risk,,Pain Relief
+Losartan 50mg,nausea chest tightness fatigue dizziness insomnia,hyperkalemia dizziness,,Hypertension
+Losartan 50mg,dizziness blurred vision palpitation insomnia,hyperkalemia dizziness,,Hypertension
+Empagliflozin 10mg,excessive thirst dry mouth recurrent infections frequent urination swelling fatigue,UTI genital mycosis,,Diabetes Type 2
+Loratadine 10mg,sneezing skin irritation runny nose hives congestion,headache fatigue,,Allergy
+Hydroxychloroquine 200mg,fatigue stiffness inflammation swelling,retinopathy GI upset,,Arthritis
+Losartan 50mg,headache insomnia dizziness chest tightness,hyperkalemia dizziness,,Hypertension
+Esomeprazole 40mg,burping heartburn cough bloating,diarrhea abdominal pain,,Gastroesophageal Reflux
+Amoxicillin 500mg,cough fever swelling pain,diarrhea hypersensitivity,,Infection
+Sertraline 50mg,insomnia dizziness loss of appetite low energy,sexual dysfunction insomnia,,Depression
+Oseltamivir 75mg,fatigue chills sore throat runny nose fever weakness,nausea vomiting,,Cold & Flu
+Amoxicillin 500mg,redness fever weakness discharge chills,diarrhea hypersensitivity,,Infection
+Escitalopram 10mg,fatigue low energy anxiety weakness,QT prolongation,,Depression
+Venlafaxine 75mg,anxiety weight loss fatigue weakness,hypertension sweating,,Depression
+Atenolol 50mg,dizziness headache insomnia shortness breath,bradycardia fatigue,,Hypertension
+Sertraline 50mg,dry mouth weight loss anxiety fatigue weakness,sexual dysfunction insomnia,,Depression
+Amoxicillin 500mg,redness fever chills rash nausea swelling,diarrhea hypersensitivity,,Infection
+Methotrexate 7.5mg,redness difficulty moving tenderness swelling inflammation,hepatotoxicity pulmonary,,Arthritis
+Venlafaxine 75mg,weight loss weakness loss of appetite dry mouth anxiety fatigue,hypertension sweating,,Depression
+Clarithromycin 500mg,redness swelling chills loss of appetite fatigue,QT prolongation hepatotoxicity,,Infection
+Venlafaxine 75mg,anxiety headache insomnia weakness,hypertension sweating,,Depression
+Ibuprofen 400mg,nausea headache pain muscle ache,GI bleeding renal risk,,Pain Relief
+Oseltamivir 75mg,headache body ache cough weakness fever,nausea vomiting,,Cold & Flu
+Clarithromycin 500mg,loss of appetite discharge chest tightness fatigue redness rash,QT prolongation hepatotoxicity,,Infection
+Amlodipine 5mg,headache palpitation insomnia,peripheral edema flushing,,Hypertension
+Celecoxib 200mg,swelling redness stiffness joint pain,cardiovascular edema,,Arthritis
+Hydroxychloroquine 200mg,stiffness inflammation tenderness,retinopathy GI upset,,Arthritis
+Ranitidine 150mg,difficulty swallowing burping sour taste heartburn bloating chest pain,headache confusion,,Gastroesophageal Reflux
+Tiotropium Inhaler,wheezing shortness breath exercise intolerance fatigue,dry mouth urinary retention,,Asthma
+Losartan 50mg,inflammation dizziness insomnia chest tightness,hyperkalemia dizziness,,Hypertension
+Salbutamol Inhaler,cough chest tightness fatigue wheezing,tremor tachycardia,,Asthma
+Esomeprazole 40mg,sour taste chest pain heartburn nausea,diarrhea abdominal pain,,Gastroesophageal Reflux
+Fluoxetine 20mg,dry mouth insomnia dizziness loss of appetite,initial anxiety insomnia,,Depression
+Celecoxib 200mg,tenderness joint pain difficulty moving stiffness inflammation redness,cardiovascular edema,,Arthritis
+Methotrexate 7.5mg,fatigue stiffness swelling,hepatotoxicity pulmonary,,Arthritis
+Escitalopram 10mg,weakness fatigue anxiety loss of appetite headache,QT prolongation,,Depression
+Methotrexate 7.5mg,inflammation difficulty moving tenderness swelling chest pain,hepatotoxicity pulmonary,,Arthritis
+Ranitidine 150mg,chest pain nausea burping,headache confusion,,Gastroesophageal Reflux
+Celecoxib 200mg,inflammation loss of appetite stiffness fatigue,cardiovascular edema,,Arthritis
+Celecoxib 200mg,difficulty moving stiffness redness inflammation,cardiovascular edema,,Arthritis
+Metronidazole 400mg,loss of appetite nausea discharge redness pain,metallic taste neuropathy,,Infection
+Ibuprofen 400mg,joint pain shortness breath pain muscle ache headache inflammation,GI bleeding renal risk,,Pain Relief
+Tiotropium Inhaler,anxiety difficulty breathing chest tightness shortness breath,dry mouth urinary retention,,Asthma
+Methotrexate 7.5mg,fatigue swelling stiffness,hepatotoxicity pulmonary,,Arthritis
+Metformin 500mg,blurred vision slow healing frequent urination fatigue,GI upset lactic acidosis,,Diabetes Type 2
+Diclofenac 50mg,weakness joint pain stiffness itching,GI ulceration cardiovascular,,Arthritis
+Cetirizine 10mg,sneezing runny nose rash congestion bloating,drowsiness dry mouth,,Allergy
+Ciprofloxacin 500mg,weakness swelling redness loss of appetite pain,tendinopathy photosensitivity,,Infection
+Dextromethorphan 15mg,fever cough runny nose fatigue,drowsiness nausea,,Cold & Flu
+Oseltamivir 75mg,fatigue weakness sore throat,nausea vomiting,,Cold & Flu
+Atenolol 50mg,chest tightness fever dizziness nausea anxiety palpitation fatigue,bradycardia fatigue,,Hypertension
+Naproxen 250mg,headache tenderness fever inflammation dizziness,dyspepsia cardiovascular,,Pain Relief
+Metronidazole 400mg,pain swelling fatigue discharge weakness,metallic taste neuropathy,,Infection
+Naproxen 250mg,headache pain muscle ache inflammation dizziness,dyspepsia cardiovascular,,Pain Relief
+Esomeprazole 40mg,shortness breath bloating sour taste nausea,diarrhea abdominal pain,,Gastroesophageal Reflux
+Metronidazole 400mg,swelling redness frequent urination weakness pain,metallic taste neuropathy,,Infection
+Amlodipine 5mg,palpitation rash chest tightness anxiety blurred vision nausea dizziness,peripheral edema flushing,,Hypertension
+Pseudoephedrine 60mg,chills cough sneezing swelling sore throat congestion,insomnia elevated BP,,Cold & Flu
+Metronidazole 400mg,pain swelling fever loss of appetite,metallic taste neuropathy,,Infection
+Ciprofloxacin 500mg,redness pain chills weakness cough,tendinopathy photosensitivity,,Infection
+Ciprofloxacin 500mg,nausea redness fatigue,tendinopathy photosensitivity,,Infection
+Diclofenac 50mg,redness fever inflammation stiffness joint pain,GI ulceration cardiovascular,,Arthritis
+Sertraline 50mg,weakness anxiety insomnia fatigue dizziness dry mouth,sexual dysfunction insomnia,,Depression
+Venlafaxine 75mg,loss of appetite fatigue anxiety dry mouth,hypertension sweating,,Depression
+Venlafaxine 75mg,fatigue insomnia anxiety low energy weakness,hypertension sweating,,Depression
+Sertraline 50mg,fatigue weakness low energy insomnia,sexual dysfunction insomnia,,Depression
+Cetirizine 10mg,rash swelling watery eyes skin irritation hives,drowsiness dry mouth,,Allergy
+Paracetamol 500mg,pain tenderness fever nausea joint pain headache,hepatotoxicity nausea,,Pain Relief
+Esomeprazole 40mg,sore throat heartburn chest pain difficulty swallowing nausea,diarrhea abdominal pain,,Gastroesophageal Reflux
+Hydroxychloroquine 200mg,inflammation swelling loss of appetite redness fatigue stiffness,retinopathy GI upset,,Arthritis
+Paracetamol+Phenylephrine,weakness cough runny nose chest tightness congestion nausea,palpitation hypertension,,Cold & Flu
+Salbutamol Inhaler,shortness breath chest tightness palpitation wheezing,tremor tachycardia,,Asthma
+Gliclazide 80mg,blurred vision fatigue itching weight loss weakness,hypoglycemia weight gain,,Diabetes Type 2
+Ibuprofen 400mg,fever headache inflammation tenderness,GI bleeding renal risk,,Pain Relief
+Fluoxetine 20mg,dry mouth anxiety insomnia headache pain fatigue low energy,initial anxiety insomnia,,Depression
+Cetirizine 10mg,skin irritation throat irritation watery eyes runny nose cough sneezing,drowsiness dry mouth,,Allergy
+Clarithromycin 500mg,fatigue nausea pain weakness,QT prolongation hepatotoxicity,,Infection
+Enalapril 10mg,swelling headache palpitation dizziness,dry cough dizziness,,Hypertension
+Clarithromycin 500mg,fatigue chills swelling redness,QT prolongation hepatotoxicity,,Infection
+Tramadol 50mg,pain inflammation swelling headache back pain,dependence constipation,,Pain Relief
+Omeprazole 20mg,chest pain nausea cough heartburn sour taste difficulty swallowing,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Metronidazole 400mg,nausea fever cough discharge redness,metallic taste neuropathy,,Infection
+Empagliflozin 10mg,weight loss itching fatigue excessive thirst slow healing frequent urination,UTI genital mycosis,,Diabetes Type 2
+Hydroxychloroquine 200mg,stiffness inflammation weakness,retinopathy GI upset,,Arthritis
+Omeprazole 20mg,sore throat chest pain nausea bloating,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Paracetamol 500mg,fever inflammation back pain,hepatotoxicity nausea,,Pain Relief
+Tiotropium Inhaler,shortness breath wheezing cough palpitation sneezing,dry mouth urinary retention,,Asthma
+Esomeprazole 40mg,bloating heartburn sore throat loss of appetite burping chest pain,diarrhea abdominal pain,,Gastroesophageal Reflux
+Ciprofloxacin 500mg,redness fatigue weakness,tendinopathy photosensitivity,,Infection
+Fluticasone Inhaler,palpitation anxiety shortness breath cough chest tightness,oral thrush hoarseness,,Asthma
+Ciprofloxacin 500mg,cough pain fever,tendinopathy photosensitivity,,Infection
+Hydroxychloroquine 200mg,loss of appetite swelling stiffness joint pain tenderness,retinopathy GI upset,,Arthritis
+Diclofenac 50mg,fever chest pain redness stiffness difficulty moving joint pain,GI ulceration cardiovascular,,Arthritis
+Gliclazide 80mg,excessive thirst frequent urination blurred vision recurrent infections,hypoglycemia weight gain,,Diabetes Type 2
+Losartan 50mg,anxiety dizziness shortness breath chest tightness headache nausea,hyperkalemia dizziness,,Hypertension
+Pantoprazole 40mg,heartburn loss of appetite chest pain cough,headache osteoporosis,,Gastroesophageal Reflux
+Hydroxychloroquine 200mg,fatigue inflammation stiffness difficulty moving,retinopathy GI upset,,Arthritis
+Paracetamol+Phenylephrine,chills fatigue fever sore throat insomnia,palpitation hypertension,,Cold & Flu
+Methotrexate 7.5mg,swelling fatigue weakness inflammation,hepatotoxicity pulmonary,,Arthritis
+Venlafaxine 75mg,fatigue loss of appetite insomnia weakness,hypertension sweating,,Depression
+Amlodipine 5mg,chest tightness anxiety fatigue dizziness headache,peripheral edema flushing,,Hypertension
+Fexofenadine 120mg,swelling skin irritation runny nose rash itching hives,headache back pain,,Allergy
+Methotrexate 7.5mg,joint pain inflammation fever swelling,hepatotoxicity pulmonary,,Arthritis
+Losartan 50mg,nausea palpitation insomnia heartburn dizziness headache,hyperkalemia dizziness,,Hypertension
+Omeprazole 20mg,sore throat heartburn bloating loss of appetite difficulty swallowing,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Pseudoephedrine 60mg,congestion sneezing nausea watery eyes headache fever,insomnia elevated BP,,Cold & Flu
+Diclofenac 50mg,joint pain swelling loss of appetite weakness inflammation fever,GI ulceration cardiovascular,,Arthritis
+Montelukast 10mg,wheezing exercise intolerance difficulty breathing shortness breath,neuropsychiatric headache,,Asthma
+Esomeprazole 40mg,bloating cough loss of appetite nausea pain,diarrhea abdominal pain,,Gastroesophageal Reflux
+Fexofenadine 120mg,sneezing congestion skin irritation watery eyes rash hives,headache back pain,,Allergy
+Omeprazole 20mg,loss of appetite bloating heartburn cough difficulty swallowing itching,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Hydroxychloroquine 200mg,stiffness swelling fever difficulty moving joint pain,retinopathy GI upset,,Arthritis
+Losartan 50mg,palpitation chest tightness swelling anxiety,hyperkalemia dizziness,,Hypertension
+Methotrexate 7.5mg,joint pain stiffness fever weakness,hepatotoxicity pulmonary,,Arthritis
+Loratadine 10mg,watery eyes congestion rash itching hives swelling,headache fatigue,,Allergy
+Enalapril 10mg,palpitation chest tightness dizziness fatigue insomnia rash,dry cough dizziness,,Hypertension
+Metronidazole 400mg,weakness nausea swelling pain fatigue chills,metallic taste neuropathy,,Infection
+Paracetamol 500mg,pain muscle ache fever headache tenderness fatigue,hepatotoxicity nausea,,Pain Relief
+Enalapril 10mg,insomnia chest tightness palpitation dizziness nausea shortness breath,dry cough dizziness,,Hypertension
+Pantoprazole 40mg,sour taste sore throat difficulty swallowing loss of appetite nausea heartburn chest pain,headache osteoporosis,,Gastroesophageal Reflux
+Tiotropium Inhaler,chest tightness fatigue cough inflammation exercise intolerance difficulty breathing shortness breath,dry mouth urinary retention,,Asthma
+Ranitidine 150mg,chest pain bloating sour taste,headache confusion,,Gastroesophageal Reflux
+Sitagliptin 100mg,slow healing fatigue recurrent infections blurred vision,nasopharyngitis pancreatitis,,Diabetes Type 2
+Esomeprazole 40mg,bloating nausea burping heartburn,diarrhea abdominal pain,,Gastroesophageal Reflux
+Ibuprofen 400mg,fever nausea headache back pain,GI bleeding renal risk,,Pain Relief
+Losartan 50mg,nausea headache chest tightness,hyperkalemia dizziness,,Hypertension
+Amlodipine 5mg,headache chest tightness dizziness fatigue,peripheral edema flushing,,Hypertension
+Sitagliptin 100mg,frequent urination fatigue excessive thirst dry mouth slow healing,nasopharyngitis pancreatitis,,Diabetes Type 2
+Montelukast 10mg,cough shortness breath wheezing exercise intolerance,neuropsychiatric headache,,Asthma
+Amlodipine 5mg,chest tightness swelling blurred vision dizziness palpitation fatigue,peripheral edema flushing,,Hypertension
+Ciprofloxacin 500mg,fatigue weakness redness nausea rash pain,tendinopathy photosensitivity,,Infection
+Diclofenac 50mg,difficulty moving joint pain weakness inflammation,GI ulceration cardiovascular,,Arthritis
+Fluticasone Inhaler,cough shortness breath chest tightness exercise intolerance,oral thrush hoarseness,,Asthma
+Pantoprazole 40mg,nausea inflammation burping bloating loss of appetite heartburn difficulty swallowing,headache osteoporosis,,Gastroesophageal Reflux
+Hydroxychloroquine 200mg,frequent urination inflammation weakness swelling joint pain loss of appetite,retinopathy GI upset,,Arthritis
+Fluticasone Inhaler,wheezing shortness breath cough anxiety palpitation insomnia,oral thrush hoarseness,,Asthma
+Clarithromycin 500mg,nausea redness loss of appetite fatigue discharge swelling,QT prolongation hepatotoxicity,,Infection
+Loratadine 10mg,itching hives sneezing watery eyes congestion,headache fatigue,,Allergy
+Gliclazide 80mg,fatigue numbness frequent urination,hypoglycemia weight gain,,Diabetes Type 2
+Loratadine 10mg,hives swelling throat irritation itching watery eyes,headache fatigue,,Allergy
+Hydroxychloroquine 200mg,joint pain inflammation difficulty moving,retinopathy GI upset,,Arthritis
+Montelukast 10mg,insomnia exercise intolerance wheezing shortness breath,neuropsychiatric headache,,Asthma
+Metformin 500mg,itching weakness blurred vision numbness fatigue,GI upset lactic acidosis,,Diabetes Type 2
+Metformin 500mg,excessive thirst itching slow healing frequent urination,GI upset lactic acidosis,,Diabetes Type 2
+Atenolol 50mg,swelling dizziness headache chest tightness,bradycardia fatigue,,Hypertension
+Sitagliptin 100mg,fatigue blurred vision excessive thirst itching weakness,nasopharyngitis pancreatitis,,Diabetes Type 2
+Loratadine 10mg,rash itching sneezing congestion,headache fatigue,,Allergy
+Esomeprazole 40mg,sour taste chest pain bloating,diarrhea abdominal pain,,Gastroesophageal Reflux
+Ciprofloxacin 500mg,cough pain fatigue nausea stiffness discharge,tendinopathy photosensitivity,,Infection
+Tramadol 50mg,tenderness joint pain headache pain,dependence constipation,,Pain Relief
+Dextromethorphan 15mg,body ache sneezing fatigue sore throat,drowsiness nausea,,Cold & Flu
+Chlorphenamine 4mg,runny nose swelling rash insomnia itching skin irritation,sedation anticholinergic,,Allergy
+Chlorphenamine 4mg,chest pain rash swelling itching runny nose skin irritation cough,sedation anticholinergic,,Allergy
+Tiotropium Inhaler,exercise intolerance anxiety wheezing difficulty breathing chest tightness fever,dry mouth urinary retention,,Asthma
+Omeprazole 20mg,difficulty swallowing heartburn sore throat cough chest pain nausea,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Ranitidine 150mg,chest pain bloating sour taste fever,headache confusion,,Gastroesophageal Reflux
+Losartan 50mg,blurred vision dizziness bloating shortness breath headache,hyperkalemia dizziness,,Hypertension
+Tramadol 50mg,pain back pain tenderness inflammation,dependence constipation,,Pain Relief
+Salbutamol Inhaler,insomnia chest tightness palpitation cough,tremor tachycardia,,Asthma
+Empagliflozin 10mg,excessive thirst recurrent infections frequent urination blurred vision,UTI genital mycosis,,Diabetes Type 2
+Montelukast 10mg,shortness breath cough inflammation exercise intolerance wheezing fatigue,neuropsychiatric headache,,Asthma
+Amlodipine 5mg,palpitation dizziness headache blurred vision nausea,peripheral edema flushing,,Hypertension
+Cetirizine 10mg,throat irritation watery eyes itching runny nose,drowsiness dry mouth,,Allergy
+Fluoxetine 20mg,fatigue palpitation anxiety heartburn,initial anxiety insomnia,,Depression
+Clarithromycin 500mg,loss of appetite discharge redness swelling rash pain,QT prolongation hepatotoxicity,,Infection
+Dextromethorphan 15mg,headache congestion nausea sore throat chills,drowsiness nausea,,Cold & Flu
+Atenolol 50mg,nausea anxiety palpitation dizziness chest tightness,bradycardia fatigue,,Hypertension
+Tiotropium Inhaler,wheezing shortness breath fatigue chest tightness,dry mouth urinary retention,,Asthma
+Atenolol 50mg,shortness breath insomnia headache anxiety chest tightness,bradycardia fatigue,,Hypertension
+Omeprazole 20mg,sore throat nausea difficulty swallowing bloating cough chest pain,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Naproxen 250mg,pain nausea inflammation fever tenderness,dyspepsia cardiovascular,,Pain Relief
+Fexofenadine 120mg,skin irritation swelling sneezing rash,headache back pain,,Allergy
+Sertraline 50mg,loss of appetite weight loss anxiety,sexual dysfunction insomnia,,Depression
+Ciprofloxacin 500mg,fever fatigue swelling cough weakness,tendinopathy photosensitivity,,Infection
+Omeprazole 20mg,bloating nausea loss of appetite heartburn,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Metformin 500mg,frequent urination itching blurred vision,GI upset lactic acidosis,,Diabetes Type 2
+Amlodipine 5mg,dizziness anxiety chest tightness insomnia palpitation,peripheral edema flushing,,Hypertension
+Esomeprazole 40mg,inflammation nausea bloating chest pain loss of appetite difficulty swallowing,diarrhea abdominal pain,,Gastroesophageal Reflux
+Montelukast 10mg,cough anxiety shortness breath insomnia wheezing palpitation,neuropsychiatric headache,,Asthma
+Escitalopram 10mg,pain insomnia dry mouth weakness headache anxiety,QT prolongation,,Depression
+Cetirizine 10mg,sneezing itching throat irritation,drowsiness dry mouth,,Allergy
+Hydroxychloroquine 200mg,redness joint pain stiffness inflammation fever tenderness weakness,retinopathy GI upset,,Arthritis
+Loratadine 10mg,sneezing hives congestion itching throat irritation,headache fatigue,,Allergy
+Methotrexate 7.5mg,weakness fatigue stiffness fever swelling inflammation,hepatotoxicity pulmonary,,Arthritis
+Fluoxetine 20mg,fatigue dizziness headache insomnia low energy,initial anxiety insomnia,,Depression
+Gliclazide 80mg,blurred vision excessive thirst frequent urination slow healing,hypoglycemia weight gain,,Diabetes Type 2
+Pantoprazole 40mg,burping loss of appetite heartburn nausea,headache osteoporosis,,Gastroesophageal Reflux
+Pseudoephedrine 60mg,runny nose fatigue congestion fever,insomnia elevated BP,,Cold & Flu
+Amoxicillin 500mg,chills cough fever swelling pain,diarrhea hypersensitivity,,Infection
+Tramadol 50mg,dizziness fever pain,dependence constipation,,Pain Relief
+Enalapril 10mg,dizziness nausea palpitation insomnia fatigue,dry cough dizziness,,Hypertension
+Empagliflozin 10mg,dry mouth excessive thirst weight loss weakness blurred vision,UTI genital mycosis,,Diabetes Type 2
+Ibuprofen 400mg,tenderness headache dizziness inflammation,GI bleeding renal risk,,Pain Relief
+Fluoxetine 20mg,joint pain insomnia low energy headache anxiety,initial anxiety insomnia,,Depression
+Fluticasone Inhaler,palpitation anxiety wheezing difficulty breathing chest tightness,oral thrush hoarseness,,Asthma
+Escitalopram 10mg,dry mouth rash insomnia low energy dizziness anxiety,QT prolongation,,Depression
+Fluoxetine 20mg,weight loss insomnia loss of appetite joint pain weakness,initial anxiety insomnia,,Depression
+Empagliflozin 10mg,frequent urination dry mouth itching blurred vision weakness,UTI genital mycosis,,Diabetes Type 2
+Enalapril 10mg,swelling chest tightness palpitation,dry cough dizziness,,Hypertension
+Cetirizine 10mg,watery eyes sneezing swelling frequent urination runny nose skin irritation,drowsiness dry mouth,,Allergy
+Clarithromycin 500mg,fever cough pain fatigue,QT prolongation hepatotoxicity,,Infection
+Tiotropium Inhaler,shortness breath anxiety difficulty breathing wheezing insomnia,dry mouth urinary retention,,Asthma
+Sertraline 50mg,fatigue blurred vision dry mouth insomnia,sexual dysfunction insomnia,,Depression
+Esomeprazole 40mg,bloating heartburn frequent urination sour taste loss of appetite chest pain sore throat,diarrhea abdominal pain,,Gastroesophageal Reflux
+Tramadol 50mg,inflammation dizziness pain,dependence constipation,,Pain Relief
+Ibuprofen 400mg,headache nausea fever,GI bleeding renal risk,,Pain Relief
+Naproxen 250mg,dizziness pain headache joint pain inflammation,dyspepsia cardiovascular,,Pain Relief
+Fexofenadine 120mg,cough rash runny nose,headache back pain,,Allergy
+Amlodipine 5mg,blurred vision palpitation headache fatigue swelling,peripheral edema flushing,,Hypertension
+Ibuprofen 400mg,tenderness headache muscle ache fever inflammation joint pain,GI bleeding renal risk,,Pain Relief
+Chlorphenamine 4mg,hives runny nose swelling sneezing,sedation anticholinergic,,Allergy
+Ciprofloxacin 500mg,loss of appetite pain fatigue,tendinopathy photosensitivity,,Infection
+Empagliflozin 10mg,excessive thirst itching blurred vision fatigue slow healing,UTI genital mycosis,,Diabetes Type 2
+Diclofenac 50mg,fever weakness swelling difficulty moving joint pain inflammation,GI ulceration cardiovascular,,Arthritis
+Ranitidine 150mg,chest pain difficulty swallowing bloating burping sour taste nausea,headache confusion,,Gastroesophageal Reflux
+Sitagliptin 100mg,fatigue numbness weight loss blurred vision dry mouth frequent urination,nasopharyngitis pancreatitis,,Diabetes Type 2
+Metronidazole 400mg,fever rash pain fatigue cough,metallic taste neuropathy,,Infection
+Cetirizine 10mg,watery eyes skin irritation hives rash congestion,drowsiness dry mouth,,Allergy
+Fexofenadine 120mg,runny nose rash congestion pain,headache back pain,,Allergy
+Methotrexate 7.5mg,weakness redness difficulty moving swelling joint pain stiffness,hepatotoxicity pulmonary,,Arthritis
+Metformin 500mg,blurred vision excessive thirst slow healing dry mouth weight loss,GI upset lactic acidosis,,Diabetes Type 2
+Omeprazole 20mg,burping sore throat bloating chest pain nausea excessive thirst,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Tramadol 50mg,headache inflammation fever nausea,dependence constipation,,Pain Relief
+Celecoxib 200mg,joint pain tenderness swelling,cardiovascular edema,,Arthritis
+Venlafaxine 75mg,insomnia dizziness loss of appetite,hypertension sweating,,Depression
+Fexofenadine 120mg,runny nose itching sneezing throat irritation cough hives,headache back pain,,Allergy
+Sertraline 50mg,insomnia fatigue anxiety dry mouth,sexual dysfunction insomnia,,Depression
+Sitagliptin 100mg,recurrent infections excessive thirst weight loss blurred vision slow healing,nasopharyngitis pancreatitis,,Diabetes Type 2
+Methotrexate 7.5mg,joint pain tenderness stiffness redness cough difficulty moving,hepatotoxicity pulmonary,,Arthritis
+Empagliflozin 10mg,blurred vision recurrent infections fatigue frequent urination,UTI genital mycosis,,Diabetes Type 2
+Oseltamivir 75mg,chills headache fever congestion runny nose,nausea vomiting,,Cold & Flu
+Paracetamol 500mg,tenderness back pain redness inflammation headache,hepatotoxicity nausea,,Pain Relief
+Dextromethorphan 15mg,sore throat chills headache congestion cough,drowsiness nausea,,Cold & Flu
+Sertraline 50mg,fatigue weakness headache insomnia loss of appetite,sexual dysfunction insomnia,,Depression
+Sertraline 50mg,fatigue dry mouth insomnia loss of appetite chest pain,sexual dysfunction insomnia,,Depression
+Montelukast 10mg,chest tightness fatigue difficulty breathing insomnia cough shortness breath,neuropsychiatric headache,,Asthma
+Salbutamol Inhaler,wheezing fatigue palpitation anxiety shortness breath,tremor tachycardia,,Asthma
+Ibuprofen 400mg,fever nausea headache pain,GI bleeding renal risk,,Pain Relief
+Ciprofloxacin 500mg,rash bloating cough pain redness,tendinopathy photosensitivity,,Infection
+Fluoxetine 20mg,loss of appetite palpitation fatigue weight loss insomnia headache,initial anxiety insomnia,,Depression
+Venlafaxine 75mg,dry mouth fatigue anxiety low energy,hypertension sweating,,Depression
+Celecoxib 200mg,weakness joint pain swelling,cardiovascular edema,,Arthritis
+Esomeprazole 40mg,bloating burping cough nausea chest pain difficulty swallowing,diarrhea abdominal pain,,Gastroesophageal Reflux
+Dextromethorphan 15mg,weakness chills fatigue fever loss of appetite cough,drowsiness nausea,,Cold & Flu
+Cetirizine 10mg,rash itching runny nose hives throat irritation skin irritation,drowsiness dry mouth,,Allergy
+Sitagliptin 100mg,numbness recurrent infections fatigue excessive thirst slow healing frequent urination,nasopharyngitis pancreatitis,,Diabetes Type 2
+Tiotropium Inhaler,insomnia wheezing exercise intolerance chest tightness shortness breath,dry mouth urinary retention,,Asthma
+Pantoprazole 40mg,chest pain sour taste nausea loss of appetite bloating,headache osteoporosis,,Gastroesophageal Reflux
+Diclofenac 50mg,tenderness joint pain inflammation fatigue,GI ulceration cardiovascular,,Arthritis
+Metformin 500mg,fatigue blurred vision numbness frequent urination weakness dry mouth,GI upset lactic acidosis,,Diabetes Type 2
+Paracetamol+Phenylephrine,congestion sore throat fever chills,palpitation hypertension,,Cold & Flu
+Ciprofloxacin 500mg,swelling fatigue cough,tendinopathy photosensitivity,,Infection
+Fluoxetine 20mg,dry mouth anxiety loss of appetite insomnia dizziness pain,initial anxiety insomnia,,Depression
+Venlafaxine 75mg,anxiety weakness fatigue dizziness insomnia,hypertension sweating,,Depression
+Salbutamol Inhaler,shortness breath chest tightness anxiety cough insomnia,tremor tachycardia,,Asthma
+Atenolol 50mg,dizziness headache blurred vision shortness breath,bradycardia fatigue,,Hypertension
+Hydroxychloroquine 200mg,inflammation difficulty moving stiffness swelling,retinopathy GI upset,,Arthritis
+Naproxen 250mg,dizziness headache inflammation fever,dyspepsia cardiovascular,,Pain Relief
+Amlodipine 5mg,headache chest tightness blurred vision dizziness cough,peripheral edema flushing,,Hypertension
+Omeprazole 20mg,heartburn bloating sour taste nausea,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Diclofenac 50mg,joint pain weakness loss of appetite stiffness redness,GI ulceration cardiovascular,,Arthritis
+Salbutamol Inhaler,chest tightness wheezing cough exercise intolerance,tremor tachycardia,,Asthma
+Amoxicillin 500mg,chills fatigue swelling discharge,diarrhea hypersensitivity,,Infection
+Naproxen 250mg,pain nausea fever,dyspepsia cardiovascular,,Pain Relief
+Amoxicillin 500mg,swelling rash fatigue,diarrhea hypersensitivity,,Infection
+Fluticasone Inhaler,cough wheezing chest tightness sneezing insomnia,oral thrush hoarseness,,Asthma
+Empagliflozin 10mg,weakness blurred vision recurrent infections excessive thirst fatigue slow healing,UTI genital mycosis,,Diabetes Type 2
+Montelukast 10mg,fatigue cough chest tightness exercise intolerance shortness breath,neuropsychiatric headache,,Asthma
+Paracetamol+Phenylephrine,chills weakness fever sore throat runny nose,palpitation hypertension,,Cold & Flu
+Ibuprofen 400mg,inflammation dizziness headache fever,GI bleeding renal risk,,Pain Relief
+Escitalopram 10mg,weakness insomnia weight loss fatigue,QT prolongation,,Depression
+Losartan 50mg,insomnia swelling anxiety chest tightness headache nausea,hyperkalemia dizziness,,Hypertension
+Sertraline 50mg,anxiety cough dry mouth fatigue,sexual dysfunction insomnia,,Depression
+Atenolol 50mg,swelling palpitation headache blurred vision insomnia chest tightness,bradycardia fatigue,,Hypertension
+Enalapril 10mg,blurred vision palpitation insomnia dizziness,dry cough dizziness,,Hypertension
+Losartan 50mg,palpitation dizziness nausea,hyperkalemia dizziness,,Hypertension
+Fluoxetine 20mg,fatigue insomnia palpitation dry mouth,initial anxiety insomnia,,Depression
+Enalapril 10mg,anxiety shortness breath dizziness fatigue chest tightness,dry cough dizziness,,Hypertension
+Chlorphenamine 4mg,skin irritation hives congestion itching rash,sedation anticholinergic,,Allergy
+Pantoprazole 40mg,difficulty swallowing heartburn bloating chest pain,headache osteoporosis,,Gastroesophageal Reflux
+Methotrexate 7.5mg,joint pain swelling stiffness loss of appetite redness,hepatotoxicity pulmonary,,Arthritis
+Celecoxib 200mg,swelling fatigue stiffness,cardiovascular edema,,Arthritis
+Ciprofloxacin 500mg,chills swelling fever,tendinopathy photosensitivity,,Infection
+Loratadine 10mg,cough sneezing blurred vision itching congestion runny nose,headache fatigue,,Allergy
+Diclofenac 50mg,stiffness weakness swelling redness,GI ulceration cardiovascular,,Arthritis
+Diclofenac 50mg,fatigue loss of appetite joint pain swelling,GI ulceration cardiovascular,,Arthritis
+Enalapril 10mg,dizziness headache shortness breath anxiety palpitation excessive thirst,dry cough dizziness,,Hypertension
+Escitalopram 10mg,low energy insomnia loss of appetite headache anxiety weight loss,QT prolongation,,Depression
+Metformin 500mg,blurred vision weakness frequent urination fatigue,GI upset lactic acidosis,,Diabetes Type 2
+Empagliflozin 10mg,fatigue dry mouth frequent urination blurred vision weakness,UTI genital mycosis,,Diabetes Type 2
+Metformin 500mg,fatigue blurred vision itching,GI upset lactic acidosis,,Diabetes Type 2
+Fexofenadine 120mg,itching headache watery eyes throat irritation,headache back pain,,Allergy
+Losartan 50mg,dizziness swelling chest tightness,hyperkalemia dizziness,,Hypertension
+Sertraline 50mg,anxiety low energy headache loss of appetite fatigue dizziness,sexual dysfunction insomnia,,Depression
+Amoxicillin 500mg,cough swelling redness,diarrhea hypersensitivity,,Infection
+Sitagliptin 100mg,blurred vision joint pain weight loss fatigue itching weakness excessive thirst,nasopharyngitis pancreatitis,,Diabetes Type 2
+Diclofenac 50mg,joint pain swelling loss of appetite stiffness,GI ulceration cardiovascular,,Arthritis
+Amoxicillin 500mg,fever redness loss of appetite swelling chills weakness,diarrhea hypersensitivity,,Infection
+Omeprazole 20mg,nausea sour taste chest pain,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Ranitidine 150mg,cough burping nausea heartburn difficulty swallowing,headache confusion,,Gastroesophageal Reflux
+Clarithromycin 500mg,redness nausea fever cough fatigue headache,QT prolongation hepatotoxicity,,Infection
+Paracetamol+Phenylephrine,cough fatigue nausea,palpitation hypertension,,Cold & Flu
+Fluticasone Inhaler,chest tightness exercise intolerance cough wheezing palpitation,oral thrush hoarseness,,Asthma
+Metformin 500mg,weakness recurrent infections excessive thirst frequent urination,GI upset lactic acidosis,,Diabetes Type 2
+Esomeprazole 40mg,burping heartburn chest pain sore throat,diarrhea abdominal pain,,Gastroesophageal Reflux
+Clarithromycin 500mg,redness swelling nausea,QT prolongation hepatotoxicity,,Infection
+Omeprazole 20mg,burping sour taste nausea heartburn difficulty swallowing bloating,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Methotrexate 7.5mg,tenderness stiffness chest tightness joint pain,hepatotoxicity pulmonary,,Arthritis
+Gliclazide 80mg,itching weakness fatigue numbness excessive thirst,hypoglycemia weight gain,,Diabetes Type 2
+Cetirizine 10mg,watery eyes sneezing hives,drowsiness dry mouth,,Allergy
+Losartan 50mg,palpitation anxiety dizziness chest tightness,hyperkalemia dizziness,,Hypertension
+Metronidazole 400mg,chills fatigue cough fever discharge,metallic taste neuropathy,,Infection
+Ranitidine 150mg,fatigue heartburn nausea sore throat sour taste chest pain loss of appetite,headache confusion,,Gastroesophageal Reflux
+Metronidazole 400mg,sore throat redness fever swelling discharge rash,metallic taste neuropathy,,Infection
+Ciprofloxacin 500mg,rash fever cough pain,tendinopathy photosensitivity,,Infection
+Metronidazole 400mg,redness cough chills fatigue shortness breath discharge,metallic taste neuropathy,,Infection
+Celecoxib 200mg,inflammation joint pain fever weakness swelling,cardiovascular edema,,Arthritis
+Paracetamol 500mg,headache pain inflammation dizziness fatigue back pain,hepatotoxicity nausea,,Pain Relief
+Dextromethorphan 15mg,runny nose fatigue sore throat,drowsiness nausea,,Cold & Flu
+Oseltamivir 75mg,cough sore throat body ache runny nose,nausea vomiting,,Cold & Flu
+Fluticasone Inhaler,exercise intolerance insomnia wheezing chest tightness cough bloating,oral thrush hoarseness,,Asthma
+Salbutamol Inhaler,cough shortness breath wheezing difficulty breathing,tremor tachycardia,,Asthma
+Oseltamivir 75mg,headache fatigue cough,nausea vomiting,,Cold & Flu
+Methotrexate 7.5mg,fatigue difficulty moving joint pain inflammation swelling,hepatotoxicity pulmonary,,Arthritis
+Salbutamol Inhaler,wheezing nausea cough exercise intolerance chest tightness fatigue,tremor tachycardia,,Asthma
+Cetirizine 10mg,itching runny nose sneezing cough,drowsiness dry mouth,,Allergy
+Hydroxychloroquine 200mg,joint pain inflammation stiffness redness loss of appetite fever,retinopathy GI upset,,Arthritis
+Enalapril 10mg,insomnia palpitation headache swelling nausea,dry cough dizziness,,Hypertension
+Sitagliptin 100mg,slow healing blurred vision excessive thirst fatigue,nasopharyngitis pancreatitis,,Diabetes Type 2
+Esomeprazole 40mg,burping bloating chest pain heartburn cough sore throat,diarrhea abdominal pain,,Gastroesophageal Reflux
+Sitagliptin 100mg,blurred vision fatigue numbness weakness,nasopharyngitis pancreatitis,,Diabetes Type 2
+Celecoxib 200mg,weakness redness stiffness inflammation swelling,cardiovascular edema,,Arthritis
+Chlorphenamine 4mg,runny nose hives swelling dizziness rash,sedation anticholinergic,,Allergy
+Hydroxychloroquine 200mg,tenderness fever joint pain stiffness inflammation,retinopathy GI upset,,Arthritis
+Paracetamol 500mg,fatigue fever pain headache,hepatotoxicity nausea,,Pain Relief
+Fluticasone Inhaler,difficulty breathing chest tightness wheezing,oral thrush hoarseness,,Asthma
+Gliclazide 80mg,blurred vision weakness frequent urination weight loss dry mouth,hypoglycemia weight gain,,Diabetes Type 2
+Fluoxetine 20mg,dizziness loss of appetite fatigue,initial anxiety insomnia,,Depression
+Naproxen 250mg,back pain tenderness fever muscle ache pain,dyspepsia cardiovascular,,Pain Relief
+Metformin 500mg,frequent urination recurrent infections fatigue,GI upset lactic acidosis,,Diabetes Type 2
+Pseudoephedrine 60mg,sneezing congestion headache cough chills,insomnia elevated BP,,Cold & Flu
+Cetirizine 10mg,runny nose rash swelling congestion,drowsiness dry mouth,,Allergy
+Ranitidine 150mg,sore throat nausea bloating difficulty swallowing cough chest pain,headache confusion,,Gastroesophageal Reflux
+Methotrexate 7.5mg,joint pain difficulty moving swelling,hepatotoxicity pulmonary,,Arthritis
+Tramadol 50mg,back pain pain fever muscle ache,dependence constipation,,Pain Relief
+Sertraline 50mg,anxiety insomnia fatigue headache,sexual dysfunction insomnia,,Depression
+Pantoprazole 40mg,sore throat heartburn cough loss of appetite bloating,headache osteoporosis,,Gastroesophageal Reflux
+Clarithromycin 500mg,fatigue discharge redness,QT prolongation hepatotoxicity,,Infection
+Atenolol 50mg,headache fatigue chest tightness,bradycardia fatigue,,Hypertension
+Esomeprazole 40mg,heartburn burping insomnia nausea chest pain difficulty swallowing,diarrhea abdominal pain,,Gastroesophageal Reflux
+Fluticasone Inhaler,shortness breath chest tightness insomnia,oral thrush hoarseness,,Asthma
+Empagliflozin 10mg,recurrent infections excessive thirst blurred vision numbness slow healing,UTI genital mycosis,,Diabetes Type 2
+Chlorphenamine 4mg,watery eyes sneezing hives,sedation anticholinergic,,Allergy
+Fluticasone Inhaler,fatigue difficulty breathing palpitation shortness breath chest tightness cough swelling,oral thrush hoarseness,,Asthma
+Tramadol 50mg,joint pain headache heartburn inflammation fatigue fever nausea,dependence constipation,,Pain Relief
+Oseltamivir 75mg,cough runny nose chills swelling congestion nausea sore throat,nausea vomiting,,Cold & Flu
+Amoxicillin 500mg,rash weakness swelling fever pain discharge,diarrhea hypersensitivity,,Infection
+Losartan 50mg,dizziness headache shortness breath,hyperkalemia dizziness,,Hypertension
+Escitalopram 10mg,palpitation anxiety loss of appetite fatigue inflammation low energy weakness,QT prolongation,,Depression
+Losartan 50mg,insomnia chest tightness anxiety palpitation dizziness shortness breath,hyperkalemia dizziness,,Hypertension
+Oseltamivir 75mg,fever runny nose pain sore throat,nausea vomiting,,Cold & Flu
+Ibuprofen 400mg,fever fatigue inflammation pain dizziness,GI bleeding renal risk,,Pain Relief
+Naproxen 250mg,muscle ache runny nose dizziness fever inflammation,dyspepsia cardiovascular,,Pain Relief
+Tiotropium Inhaler,palpitation anxiety inflammation wheezing shortness breath fatigue,dry mouth urinary retention,,Asthma
+Atenolol 50mg,palpitation fever dizziness shortness breath,bradycardia fatigue,,Hypertension
+Methotrexate 7.5mg,stiffness tenderness inflammation swelling,hepatotoxicity pulmonary,,Arthritis
+Pantoprazole 40mg,nausea heartburn loss of appetite sour taste bloating sore throat,headache osteoporosis,,Gastroesophageal Reflux
+Ranitidine 150mg,sour taste difficulty swallowing nausea bloating chest pain,headache confusion,,Gastroesophageal Reflux
+Tramadol 50mg,headache pain bloating nausea muscle ache inflammation fatigue,dependence constipation,,Pain Relief
+Paracetamol+Phenylephrine,fatigue cough headache sore throat sneezing body ache,palpitation hypertension,,Cold & Flu
+Diclofenac 50mg,fatigue difficulty moving fever joint pain stiffness inflammation,GI ulceration cardiovascular,,Arthritis
+Enalapril 10mg,swelling chest tightness fatigue blurred vision palpitation dizziness,dry cough dizziness,,Hypertension
+Esomeprazole 40mg,heartburn nausea chest pain cough burping,diarrhea abdominal pain,,Gastroesophageal Reflux
+Tiotropium Inhaler,cough chest tightness shortness breath exercise intolerance,dry mouth urinary retention,,Asthma
+Sitagliptin 100mg,slow healing fatigue excessive thirst recurrent infections numbness frequent urination,nasopharyngitis pancreatitis,,Diabetes Type 2
+Omeprazole 20mg,heartburn bloating sore throat redness difficulty swallowing chest pain,hypomagnesemia C.diff,,Gastroesophageal Reflux
+Methotrexate 7.5mg,joint pain redness swelling,hepatotoxicity pulmonary,,Arthritis
+Escitalopram 10mg,anxiety palpitation insomnia,QT prolongation,,Depression
+Tramadol 50mg,headache fever nausea dizziness,dependence constipation,,Pain Relief
+Empagliflozin 10mg,blurred vision dry mouth weakness fatigue excessive thirst,UTI genital mycosis,,Diabetes Type 2
+Ranitidine 150mg,cough loss of appetite sour taste bloating nausea,headache confusion,,Gastroesophageal Reflux
+Escitalopram 10mg,weight loss dizziness headache loss of appetite insomnia fatigue,QT prolongation,,Depression
+Tramadol 50mg,itching dizziness inflammation pain nausea headache back pain,dependence constipation,,Pain Relief
+Oseltamivir 75mg,fatigue cough weakness body ache fever runny nose,nausea vomiting,,Cold & Flu
+Pseudoephedrine 60mg,fever fatigue sore throat chills,insomnia elevated BP,,Cold & Flu
+Esomeprazole 40mg,heartburn insomnia nausea sour taste cough,diarrhea abdominal pain,,Gastroesophageal Reflux
+Amoxicillin 500mg,frequent urination pain fever rash redness,diarrhea hypersensitivity,,Infection
+Fluoxetine 20mg,fever dizziness insomnia anxiety,initial anxiety insomnia,,Depression
+Loratadine 10mg,watery eyes throat irritation rash hives congestion sneezing,headache fatigue,,Allergy
+Oseltamivir 75mg,sore throat fatigue weakness nausea fever chills,nausea vomiting,,Cold & Flu
+Oseltamivir 75mg,sore throat fatigue weakness,nausea vomiting,,Cold & Flu
+Pseudoephedrine 60mg,weakness fever congestion chills cough nausea,insomnia elevated BP,,Cold & Flu
+Fluoxetine 20mg,loss of appetite fatigue insomnia weakness,initial anxiety insomnia,,Depression
+Fluoxetine 20mg,insomnia palpitation loss of appetite anxiety,initial anxiety insomnia,,Depression
+Paracetamol+Phenylephrine,fatigue fever sneezing chest tightness,palpitation hypertension,,Cold & Flu
+Hydroxychloroquine 200mg,joint pain swelling loss of appetite,retinopathy GI upset,,Arthritis
+Pseudoephedrine 60mg,cough weakness congestion fatigue,insomnia elevated BP,,Cold & Flu
+Naproxen 250mg,fever pain headache joint pain,dyspepsia cardiovascular,,Pain Relief
+Ibuprofen 400mg,pain fever muscle ache nausea dizziness,GI bleeding renal risk,,Pain Relief
+Hydroxychloroquine 200mg,joint pain stiffness swelling weakness redness,retinopathy GI upset,,Arthritis
+Ranitidine 150mg,sour taste frequent urination sore throat heartburn bloating chest pain,headache confusion,,Gastroesophageal Reflux
+Sertraline 50mg,anxiety palpitation loss of appetite fatigue low energy,sexual dysfunction insomnia,,Depression
+Venlafaxine 75mg,fatigue palpitation anxiety insomnia headache,hypertension sweating,,Depression
+Salbutamol Inhaler,chest tightness exercise intolerance palpitation shortness breath insomnia,tremor tachycardia,,Asthma
+Oseltamivir 75mg,sore throat nausea fever cough weakness chills,nausea vomiting,,Cold & Flu
+Losartan 50mg,nausea chest tightness headache,hyperkalemia dizziness,,Hypertension
+Pseudoephedrine 60mg,fatigue congestion sneezing,insomnia elevated BP,,Cold & Flu
+Empagliflozin 10mg,slow healing frequent urination fatigue,UTI genital mycosis,,Diabetes Type 2
+Methotrexate 7.5mg,swelling tenderness fever stiffness joint pain loss of appetite,hepatotoxicity pulmonary,,Arthritis
+Paracetamol 500mg,fever fatigue joint pain nausea pain,hepatotoxicity nausea,,Pain Relief
+Methotrexate 7.5mg,loss of appetite swelling inflammation fever stiffness,hepatotoxicity pulmonary,,Arthritis
+Losartan 50mg,anxiety chest tightness palpitation shortness breath bloating nausea headache,hyperkalemia dizziness,,Hypertension
+Dextromethorphan 15mg,cough nausea congestion weakness headache,drowsiness nausea,,Cold & Flu
+Chlorphenamine 4mg,itching swelling watery eyes throat irritation congestion,sedation anticholinergic,,Allergy
+Clarithromycin 500mg,fatigue discharge fever chills,QT prolongation hepatotoxicity,,Infection
+Cetirizine 10mg,watery eyes runny nose congestion,drowsiness dry mouth,,Allergy
+Fexofenadine 120mg,sneezing watery eyes rash congestion hives swelling,headache back pain,,Allergy
+Gliclazide 80mg,frequent urination fatigue weight loss slow healing,hypoglycemia weight gain,,Diabetes Type 2
+Paracetamol 500mg,muscle ache fever pain dizziness nausea headache,hepatotoxicity nausea,,Pain Relief
+Esomeprazole 40mg,bloating difficulty swallowing nausea chest pain,diarrhea abdominal pain,,Gastroesophageal Reflux
